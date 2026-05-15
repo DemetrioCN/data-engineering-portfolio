@@ -1,0 +1,865 @@
+name,brand,opening_hours,lat,lon,city,state,warehouse_id,customer_id,segment,geofence_radius_m
+Walmart Supercenter,Walmart,,19.3064706,-99.1872597,Tlalpan,Mexico City,CED001,0344608060,gold,150
+Walmart Supercenter,Walmart,"Mo-Su,PH 07:00-23:00",19.3717405,-99.1762739,Colonia del Valle,Mexico City,CED001,0232387460,bronze,150
+Walmart,Walmart,,19.3382162,-99.1841616,Coyoacan,Mexico City,CED001,0147186414,silver,150
+Walmart Express,Walmart,,19.3212772,-99.2215349,Magdalena Contreras,Mexico City,CED001,0993486876,silver,150
+Walmart Supercenter,Walmart,"Mo-Su,PH 07:00-22:00",19.369736,-99.193947,Alvaro Obregon,Mexico City,CED001,0761160384,gold,150
+Walmart Express,Walmart,,19.4222264,-99.2374153,Polanco,Mexico City,CED001,0905464023,gold,150
+Walmart Supercenter,Walmart,,19.3686146,-99.1641869,Colonia del Valle,Mexico City,CED001,0504926319,gold,150
+Walmart Express,Walmart,,19.3559387,-99.2767026,Cuajimalpa,Mexico City,CED001,0843122060,bronze,150
+Walmart,Walmart,Mo-Su 07:00-23:00,20.6154935,-100.3975719,Santiago de Queretaro,Queretaro,CED001,0148981986,gold,150
+Walmart,Walmart,,24.0365014,-104.6533742,Victoria de Durango,Durango,CED002,0075423422,gold,150
+Walmart Supercenter,Walmart,,19.3179305,-99.1255283,Coyoacan,Mexico City,CED001,0688716148,bronze,150
+Walmart Supercenter,Walmart,,19.2930643,-99.1237177,Xochimilco,Mexico City,CED001,0527218291,bronze,150
+Walmart Supercenter,Walmart,,22.1373898,-101.0027833,San Luis Potosi,San Luis Potosi,CED001,0087153055,gold,150
+Walmart,Walmart,,32.6575971,-115.41412,Mexicali,Baja California,CED002,0638455976,gold,150
+Walmart Express,Walmart,,19.3048072,-99.2209769,Magdalena Contreras,Mexico City,CED001,0303641465,silver,150
+Walmart Express,Walmart,Mo-Su 07:00-23:00,19.3445301,-99.1561411,Coyoacan,Mexico City,CED001,0623624732,silver,150
+Walmart Express,Walmart,,19.342515,-99.2482174,Magdalena Contreras,Mexico City,CED001,0204033517,bronze,150
+Walmart,Walmart,,20.6293167,-87.0762127,Playa del Carmen,Quintana Roo,CED003,0684607202,silver,150
+Walmart,Walmart,Mo-Su 08:30-20:00,18.1398778,-94.4716734,Coatzacoalcos,Veracruz,CED001,0829740802,silver,150
+Walmart Express,Walmart,Mo-Su 07:00-00:00,19.3581589,-99.1519554,Coyoacan,Mexico City,CED001,0433226283,silver,150
+Walmart,Walmart,,25.4246006,-100.9803516,Saltillo,Coahuila,CED002,0456475700,bronze,150
+Walmart,Walmart,,25.7224207,-100.2206661,Guadalupe,Nuevo Leon,CED002,0929908577,gold,150
+Walmart,Walmart,Mo-Su 07:00-22:00,19.0449581,-98.2369646,Puebla,Puebla,CED001,0142427371,bronze,150
+Walmart,Walmart,,19.05795,-98.2239308,Puebla,Puebla,CED001,0364376079,bronze,150
+Walmart Express,Walmart,,21.9249095,-102.3172616,Pocitos,Aguascalientes,CED001,0925298174,bronze,150
+Walmart Miguel Alemán,Walmart,,25.6910492,-100.239978,Guadalupe,Nuevo Leon,CED002,0401043853,bronze,150
+Walmart Express,Walmart,,19.3838955,-99.1771782,Colonia del Valle,Mexico City,CED001,0909202666,gold,150
+Walmart,Walmart,,25.615883,-100.2742737,Guadalupe,Nuevo Leon,CED002,0731156356,bronze,150
+Walmart Supercenter,Walmart,,20.2965952,-103.2444493,Ajijic,Jalisco,CED001,0196643275,bronze,150
+Walmart,Walmart,,20.6645714,-103.3483555,Guadalajara,Jalisco,CED001,0220425261,bronze,150
+Walmart Supercenter,Walmart,,19.4435046,-99.1531236,Cuauhtemoc,Mexico City,CED001,0068724793,silver,150
+Walmart,Walmart,,19.5418447,-96.9073705,Xalapa de Enriquez,Veracruz,CED001,0023086133,silver,150
+Walmart,Walmart,,19.1565412,-96.1123401,Veracruz,Veracruz,CED001,0125991060,bronze,150
+Walmart Express,Walmart,,20.6425974,-103.4145573,Guadalajara,Jalisco,CED001,0448691053,bronze,150
+Walmart,Walmart,,25.7307317,-100.369774,San Nicolas de los Garza,Nuevo Leon,CED002,0177625374,bronze,150
+Walmart Supercenter,Walmart,,25.6731942,-100.2024322,Jardines de la Silla (Jardines),Nuevo Leon,CED002,0892666714,silver,150
+Walmart,Walmart,,25.766053,-100.3172532,San Nicolas de los Garza,Nuevo Leon,CED002,0377985160,silver,150
+Walmart,Walmart,,19.4253702,-99.0289726,Colonia Gustavo Baz Prada,Mexico,CED001,0660762763,bronze,150
+Walmart,Walmart,,28.6344662,-106.119385,Chihuahua,Chihuahua,CED002,0507877718,silver,150
+Walmart Supercenter,Walmart,,19.2573498,-103.7205064,Colima,Colima,CED001,0143586287,bronze,150
+Walmart,Walmart,,27.5167106,-109.9285698,Ciudad Obregon,Sonora,CED002,0320103154,silver,150
+Estacionamiento Walmart,,,27.5154582,-109.9286771,Ciudad Obregon,Sonora,CED002,0772865914,silver,150
+Walmart Supercenter,Walmart,,19.530975,-99.1562374,Tlalnepantla,Mexico,CED001,0296099666,silver,150
+Walmart Supercenter,Walmart,,19.30805,-99.0596829,Iztapalapa,Mexico City,CED001,0399401114,gold,150
+Walmart,Walmart,,20.6487559,-103.3100069,Tlaquepaque,Jalisco,CED001,0631483448,gold,150
+Walmart Express,Walmart,,19.4348713,-99.1858689,Miguel Hidalgo,Mexico City,CED001,0309763020,bronze,150
+Walmart Express,Walmart,,19.4339538,-99.1900816,Miguel Hidalgo,Mexico City,CED001,0552036019,silver,150
+Walmart,Walmart,,20.6666951,-103.4098868,Guadalajara,Jalisco,CED001,0042380562,gold,150
+Walmart,Walmart,,22.1384368,-100.9348495,Soledad de Graciano Sanchez,San Luis Potosi,CED001,0569530535,gold,150
+Walmart,Walmart,,22.7621373,-102.5509176,Zacatecas,Zacatecas,CED001,0756734078,bronze,150
+Walmart,Walmart,,21.161556,-101.6908499,Leon,Guanajuato,CED001,0516459659,bronze,150
+Walmart,Walmart,,22.2303439,-97.8677321,Tampico,Tamaulipas,CED002,0889389191,silver,150
+Walmart,Walmart,,22.297356,-97.879949,Tampico,Tamaulipas,CED002,0887859302,silver,150
+Walmart,Walmart,,19.5089047,-96.8818018,Colonia Santa Barbara,Veracruz,CED001,0086600928,bronze,150
+Walmart CEDIS Guadalajara,,,20.4930888,-103.2720167,La Alameda,Jalisco,CED001,0967432358,silver,150
+Walmart,Walmart,,20.5341685,-100.7968926,Celaya,Guanajuato,CED001,0811374585,silver,150
+Walmart Supercenter,Walmart,,19.4055036,-99.2737331,Naucalpan de Juarez,Mexico,CED001,0540323548,silver,150
+Walmart Río Sonora,Walmart,,29.06765,-110.9684122,Hermosillo,Sonora,CED002,0303759276,silver,150
+Walmart Supercenter,Walmart,,19.2385462,-103.7155281,Colima,Colima,CED001,0400693744,bronze,150
+Walmart,Walmart,,20.6838255,-101.3666549,Irapuato,Guanajuato,CED001,0060716604,gold,150
+Walmart Culiacán,Walmart,,24.814762,-107.4092124,Culiacan,Sinaloa,CED002,0155975379,silver,150
+Walmart,Walmart,,24.1187653,-110.3431298,La Paz,Baja California Sur,CED002,0593700083,silver,150
+Walmart,Walmart,,24.0558713,-104.6113973,Victoria de Durango,Durango,CED002,0513131428,silver,150
+Walmart,Walmart,,23.752387,-99.1564482,Ciudad Victoria,Tamaulipas,CED002,0230448920,silver,150
+Walmart,Walmart,,24.004552,-104.6522798,Victoria de Durango,Durango,CED002,0294477910,silver,150
+Walmart,Walmart,,26.9090107,-101.4239765,Monclova,Coahuila,CED002,0037810343,silver,150
+Walmart Plaza Cristal,,,17.9792909,-92.9403552,Villahermosa,Tabasco,CED003,0216903701,gold,150
+Walmart,Walmart,,17.9893055,-92.969053,Brisas del Carrizal,Tabasco,CED003,0597750199,silver,150
+Walmart,Walmart,,18.0014765,-92.9247884,Villahermosa,Tabasco,CED003,0682674333,gold,150
+Walmart Supercenter,Walmart,,19.8525832,-90.5285964,Campeche,Campeche,CED003,0142270221,silver,150
+Walmart,Walmart,,28.4023967,-106.8380768,Cuauhtemoc,Chihuahua,CED002,0694635870,silver,150
+Walmart,Walmart,,22.2711544,-97.871594,Tampico,Tamaulipas,CED002,0185336887,silver,150
+Walmart,Walmart,,22.2529348,-97.8531038,Tampico,Tamaulipas,CED002,0070298731,silver,150
+Walmart 68,Walmart,,24.7791424,-107.3948419,Culiacan,Sinaloa,CED002,0876215133,silver,150
+Walmart Supercenter,Walmart,Mo-Su 07:00-22:00,19.2703357,-99.6060272,Metepec,Morelos,CED001,0827968920,bronze,150
+Walmart,Walmart,,19.2810178,-99.6393299,Toluca,Mexico,CED001,0886481560,bronze,150
+Walmart Express,Walmart,,19.2958725,-99.1552255,Tlalpan,Mexico City,CED001,0457706608,gold,150
+Walmart,Walmart,,19.4293047,-98.9103576,Santa Martha,Mexico,CED001,0243689524,bronze,150
+Walmart Express Parques Polanco,,,19.4408131,-99.1837989,Miguel Hidalgo,Mexico City,CED001,0063855814,bronze,150
+Walmart,Walmart,,26.9335338,-105.6509215,Hidalgo del Parral,Chihuahua,CED002,0175831528,gold,150
+Walmart,Walmart,,23.0538894,-109.7022061,San Jose del Cabo,Baja California Sur,CED002,0976481371,gold,150
+Walmart,Walmart,,23.2443948,-106.4237179,Mazatlan,Sinaloa,CED002,0906187424,bronze,150
+Walmart Supercenter,Walmart,,20.6565959,-105.2381214,Puerto Vallarta,Jalisco,CED001,0764437487,silver,150
+Walmart,Walmart,,31.7046706,-106.418527,Ciudad Juarez,Chihuahua,CED002,0457435303,bronze,150
+Walmart,Walmart,,31.7353352,-106.4424723,Ciudad Juarez,Chihuahua,CED002,0507644667,bronze,150
+Walmart,,,25.5076247,-103.3976943,Torreon,Coahuila,CED002,0351176665,bronze,150
+Walmart Supercenter,Walmart,,17.9784896,-102.2126162,Ciudad Lazaro Cardenas,Michoacan,CED001,0630538688,gold,150
+Walmart,Walmart,,21.4915278,-104.8816495,Tepic,Nayarit,CED001,0601251034,bronze,150
+Walmart Supercenter,Walmart,,32.6225783,-115.4556588,Mexicali,Baja California,CED002,0769311535,silver,150
+Walmart,Walmart,,25.5813536,-108.4738193,Guasave,Sinaloa,CED002,0532677315,silver,150
+Sortie du parking Walmart,,,19.4056477,-99.2723102,Naucalpan de Juarez,Mexico,CED001,0100764077,gold,150
+Walmart Supercenter,Walmart,Mo-Su 07:00-23:00,19.6795539,-101.2202865,Morelos,Michoacan,CED001,0727317516,bronze,150
+Walmart,Walmart,,20.7139039,-103.3753114,Zapopan,Jalisco,CED001,0096132988,gold,150
+Walmart,Walmart,,23.6577257,-100.6385302,Matehuala,San Luis Potosi,CED001,0069148874,bronze,150
+Walmart,,,19.605585,-99.1881001,Buenavista,Mexico,CED001,0031014016,silver,150
+Walmart Poniente Queretaro,,,20.6278381,-100.4650063,Colinas de Santa Cruz Segunda Seccion,Queretaro,CED001,0301227667,bronze,150
+Walmart Supercenter,Walmart,,20.5742272,-100.4092503,Santiago de Queretaro,Queretaro,CED001,0777365132,silver,150
+Walmart Express,Walmart,,19.5229028,-96.8919475,Lomas Verdes,Veracruz,CED001,0216723259,gold,150
+Walmart,,,20.615813,-100.3989749,Santiago de Queretaro,Queretaro,CED001,0861482661,bronze,150
+Walmart,Walmart,,19.3078085,-99.6343534,Toluca,Mexico,CED001,0225515229,silver,150
+Walmart,Walmart,,19.2582445,-99.6226826,San Jorge Pueblo Nuevo,Mexico,CED001,0671144102,silver,150
+Walmart Supercenter,Walmart,07:00-23:00,20.9970657,-89.6742824,Caucel,Yucatan,CED003,0043280723,bronze,150
+Walmart Express,Walmart,,20.6918062,-100.4448061,El Salitre,Queretaro,CED001,0216120544,bronze,150
+Walmart,Walmart,,20.6760508,-100.4328571,El Salitre,Queretaro,CED001,0183007915,gold,150
+Walmart Express,Walmart,,19.2823096,-99.1732472,Tlalpan,Mexico City,CED001,0886109066,gold,150
+Walmart,Walmart,,19.2656105,-99.170326,Tlalpan,Mexico City,CED001,0410207630,bronze,150
+Walmart,Walmart,Mo-Su 08:00-21:00,18.9559917,-99.2378287,Fraccionamiento Lomas de Ahuatlan,Morelos,CED001,0147249625,silver,150
+Walmart Supercenter,Walmart,Mo-Su 07:00-10:00,19.4175609,-99.1057521,Iztacalco,Mexico City,CED001,0350596187,bronze,150
+Walmart,Walmart,,28.1994923,-105.4650725,Ciudad Delicias,Chihuahua,CED002,0889501380,silver,150
+Walmart Express,Walmart,,19.3818449,-99.1626121,Colonia del Valle,Mexico City,CED001,0511619024,silver,150
+Sortie du parking Walmart,,,19.4055549,-99.2722868,Naucalpan de Juarez,Mexico,CED001,0420953325,bronze,150
+Entrée du parking Walmart,,,19.4048665,-99.2721423,Naucalpan de Juarez,Mexico,CED001,0949843964,silver,150
+Walmart,Walmart,,18.9013826,-99.1747505,Jiutepec,Morelos,CED001,0123628384,gold,150
+Walmart,Walmart,,31.821466,-116.600555,Ensenada,Baja California,CED002,0591733324,silver,150
+Walmart,Walmart,,19.2806056,-103.7312912,Ciudad de Villa de Alvarez,Colima,CED001,0040044695,bronze,150
+Walmart,Walmart,,20.5389573,-100.4353881,El Pueblito,Queretaro,CED001,0906917164,silver,150
+CEDIS Walmart,,,19.6038635,-99.215405,Cuautitlan Izcalli,Mexico,CED001,0351065783,silver,150
+Walmart Supercenter,Walmart,,19.3842354,-99.080422,Iztacalco,Mexico City,CED001,0133469517,bronze,150
+Walmart,Walmart,,19.2872293,-99.699357,San Jose Barbabosa,Mexico,CED001,0685682978,silver,150
+Walmart Supercenter,Walmart,,20.9946023,-89.6552849,Merida,Yucatan,CED003,0855795421,silver,150
+Walmart Sur,,,25.7855791,-109.0024024,Los Mochis,Sinaloa,CED002,0151967817,bronze,150
+Walmart,Walmart,,25.6638941,-100.2420475,Guadalupe,Nuevo Leon,CED002,0235657652,bronze,150
+Walmart Express Oradores,,24/7,19.5196912,-99.2463367,Vista Hermosa,Mexico,CED001,0061229606,gold,150
+Walmart,,,14.8752805,-92.2825507,Cebadilla 1ra. Seccion,Chiapas,CED003,0729903290,silver,150
+Walmart Las Alamedas,,,19.5545531,-99.2441415,Ciudad Lopez Mateos,Mexico,CED001,0628273090,bronze,150
+Walmart Montejo,,,20.9861587,-89.6159531,Merida,Yucatan,CED003,0555862946,gold,150
+Walmart,,,31.8682686,-116.6093657,Ensenada,Baja California,CED002,0972154324,silver,150
+Walmart,Walmart,,19.5429377,-99.2137542,Tlalnepantla,Mexico,CED001,0535755750,bronze,150
+Walmart,Walmart,Mo-Su 07:00-23:00,18.9025915,-96.9596757,San Jose de Abajo [Unidad Habitacional],Veracruz,CED001,0530530670,bronze,150
+Walmart,Walmart,,31.6335624,-106.3934245,Socorro,Texas,Unknown,0315240401,silver,150
+Centro de Distribución WalMart Monterrey,,,25.8804667,-100.2328838,Entronque Laredo-Salinas Victoria,Nuevo Leon,CED002,0420405943,bronze,150
+Walmart Express,Walmart,,19.3899251,-99.1756754,Colonia del Valle,Mexico City,CED001,0516630160,bronze,150
+Walmart,Walmart,,32.4936538,-116.8519718,Terrazas del Valle,Baja California,CED002,0588251637,silver,150
+Walmart,Walmart,,20.6544551,-87.080986,Playa del Carmen,Quintana Roo,CED003,0305594941,bronze,150
+Walmart Supercenter,Walmart,Mo-Su 7:00-22:00,21.0097091,-89.6219013,Merida,Yucatan,CED003,0652179182,gold,150
+Walmart Express,,,21.0138874,-89.6135785,Merida,Yucatan,CED003,0571583550,silver,150
+Walmart,Walmart,,19.6773898,-99.1482687,Tultepec,Mexico,CED001,0876088903,silver,150
+Walmart,,,25.6437389,-100.3617338,Garza Garcia,Nuevo Leon,CED002,0040703995,gold,150
+Walmart,Walmart,,32.4956784,-116.9347382,San Luis,Baja California,CED002,0950708974,silver,150
+Walmart,Walmart,,31.2892777,-110.94162,Nogales,Sonora,CED002,0477287864,silver,150
+Walmart Express,Walmart,,19.4350622,-99.2095777,Miguel Hidalgo,Mexico City,CED001,0494935794,bronze,150
+Walmart Express,Walmart,,20.6946251,-103.384171,Zapopan2,Jalisco,CED001,0103187120,gold,150
+Walmart,Walmart,,18.5150213,-88.2812557,Chetumal,Quintana Roo,CED003,0124060374,bronze,150
+Walmart,Walmart,,22.9032144,-109.8991831,Cabo San Lucas,Baja California Sur,CED002,0657382002,silver,150
+Walmart Supercenter,Walmart,,19.4254216,-102.0380574,Uruapan,Michoacan,CED001,0963036509,silver,150
+Walmart,,,19.0194569,-98.1986274,Puebla,Puebla,CED001,0052613391,silver,150
+Walmart Supercenter,Walmart,,25.6753317,-100.4510267,Santa Catarina,Nuevo Leon,CED002,0678218599,silver,150
+Walmart,Walmart,,22.1655906,-100.9990293,San Luis Potosi,San Luis Potosi,CED001,0929187088,bronze,150
+Walmart,Walmart,,25.6524327,-100.209608,Jardines de la Silla (Jardines),Nuevo Leon,CED002,0961544849,gold,150
+Walmart Express,Walmart,,25.678906,-100.3641394,Garza Garcia,Nuevo Leon,CED002,0073275624,silver,150
+Walmart Supercenter,Walmart,,19.2948448,-99.1091815,Xochimilco,Mexico City,CED001,0068142450,silver,150
+Farmacia Walmart,,,19.3273804,-99.0830629,Iztapalapa,Mexico City,CED001,0310806760,bronze,150
+Walmart,Walmart,,20.3537963,-102.056849,La Piedad Cavadas,Michoacan,CED001,0652915552,silver,150
+Walmart Supercenter,Walmart,,20.997731,-89.5759965,Merida,Yucatan,CED003,0818420155,gold,150
+Walmart Supercenter,,,21.1100311,-101.6101012,Fraccionamiento Paraiso Real,Guanajuato,CED001,0750441226,silver,150
+Walmart SuperCenter Valle Real,Walmart,,20.7296914,-103.4506815,Nuevo Mexico,Jalisco,CED001,0459945161,gold,150
+Walmart Express,Walmart,,20.731029,-103.4331921,Nuevo Mexico,Jalisco,CED001,0167325989,bronze,150
+Walmart,Walmart,,20.6571305,-103.4490454,Guadalajara,Jalisco,CED001,0612568104,bronze,150
+Walmart,,,19.3068004,-99.0596986,Iztapalapa,Mexico City,CED001,0179351921,gold,150
+Walmart Express,Walmart,,19.490273,-99.1340218,Colonia Lindavista,Mexico,CED001,0855681775,silver,150
+Walmart Express,Walmart,,19.3930088,-99.1542427,Benito Juarez,Mexico City,CED001,0131645543,bronze,150
+Walmart Express,Walmart,,18.9352361,-99.2076141,Colonia los Cerritos,Morelos,CED001,0645180341,bronze,150
+Walmart,Walmart,,25.6656145,-100.2805387,Guadalupe,Nuevo Leon,CED002,0237454566,silver,150
+Walmart,Walmart,,18.4680763,-97.4154745,Tehuacan,Puebla,CED001,0008935275,silver,150
+Walmart Supercenter,Walmart,,20.603543,-103.4005028,Paseo del Prado,Jalisco,CED001,0086243535,silver,150
+Walmart,Walmart,,21.8825958,-102.2580382,Aguascalientes,Aguascalientes,CED001,0546000647,bronze,150
+Walmart Express,Walmart,,20.6931838,-103.4406003,Zapopan2,Jalisco,CED001,0687459212,silver,150
+Walmart,Walmart,,32.5283392,-117.1186835,Imperial Beach,California,CED002,0295635515,bronze,150
+Walmart Supercenter,Walmart,,20.809964,-102.7778371,Tepatitlan de Morelos,Jalisco,CED001,0307928601,silver,150
+Walmart,Walmart,,18.8366256,-99.2137051,Temixco,Morelos,CED001,0245454738,bronze,150
+Walmart,Walmart,,19.6384616,-99.2233795,Cuautitlan Izcalli,Mexico,CED001,0247842361,bronze,150
+Walmart,Walmart,,27.4818168,-109.927085,Ciudad Obregon,Sonora,CED002,0170612283,silver,150
+Walmart,,,19.2853186,-99.5914091,Santa Maria Totoltepec,Mexico,CED001,0805241106,silver,150
+Walmart,Walmart,,16.2315157,-95.208428,La Noria,Oaxaca,CED003,0977697097,silver,150
+Walmart,Walmart,,16.7532671,-93.1362163,Tuxtla Gutierrez,Chiapas,CED003,0941491153,bronze,150
+Walmart Express,Walmart,,19.3392205,-99.1266005,Coyoacan,Mexico City,CED001,0844032887,gold,150
+Walmart Supercenter,Walmart,,19.3987618,-99.2889231,San Bartolome Coatepec,Mexico,CED001,0135918497,bronze,150
+Walmart Express,Walmart,,19.3728901,-99.2789704,Col. Bosques de las Lomas,Mexico City,CED001,0669239431,bronze,150
+Walmart Supercenter,Walmart,,19.5530701,-99.2905056,Ciudad Lopez Mateos,Mexico,CED001,0131301925,silver,150
+Walmart,Walmart,,25.7939408,-100.3272884,General Escobedo,Nuevo Leon,CED002,0308712274,bronze,150
+Walmart,,,19.6693049,-101.1641144,Montana Monarca (Punta Altozano),Michoacan,CED001,0855475265,silver,150
+Walmart,,,19.6893331,-99.2247403,Axotlan,Mexico,CED001,0013558802,gold,150
+Walmart,Walmart,,16.7505212,-93.0764066,Tuxtla Gutierrez,Chiapas,CED003,0650911138,silver,150
+Walmart Express,Walmart,,18.9368052,-99.2474479,Cuernavaca,Morelos,CED001,0919077292,silver,150
+Walmart,Walmart,Mo-Su 07:00-23:00,18.8625788,-97.0948134,Orizaba,Veracruz,CED001,0752628134,gold,150
+Walmart,,,25.456902,-100.980962,Saltillo,Coahuila,CED002,0947676474,bronze,150
+Walmart,Walmart,,28.6189818,-106.0290466,Chihuahua,Chihuahua,CED002,0348042970,silver,150
+Walmart Supercenter,Walmart,Mo-Su 08:00-22:30,19.4196954,-99.0940449,Venustiano Carranza,Mexico City,CED001,0277590301,gold,150
+Walmart Supercenter,Walmart,,20.5875543,-103.4427492,La Tijera,Jalisco,CED001,0008576558,silver,150
+Walmart Express,Walmart,,19.3448608,-99.1351934,Coyoacan,Mexico City,CED001,0432396429,silver,150
+Walmart Supercenter,Walmart,,32.3784659,-117.0589563,Rosarito,Baja California,CED002,0122674184,silver,150
+Walmart,Walmart,,19.8246235,-90.5457555,Campeche,Campeche,CED003,0267253319,silver,150
+Rampa de Ingreso Walmart,,,20.8099522,-102.7786698,Tepatitlan de Morelos,Jalisco,CED001,0232236842,silver,150
+Walmart,Walmart,,19.2992241,-98.8859091,Ixtapaluca,Mexico,CED001,0775010524,gold,150
+Estacionamiento Walmart,,,19.8524106,-90.52924,Campeche,Campeche,CED003,0709218363,bronze,150
+Walmart,Walmart,,21.038754,-89.6043101,Merida,Yucatan,CED003,0794100112,silver,150
+Walmart Paseo Real,,,25.7601867,-100.4053828,Mitras Poniente,Nuevo Leon,CED002,0099475836,silver,150
+Walmart,Walmart,,25.7599588,-100.4054872,Mitras Poniente,Nuevo Leon,CED002,0254298992,silver,150
+Walmart,Walmart,,32.4878693,-116.9455419,San Luis,Baja California,CED002,0401855888,silver,150
+Walmart La Mesa,,,32.4875523,-116.9457451,San Luis,Baja California,CED002,0333673214,bronze,150
+Walmart,Walmart,,19.5189913,-99.1168461,Colonia Lindavista,Mexico,CED001,0033883894,bronze,150
+Walmart Supercenter,Walmart,,21.8598263,-102.2960654,Aguascalientes,Aguascalientes,CED001,0816864378,bronze,150
+Walmart Supercenter,Walmart,Mo-Su 08:00-22:00,28.7274465,-106.1299761,Chihuahua,Chihuahua,CED002,0224567791,silver,150
+Walmart Express,Walmart,Mo-Su 07:00-23:00,19.4152626,-99.1780745,Polanco,Mexico City,CED001,0410238252,bronze,150
+Walmart,Walmart,,29.0983153,-110.9941515,Hermosillo,Sonora,CED002,0014703266,bronze,150
+Walmart,Walmart,,19.6927456,-101.1488709,Puerto de Buenavista (Lazaro Cardenas),Michoacan,CED001,0813204489,silver,150
+Walmart La Isla,Walmart,,24.8249887,-107.3702406,Culiacan,Sinaloa,CED002,0858124151,bronze,150
+Walmart,Walmart,,19.6591248,-99.0184522,Santo Tomas Chiconautla,Mexico,CED001,0613494965,silver,150
+Walmart,Walmart,,19.2994268,-98.9534528,San Miguel Xico Viejo,Mexico,CED001,0355191350,gold,150
+Walmart,Walmart,,19.0770185,-98.2243385,Sanctorum,Puebla,CED001,0083578012,silver,150
+Walmart Express,Walmart,,19.033006,-98.2249872,Puebla,Puebla,CED001,0233889739,bronze,150
+Walmart Express,Walmart,,18.9442032,-99.2278842,Cuernavaca,Morelos,CED001,0831607115,silver,150
+Walmart Sendero,,,25.768915,-100.2694215,San Nicolas de los Garza,Nuevo Leon,CED002,0372131294,silver,150
+Walmart Linda Vista,,,25.6919106,-100.2406527,Guadalupe,Nuevo Leon,CED002,0503082883,silver,150
+Walmart,Walmart,,29.1221182,-110.9492411,Hermosillo,Sonora,CED002,0296306033,silver,150
+Walmart,Walmart,,21.0984411,-101.6601165,Leon,Guanajuato,CED001,0163062078,bronze,150
+Walmart Express,Walmart,,18.9562867,-99.2463575,Fraccionamiento Lomas de Ahuatlan,Morelos,CED001,0544745552,bronze,150
+Walmart Supercenter,Walmart,,19.515425,-99.2310742,Vista Hermosa,Mexico,CED001,0585867030,gold,150
+Walmart,Walmart,,19.3726598,-99.1763395,Colonia del Valle,Mexico City,CED001,0791360157,silver,150
+Walmart,Walmart,,19.7899192,-99.0547159,Arbolada los Sauces,Mexico,CED001,0308859555,silver,150
+Walmart,Walmart,,23.7405969,-99.1347435,Ciudad Victoria,Tamaulipas,CED002,0848660782,silver,150
+Walmart Supercenter,Walmart,,19.2613176,-98.878062,Chalco de Diaz Covarrubias,Mexico,CED001,0273345249,gold,150
+Walmart,Walmart,,22.277706,-97.8420689,Ciudad Madero,Tamaulipas,CED002,0332714482,silver,150
+Walmart,Walmart,,28.697911,-106.139114,Chihuahua,Chihuahua,CED002,0443633853,silver,150
+Walmart Supercenter,Walmart,,28.6658722,-106.1307812,Chihuahua,Chihuahua,CED002,0095504673,bronze,150
+Walmart Supercenter,Walmart,,32.4744702,-117.0004853,Tijuana,Baja California,CED002,0383212032,silver,150
+Walmart Colosio,Walmart,Mo-Su 07:00-23:00,29.0833106,-111.0214687,Hermosillo,Sonora,CED002,0111191425,bronze,150
+Walmart Supercenter,Walmart,,19.3445769,-99.1827557,Coyoacan,Mexico City,CED001,0576088163,bronze,150
+Walmart Supercenter,Walmart,,17.5256642,-99.489861,Chilpancingo de los Bravos,Guerrero,CED003,0108754617,silver,150
+Walmart,Walmart,,16.7447666,-92.660117,San Antonio del Monte,Chiapas,CED003,0607668459,bronze,150
+Walmart,Walmart,,21.1251674,-86.8754778,Alfredo V. Bonfil,Quintana Roo,CED003,0594168744,bronze,150
+Walmart Express,Walmart,,19.0762595,-96.093022,Playa de la Libertad,Veracruz,CED001,0209728607,silver,150
+Walmart Express,Walmart,,19.4223365,-99.2055158,Polanco,Mexico City,CED001,0703338161,silver,150
+Walmart Express,Walmart,Mo-Su 07:00-23:00,19.3395759,-99.2188186,Magdalena Contreras,Mexico City,CED001,0986040164,silver,150
+Walmart,Walmart,,16.844763,-99.847337,Acapulco de Juarez,Guerrero,CED003,0545266182,bronze,150
+Walmart,Superama,,19.5066127,-99.25961,Ejido del Tejocote,Mexico,CED001,0143624396,gold,150
+Walmart Supercenter,Walmart,,20.559802,-100.4273835,El Pueblito,Queretaro,CED001,0051115820,bronze,150
+Walmart Supercenter,Walmart,,19.5160229,-99.2677855,Rincon Verde,Mexico,CED001,0695823288,silver,150
+Walmart Supercenter,Walmart,Mo-Su 07:00-22:00,19.4092548,-99.075272,Iztacalco,Mexico City,CED001,0037766153,gold,150
+Walmart,Walmart,,19.3238448,-98.2297135,Acxotla del Rio,Tlaxcala,CED001,0666347440,gold,150
+Walmart Supercenter,Walmart,,19.249667,-99.5897545,San Salvador Tizatlalli,Mexico,CED001,0993368084,bronze,150
+Walmart,Walmart,,19.0172782,-98.2634913,Tlazcalancingo,Puebla,CED001,0395797253,bronze,150
+Walmart Supercenter,Walmart,,20.743896,-103.4095565,Zapopan2,Jalisco,CED001,0664017917,gold,150
+Walmart Supercenter,Walmart,,25.7915827,-100.2476839,Fraccionamiento Cosmopolis Octavo Sector,Nuevo Leon,CED002,0614686394,gold,150
+Walmart,,,25.5074343,-103.3973905,Torreon,Coahuila,CED002,0054818236,bronze,150
+Walmart Supercenter,Walmart,,19.3640196,-99.2886505,Cuajimalpa,Mexico City,CED001,0497170384,silver,150
+Walmart,Walmart,,21.1543228,-86.8337325,Cancun,Quintana Roo,CED003,0925941031,gold,150
+Walmart,Walmart,,25.8058384,-108.990648,Los Mochis,Sinaloa,CED002,0618664001,silver,150
+Walmart Supercenter,Walmart,,20.5832283,-101.2246184,Salamanca,Guanajuato,CED001,0210942763,silver,150
+Walmart Progreso,,,29.1440844,-110.9799237,Hermosillo,Sonora,CED002,0531790713,gold,150
+Walmart,Walmart,,25.8594122,-97.5195236,Heroica Matamoros,Tamaulipas,CED002,0257982560,bronze,150
+Walmart Reforma Huinala,Walmart,,25.7236045,-100.1642325,Fraccionamiento Mision de San Javier,Nuevo Leon,CED002,0721977509,bronze,150
+Walmart,Walmart,,20.6572342,-101.3432144,Irapuato,Guanajuato,CED001,0765534141,gold,150
+Walmart Supercenter,Walmart,,19.5159382,-98.8685193,Texcoco de Mora,Mexico,CED001,0229209730,bronze,150
+Walmart,Walmart,,18.9328078,-99.2275323,Cuernavaca,Morelos,CED001,0478447121,silver,150
+Walmart,Walmart,,18.9343885,-99.1965867,Colonia los Cerritos,Morelos,CED001,0147363008,bronze,150
+Walmart,Walmart,,14.8742921,-92.2833104,Cebadilla 1ra. Seccion,Chiapas,CED003,0989572741,gold,150
+Walmart,Walmart,,21.9662905,-98.9933711,Ciudad Valles,San Luis Potosi,CED001,0421266933,gold,150
+Walmart Supercenter,Walmart,,21.3439694,-101.9458741,Lagos de Moreno,Jalisco,CED001,0358151994,bronze,150
+Walmart Poniente,,,20.6289273,-100.4651105,Colinas de Santa Cruz Segunda Seccion,Queretaro,CED001,0415121605,gold,150
+Walmart,Walmart,,20.5686805,-97.437351,Villa de las Flores,Veracruz,CED001,0961194818,gold,150
+Walmart,Walmart,,20.9478096,-97.4334483,Alto Lucero,Veracruz,CED001,0899972784,bronze,150
+Walmart Express,Walmart,Mo-Su 07:00-22:00,19.1817045,-99.5898311,San Andres Ocotlan,Morelos,CED001,0927146063,silver,150
+Walmart,Walmart,,19.2134364,-96.1921704,Rio Medio [Granja],Veracruz,CED001,0799253644,silver,150
+Walmart Express,Walmart,,20.6857445,-103.3956332,Guadalajara,Jalisco,CED001,0325784232,silver,150
+Walmart Supercenter,Walmart,,20.7444311,-103.3876492,Zapopan,Jalisco,CED001,0414612886,silver,150
+Walmart,Walmart,,32.5957582,-115.3608351,Puebla,Baja California,CED002,0933341119,gold,150
+Walmart,Walmart,,20.0884977,-98.7191646,Colinas de Plata,Hidalgo,CED001,0892313063,silver,150
+Walmart Supercenter,Walmart,Mo-Su 08:00-23:00,32.63368,-115.3850494,Islas Agrarias Grupo A,Baja California,CED002,0805523828,gold,150
+Walmart Express,Walmart,,20.7089804,-103.4110818,Zapopan2,Jalisco,CED001,0395145143,gold,150
+Walmart Express,,,19.3649564,-99.1894244,Alvaro Obregon,Mexico City,CED001,0698605219,silver,150
+Walmart,Walmart,,25.5765728,-103.4143499,Torreon,Coahuila,CED002,0130649881,silver,150
+Walmart,,,25.6449742,-100.1682408,Valle de Juarez,Nuevo Leon,CED002,0361740615,silver,150
+Walmart,,,20.997099,-89.6739085,Caucel,Yucatan,CED003,0736828734,silver,150
+Walmart Express,,,19.3024715,-99.2070618,Magdalena Contreras,Mexico City,CED001,0089328691,bronze,150
+Walmart fundidores Lopez mateos,Walmart,,25.733662,-100.2461405,San Nicolas de los Garza,Nuevo Leon,CED002,0106448130,bronze,150
+Walmart,Walmart,"Mo-Su,PH 07:00-23:00",20.6703019,-87.064092,Playa del Carmen,Quintana Roo,CED003,0946784958,bronze,150
+Walmart Supercenter,Walmart,,19.6771221,-103.4762453,Ciudad Guzman,Jalisco,CED001,0882414006,silver,150
+Walmart Supercenter,Walmart,,29.3192884,-100.9556492,Ciudad Acuna,Coahuila,CED002,0378572630,bronze,150
+Walmart Express,Walmart,,21.1596119,-86.8197395,Cancun,Quintana Roo,CED003,0507223291,silver,150
+Walmart,Walmart,,25.8071194,-100.22328,Fraccionamiento Cosmopolis Octavo Sector,Nuevo Leon,CED002,0420466879,silver,150
+Walmart Express,Walmart,,21.1121062,-86.8413163,Alfredo V. Bonfil,Quintana Roo,CED003,0675994177,gold,150
+Walmart,Walmart,,25.6453693,-100.1681501,Valle de Juarez,Nuevo Leon,CED002,0232319777,bronze,150
+Walmart Supercenter,Walmart,,31.6722874,-106.3863173,Socorro,Texas,Unknown,0515688620,silver,150
+Walmart Express,Walmart,,21.0013614,-89.5931361,Merida,Yucatan,CED003,0079708737,bronze,150
+Walmart,,,20.7133495,-100.4469401,Santa Rosa Jauregui,Queretaro,CED001,0501639053,bronze,150
+Walmart,Walmart,,19.0562996,-98.1601438,Casa Blanca,Puebla,CED001,0800847123,silver,150
+Walmart,Walmart,,19.068167,-98.1746352,Puebla,Puebla,CED001,0201983847,silver,150
+Walmart Express,Walmart,,18.9834761,-98.1950896,18 de Marzo,Puebla,CED001,0383159463,gold,150
+Walmart,Walmart,,19.0194063,-98.198253,Puebla,Puebla,CED001,0203995178,bronze,150
+Walmart,Walmart,,18.9865291,-98.2398805,El Capulo (La Quebradora),Puebla,CED001,0543137283,bronze,150
+Walmart,Walmart,,18.99726,-98.2790175,Santa Clara,Puebla,CED001,0013147891,bronze,150
+Walmart Express,Walmart,,19.0496416,-98.2481638,Santiago Momoxpan,Puebla,CED001,0325419297,bronze,150
+Walmart,Walmart,,25.8669084,-97.4762507,Heroica Matamoros,Tamaulipas,CED002,0775510629,silver,150
+Walmart Express,Walmart,,19.3182206,-99.2111505,Magdalena Contreras,Mexico City,CED001,0630314458,gold,150
+Walmart Express,Walmart,,19.4068446,-99.2391052,Col. Bosques de las Lomas,Mexico City,CED001,0869030283,silver,150
+Walmart,Walmart,,32.6212346,-115.506706,Vinas del Sol,Baja California,CED002,0626116320,bronze,150
+Walmart,Walmart,,18.1024748,-96.1336721,Tuxtepec,Oaxaca,CED003,0125458180,silver,150
+Walmart,Walmart,,25.780021,-100.2147237,Fraccionamiento Cosmopolis Octavo Sector,Nuevo Leon,CED002,0925292992,bronze,150
+Walmart,Walmart,,20.9864077,-89.6161048,Merida,Yucatan,CED003,0504532306,gold,150
+Walmart Centro de Distribucion,,,28.8437891,-106.1946372,Chihuahua,Chihuahua,CED002,0610951364,silver,150
+Walmart Supercenter,Walmart,,22.1096145,-100.8923382,La Pila,San Luis Potosi,CED001,0150793940,silver,150
+Walmart Tecomán,,,18.9321498,-103.8896985,Tecoman,Colima,CED001,0044677227,bronze,150
+Walmart,Walmart,,31.3080925,-113.521563,Puerto Penasco,Sonora,CED002,0688958556,gold,150
+Walmart Express,Walmart,,19.407113,-99.2386439,Col. Bosques de las Lomas,Mexico City,CED001,0099379460,bronze,150
+Walmart Supercenter,Walmart,,32.5756063,-116.617677,Tecate,Baja California,CED002,0989002278,silver,150
+Walmart Supercenter,Walmart,,22.8893504,-109.9090489,Cabo San Lucas,Baja California Sur,CED002,0913875489,silver,150
+Walmart,Walmart,,29.1265335,-111.0218091,Hermosillo,Sonora,CED002,0217432043,bronze,150
+Liverpool,,,20.6340511,-105.2291159,Puerto Vallarta,Jalisco,CED001,0445074263,bronze,150
+Cerrada Liverpool,,,29.1270169,-110.9462898,Hermosillo,Sonora,CED002,0450934351,bronze,150
+Avenida Liverpool,,,29.0771309,-110.9661511,Hermosillo,Sonora,CED002,0250790872,silver,150
+Liverpool,Liverpool,Mo-Su 11:00-21:00,19.4336921,-99.1826966,Miguel Hidalgo,Mexico City,CED001,0367060679,bronze,150
+Calle Liverpool,,,19.3294294,-98.237287,Acxotla del Rio,Tlaxcala,CED001,0818133310,silver,150
+Liverpool Polanco,,,19.4345569,-99.1830655,Miguel Hidalgo,Mexico City,CED001,0242121511,gold,150
+Liverpool,Liverpool,Mo-Su 11:00-21:00,19.4033557,-99.15491,Benito Juarez,Mexico City,CED001,0117276853,silver,150
+Boulevard Liverpool,,,32.6303531,-115.5006083,Vinas del Sol,Baja California,CED002,0632598936,bronze,150
+Boulevard Liverpool,,,32.6303794,-115.5005343,Mexicali,Baja California,CED002,0768047558,silver,150
+Liverpool,Liverpool,Mo-Su 11:00-21:00,18.1398249,-94.4669401,Coatzacoalcos,Veracruz,CED001,0240999096,bronze,150
+Privada Liverpool,,,19.3292606,-98.2372348,Acxotla del Rio,Tlaxcala,CED001,0390282768,silver,150
+Liverpool,Liverpool,Mo-Su 11:00-21:00,18.140154,-94.4878006,Puerto Esmeralda,Veracruz,CED001,0876212077,silver,150
+Avenida Liverpool,,,25.7943939,-109.0272633,Plan de Ayala (Campo Cinco),Sinaloa,CED002,0220453176,bronze,150
+Calle Puerto Liverpool,,,20.6174009,-103.2868513,Tlaquepaque,Jalisco,CED001,0031844365,bronze,150
+Liverpool,Liverpool,Mo-Su 11:00-21:00,19.540156,-96.906688,Xalapa de Enriquez,Veracruz,CED001,0944051600,silver,150
+Liverpool,,,25.6154049,-100.2879382,Monterrey,Nuevo Leon,CED002,0757013814,silver,150
+Puerto Liverpool,,,25.6508915,-100.2832705,Guadalupe,Nuevo Leon,CED002,0546926678,bronze,150
+Privada Liverpool,,,25.6931267,-100.3772692,Garza Garcia,Nuevo Leon,CED002,0252413618,silver,150
+Privada Liverpool,,,25.737226,-100.3926713,Mitras Poniente,Nuevo Leon,CED002,0898911630,silver,150
+Liverpool,,,25.6142708,-100.2861872,Monterrey,Nuevo Leon,CED002,0933350212,gold,150
+Liverpool,,,25.7112094,-100.1997551,Fraccionamiento Mision de San Javier,Nuevo Leon,CED002,0909730446,gold,150
+Colinas de Liverpool,,,25.6928308,-100.3772331,Garza Garcia,Nuevo Leon,CED002,0822677604,gold,150
+Calle Liverpool,,,27.488074,-109.9590103,Ciudad Obregon,Sonora,CED002,0718689134,silver,150
+Calle Liverpool,,,27.4880161,-109.96173,Ciudad Obregon,Sonora,CED002,0865215848,gold,150
+Liverpool,Liverpool,Mo-Su 10:00-21:00,16.754914,-93.1494238,Tuxtla Gutierrez,Chiapas,CED003,0615110808,bronze,150
+Calle Liverpool,,,19.6916338,-101.1480191,Puerto de Buenavista (Lazaro Cardenas),Michoacan,CED001,0323220095,gold,150
+Liverpool,Liverpool,Mo-Su 11:00-21:00,23.7744799,-99.136104,Ciudad Victoria,Tamaulipas,CED002,0786878832,silver,150
+Liverpool,Liverpool,Mo-Su 11:00-21:00,24.035191,-104.6498291,Victoria de Durango,Durango,CED002,0037226600,silver,150
+Liverpool,,Mo-Su 11:00-21:00,29.0876969,-110.9633679,Hermosillo,Sonora,CED002,0572620561,silver,150
+Liverpool,Liverpool,Mo-Su 11:00-21:00,25.7825994,-109.0044755,Los Mochis,Sinaloa,CED002,0801752582,bronze,150
+Liverpool Monterrey Centro,,,25.6656796,-100.3150395,Monterrey,Nuevo Leon,CED002,0133964732,silver,150
+Liverpool,Liverpool,Mo-Su 11:00-21:00,21.0397512,-89.6302296,Merida,Yucatan,CED003,0030567608,bronze,150
+Liverpool,,Mo-Su 11:00-21:00,21.8508856,-102.2935976,Aguascalientes,Aguascalientes,CED001,0899506719,gold,150
+Edificio Liverpool,,,19.4311935,-99.1331743,Mexico City,Mexico City,CED001,0789688422,bronze,150
+Calle Liverpool,,,21.5148269,-104.922994,Tepic,Nayarit,CED001,0429306248,bronze,150
+Calle Liverpool,,,19.5488787,-99.2182794,Tlalnepantla,Mexico,CED001,0384805702,bronze,150
+Calle Liverpool,,,20.678722,-101.3667902,Irapuato,Guanajuato,CED001,0253553456,silver,150
+Calle Liverpool,,,20.6963885,-101.3646962,Irapuato,Guanajuato,CED001,0585817297,silver,150
+Bodegas Liverpool,,,19.2731179,-103.6689919,Colima,Colima,CED001,0015376572,bronze,150
+Calle Liverpool,,,20.5486971,-100.8971088,Colonia Fraccionamiento el Puente,Guanajuato,CED001,0664734206,bronze,150
+Callejón Liverpool,,,23.1987816,-106.4270359,Mazatlan,Sinaloa,CED002,0367387413,gold,150
+Corporativo Liverpool,,,19.3596303,-99.2760094,Cuajimalpa,Mexico City,CED001,0732671224,silver,150
+Calle Liverpool,,,20.6232347,-100.4460261,Rancho Bellavista [Fraccionamiento],Queretaro,CED001,0819994262,silver,150
+Calle Liverpool,,,20.6230168,-100.44597,Rancho Bellavista [Fraccionamiento],Queretaro,CED001,0487906123,bronze,150
+Liverpool,Liverpool,Mo-Su 11:00-21:00,17.0439648,-96.7160148,San Antonio de la Cal,Oaxaca,CED003,0903619888,gold,150
+Calle Liverpool,,,19.7797432,-99.0041266,Paseos de San Juan,Mexico,CED001,0092201898,silver,150
+Calle Liverpool,,,22.7402747,-102.4896312,Martinez Dominguez,Zacatecas,CED001,0116491895,bronze,150
+Liverpool,Liverpool,Mo-Su 11:00-21:00,20.6754572,-103.3471069,Guadalajara,Jalisco,CED001,0541253803,bronze,150
+Calle Liverpool,,,25.7732965,-100.278307,San Nicolas de los Garza,Nuevo Leon,CED002,0605422248,bronze,150
+Liverpool,Liverpool,Mo-Su 11:00-21:00,32.6565107,-115.4764807,Calexico,California,CED002,0517501628,gold,150
+Liverpool,,Mo-Su 11:00-21:00,21.4916448,-104.8653797,Tepic,Nayarit,CED001,0401650663,silver,150
+Calle Liverpool,,,19.425163,-99.1622981,Cuauhtemoc,Mexico City,CED001,0789574880,gold,150
+Avenida Liverpool,,,25.7672535,-103.2744247,Jaboncillo,Coahuila,CED002,0217768445,silver,150
+Liverpool,,,25.7197631,-100.2178708,Guadalupe,Nuevo Leon,CED002,0392328305,bronze,150
+Callejón Liverpool,,,25.6915577,-100.1156174,Loma la Paz,Nuevo Leon,CED002,0914613907,silver,150
+Avenida Liverpool,,,25.7877108,-109.0318347,Plan de Ayala (Campo Cinco),Sinaloa,CED002,0211545454,gold,150
+Calle Puerto de Liverpool,,,20.6163559,-103.2876087,Tlaquepaque,Jalisco,CED001,0728909241,silver,150
+Liverpool,Liverpool,Mo-Su 11:00-21:00,18.4687465,-97.4171496,Tehuacan,Puebla,CED001,0898027066,silver,150
+Avenida Liverpool,,,25.7897268,-109.0304795,Plan de Ayala (Campo Cinco),Sinaloa,CED002,0684173519,bronze,150
+Liverpool,Liverpool,Mo-Su 11:00-21:00,16.2331405,-95.2108846,La Noria,Oaxaca,CED003,0989488608,gold,150
+Liverpool,Liverpool,Mo-Su 11:00-21:00,19.0703895,-98.1735718,San Sebastian de Aparicio,Puebla,CED001,0123761158,silver,150
+Hotel Liverpool,,,19.43003,-99.124705,Mexico City,Mexico City,CED001,0910914432,bronze,150
+Liverpool,Liverpool,Mo-Su 11:00-21:00,19.3726482,-99.1788066,Colonia del Valle,Mexico City,CED001,0861250380,silver,150
+Calle Liverpool,,,25.7911887,-100.3456278,General Escobedo,Nuevo Leon,CED002,0497870795,silver,150
+Liverpool,Liverpool,Mo-Su 11:00-21:00,16.7452522,-93.0740287,Tuxtla Gutierrez,Chiapas,CED003,0165922465,silver,150
+Liverpool,,Mo-Su 11:00-21:00,20.3853112,-100.0129104,Vista Hermosa (Cuasinada),Queretaro,CED001,0645060166,bronze,150
+Calle Liverpool,,,20.5487499,-100.897205,Colonia Fraccionamiento el Puente,Guanajuato,CED001,0818872168,silver,150
+Calle Liverpool,,,19.4238255,-99.1651574,Benito Juarez,Mexico City,CED001,0384280666,bronze,150
+Calle Liverpool,,,19.4280174,-99.1562839,Cuauhtemoc,Mexico City,CED001,0736128876,silver,150
+Liverpool,Liverpool,Mo-Su 11:00-21:00,19.8573181,-90.5215113,Campeche,Campeche,CED003,0675654273,bronze,150
+Privada Río de Liverpool,,,19.5745204,-99.3232745,San Miguel Hila,Mexico,CED001,0081834743,bronze,150
+Bodega Liverpool,,,19.4985644,-96.8332833,Jacarandas,Veracruz,CED001,0387100910,gold,150
+Villa Liverpool,,,25.6360705,-100.1218847,Hector Caballero,Nuevo Leon,CED002,0369536290,bronze,150
+Liverpool Cumbres,,,25.731052,-100.394909,Mitras Poniente,Nuevo Leon,CED002,0244755090,silver,150
+Calle Liverpool,,,26.09184,-98.3339476,Reynosa,Tamaulipas,CED002,0247968439,gold,150
+Circuito Villa Liverpool,,,20.5057228,-103.3364063,Paseos del Valle [Fraccionamiento],Jalisco,CED001,0931794254,silver,150
+Circuito Villa Liverpool,,,20.5052869,-103.337959,Paseos del Valle [Fraccionamiento],Jalisco,CED001,0825460204,bronze,150
+Circuito Villa Liverpool,,,20.5059046,-103.339591,Paseos del Valle [Fraccionamiento],Jalisco,CED001,0970300646,bronze,150
+Circuito Villa Liverpool,,,20.5063419,-103.3380389,Paseos del Valle [Fraccionamiento],Jalisco,CED001,0874143464,silver,150
+CDR Liverpool,,,22.0311066,-102.269134,Paseos de la Providencia [Fraccionamiento],Aguascalientes,CED001,0689295574,gold,150
+Calle Liverpool,,,20.6386447,-100.2061529,Paseos del Marques,Queretaro,CED001,0680442038,bronze,150
+Parque recreativo Liverpool,,,20.6963046,-101.3646553,Irapuato,Guanajuato,CED001,0499706439,silver,150
+Calle Playa Liverpool,,,20.6245077,-101.6844342,Cueramaro,Guanajuato,CED001,0495137788,silver,150
+Liverpool,,,25.8022076,-100.4888836,Valle de Lincoln,Nuevo Leon,CED002,0889383676,gold,150
+Liverpool,Liverpool,Mo-Su 11:00-21:00,17.5152548,-99.4839462,Petaquillas,Guerrero,CED003,0003366837,gold,150
+Restaurante Liverpool,,,17.514787,-99.4843635,Petaquillas,Guerrero,CED003,0640812303,silver,150
+Privada Playa Liverpool,,,20.6248492,-101.6828227,Cueramaro,Guanajuato,CED001,0164366567,silver,150
+Calle Liverpool,,,25.9126811,-100.1657718,Hacienda San Pedro,Nuevo Leon,CED002,0143417466,silver,150
+Calle Liverpool,,,25.7376934,-100.3934631,Mitras Poniente,Nuevo Leon,CED002,0196005699,gold,150
+Calle Liverpool,,,25.738396,-100.3932451,Mitras Poniente,Nuevo Leon,CED002,0815757465,silver,150
+Calle Liverpool,,,25.7374865,-100.3931063,Mitras Poniente,Nuevo Leon,CED002,0587102916,silver,150
+Privada Liverpool,,,25.7374308,-100.3921165,Mitras Poniente,Nuevo Leon,CED002,0997980488,gold,150
+Calle Liverpool,,,25.7374453,-100.3929013,Mitras Poniente,Nuevo Leon,CED002,0940893181,silver,150
+Calle Villa Liverpool,,,25.636302,-100.1229117,Hector Caballero,Nuevo Leon,CED002,0704744302,silver,150
+Calle Villa Liverpool,,,25.6363844,-100.1231918,Hector Caballero,Nuevo Leon,CED002,0101384073,silver,150
+Calle Liverpool,,,19.0783476,-98.1736052,San Sebastian de Aparicio,Puebla,CED001,0170057017,silver,150
+Avenida Liverpool,,,25.7839221,-109.03447,Plan de Ayala (Campo Cinco),Sinaloa,CED002,0953165780,bronze,150
+Liverpool,Liverpool,Mo-Su 11:00-21:00,19.5494074,-99.2735787,Ciudad Lopez Mateos,Mexico,CED001,0863116006,bronze,150
+Calle Liverpool,,,19.5487392,-99.2176971,Tlalnepantla,Mexico,CED001,0296443501,bronze,150
+Calle Liverpool,,,19.5500222,-99.217728,Tlalnepantla,Mexico,CED001,0340725816,gold,150
+Calle Liverpool,,,19.1555369,-98.762495,Santo Tomas Atzingo,Mexico,CED001,0548421202,bronze,150
+CDR Liverpool Aguascalientes,,,22.0303538,-102.2688209,Paseos de la Providencia [Fraccionamiento],Aguascalientes,CED001,0086858163,bronze,150
+Liverpool,Liverpool,,25.575208,-100.2428826,Bosques de San Pedro,Nuevo Leon,CED002,0335665519,silver,150
+Boulevard Liverpool,,,32.6320645,-115.5018063,Vinas del Sol,Baja California,CED002,0633790364,gold,150
+Privada Liverpool,,,19.6972076,-98.762974,Otumba de Gomez Farias,Morelos,CED001,0889196281,silver,150
+Liverpool,Liverpool,Mo-Su 11:00-21:00,18.8634188,-97.0979799,Orizaba,Veracruz,CED001,0178316089,bronze,150
+CEDIS Liverpool,,,19.7124754,-99.1930546,San Jose del Puente,Mexico,CED001,0133913058,bronze,150
+Liverpool,,Mo-Su 11:00-21:00,26.949961,-101.4135909,Monclova,Coahuila,CED002,0980142097,gold,150
+Calle Liverpool,,,21.8740451,-102.3198584,La Loma de los Negritos,Aguascalientes,CED001,0826661563,silver,150
+Privada Liverpool,,,18.9517301,-99.2224687,Cuernavaca,Morelos,CED001,0576922689,bronze,150
+Calle Liverpool,,,19.4232202,-99.1663873,Benito Juarez,Mexico City,CED001,0757025361,gold,150
+Calle Liverpool,,,19.5489342,-99.2186874,Tlalnepantla,Mexico,CED001,0513477945,gold,150
+Calle Liverpool,,,19.5494044,-99.2178244,Tlalnepantla,Mexico,CED001,0437683947,bronze,150
+Liverpool,Liverpool,Mo-Su 11:00-21:00,22.2608569,-97.876573,Tampico,Tamaulipas,CED002,0721824649,bronze,150
+Liverpool,Liverpool,Mo-Su 11:00-21:00,20.6144539,-87.1008606,Playa del Carmen,Quintana Roo,CED003,0227892924,silver,150
+Liverpool,Liverpool,Mo-Su 11:00-21:00,20.9501511,-97.4188185,Tuxpan de Rodriguez Cano,Veracruz,CED001,0314329690,gold,150
+Liverpool,Liverpool,,20.6289563,-87.071002,Playa del Carmen,Quintana Roo,CED003,0603087600,silver,150
+Privada Liverpool,,,18.9515047,-99.2225057,Cuernavaca,Morelos,CED001,0751755110,silver,150
+Liverpool,Liverpool,Mo-Su 11:00-21:00,20.0263472,-102.277176,Romero de Guzman,Michoacan,CED001,0462314735,bronze,150
+Liverpool,Liverpool,Mo-Su 11:00-21:00,20.583888,-101.2300842,Salamanca,Guanajuato,CED001,0585403139,bronze,150
+Calle Liverpool,,,21.8755814,-102.3197397,La Loma de los Negritos,Aguascalientes,CED001,0153930749,bronze,150
+CEDIS LIVERPOOL Prologis,,,25.7837722,-100.1740051,Apodaca,Nuevo Leon,CED002,0210575930,bronze,150
+Liverpool,,,16.7736324,-99.7770717,10 de Abril,Guerrero,CED003,0852897726,silver,150
+Liverpool,Liverpool,Mo-Su 11:00-21:00,32.5142017,-116.9672051,Tijuana,Baja California,CED002,0990005122,bronze,150
+Avenida Liverpool,,,25.7907455,-109.0297815,Plan de Ayala (Campo Cinco),Sinaloa,CED002,0435342008,bronze,150
+Liverpool,Liverpool,Mo-Su 11:00-21:00,18.888897,-96.9472357,Cordoba,Veracruz,CED001,0199053408,silver,150
+Liverpool,Liverpool,Mo-Su 11:00-21:00,14.8937193,-92.2746166,Tapachula,Chiapas,CED003,0359150050,bronze,150
+Liverpool,Liverpool,Mo-Su 11:00-21:00,17.6483761,-101.5493643,Ixtapa-Zihuatanejo,Guerrero,CED003,0362837346,gold,150
+Calle Liverpool,,,19.4252793,-99.1620503,Cuauhtemoc,Mexico City,CED001,0404620817,silver,150
+Liverpool,Liverpool,Mo-Su 11:00-21:00,19.3145914,-99.0771952,Iztapalapa,Mexico City,CED001,0711785210,gold,150
+Calle Liverpool,,,19.4249321,-99.1627931,Cuauhtemoc,Mexico City,CED001,0757717664,bronze,150
+Calle Liverpool,,,19.4235062,-99.1658398,Benito Juarez,Mexico City,CED001,0141279570,bronze,150
+Calle Liverpool,,,19.4244315,-99.1638623,Benito Juarez,Mexico City,CED001,0371001131,silver,150
+Calle Liverpool,,,19.4256072,-99.1613567,Cuauhtemoc,Mexico City,CED001,0108604609,silver,150
+Calle Liverpool,,,19.42669,-99.1590755,Cuauhtemoc,Mexico City,CED001,0820205194,gold,150
+Calle Liverpool,,,19.4261077,-99.1603001,Cuauhtemoc,Mexico City,CED001,0135737443,silver,150
+Calle Liverpool,,,19.427318,-99.1577548,Cuauhtemoc,Mexico City,CED001,0979140563,silver,150
+Liverpool,Liverpool,Mo-Su 11:00-21:00,19.3824609,-99.0830384,Iztacalco,Mexico City,CED001,0632497216,bronze,150
+Cedis Liverpool,,,18.8467399,-99.1959724,Emiliano Zapata,Morelos,CED001,0853767554,silver,150
+Avenida Liverpool,,,25.7896412,-109.0305328,Plan de Ayala (Campo Cinco),Sinaloa,CED002,0937602202,silver,150
+Avenida Liverpool,,,25.7895539,-109.0305858,Plan de Ayala (Campo Cinco),Sinaloa,CED002,0811977983,silver,150
+Avenida Liverpool,,,25.7893994,-109.0306796,Plan de Ayala (Campo Cinco),Sinaloa,CED002,0036696898,gold,150
+Centro de distibucion de Liverpool,,,19.5903076,-99.1812595,Buenavista,Mexico,CED001,0633153829,silver,150
+Liverpool,,Mo-Su 10:00-20:00,21.5102903,-104.8917244,Tepic,Nayarit,CED001,0525848747,silver,150
+Coppel,Coppel,Mo-Sa 08:30-20:00,18.1425787,-94.4748728,Coatzacoalcos,Veracruz,CED001,0966537489,gold,150
+Coppel,Coppel,,19.3200614,-98.2362785,Acxotla del Rio,Tlaxcala,CED001,0917145147,bronze,150
+Coppel,,,25.4345536,-101.0055119,Saltillo,Coahuila,CED002,0262575876,silver,150
+Coppel,Coppel,,19.5259259,-96.931094,Xalapa de Enriquez,Veracruz,CED001,0617813549,silver,150
+Mercado Soriana / Coppel,,,25.5345058,-103.2512891,Matamoros,Coahuila,CED002,0849321529,silver,150
+Coppel,,,25.7104361,-100.261755,Guadalupe,Nuevo Leon,CED002,0615498771,bronze,150
+Coppel,,,19.5316596,-101.6108986,Patzcuaro,Michoacan,CED001,0510914889,bronze,150
+Coppel,,,32.6518078,-115.3773836,Islas Agrarias Grupo A,Baja California,CED002,0587898154,silver,150
+Coppel,Coppel,,21.9668398,-98.9997025,Ciudad Valles,San Luis Potosi,CED001,0559572971,gold,150
+Coppel Tacubaya,,,19.4034393,-99.1871765,Polanco,Mexico City,CED001,0602470536,silver,150
+Coppel Buenavista,,,19.4400295,-99.1549951,Cuauhtemoc,Mexico City,CED001,0919518136,bronze,150
+Coppel,,,20.0582583,-99.3332028,San Marcos,Hidalgo,CED001,0128928764,silver,150
+Calle Blázquez Coppel,,,23.7309864,-99.1133331,Ciudad Victoria,Tamaulipas,CED002,0693580007,silver,150
+Coppel,Coppel,,20.519763,-100.8102978,Celaya,Guanajuato,CED001,0689028039,bronze,150
+Avenida Ernesto Coppel Campaña,,,23.3508834,-106.4920372,El Habal,Sinaloa,CED002,0687659529,silver,150
+Coppel,,,23.2229577,-106.4189392,Mazatlan,Sinaloa,CED002,0775802607,bronze,150
+Coppel Santa Rosa,,,23.2591012,-106.4064871,Mazatlan,Sinaloa,CED002,0420568322,silver,150
+Coppel,Coppel,,25.7585896,-103.000968,San Pedro de Las Colonias,Coahuila,CED002,0874296567,silver,150
+Coppel,Coppel,,24.7981244,-107.3935879,Culiacan,Sinaloa,CED002,0626735767,bronze,150
+Coppel Los Mangos,,,23.2565,-106.4239956,Mazatlan,Sinaloa,CED002,0403543717,gold,150
+Coppel,,,20.5484253,-100.6911389,Apaseo el Grande,Guanajuato,CED001,0966633535,silver,150
+Coppel,,,25.5071337,-103.4019732,Torreon,Coahuila,CED002,0322168478,bronze,150
+Coppel,Coppel,,17.9697579,-102.2105026,Ciudad Lazaro Cardenas,Michoacan,CED001,0531218315,silver,150
+Coppel,Coppel,,19.4861101,-99.0498606,Gustavo A. Madero,Mexico City,CED001,0071611115,silver,150
+Coppel,Coppel,,19.4097441,-98.9282764,Santa Martha,Mexico,CED001,0516950101,silver,150
+Coppel,Coppel,,17.957644,-102.1944835,Ciudad Lazaro Cardenas,Michoacan,CED001,0798875849,gold,150
+Coppel,Coppel,,17.955198,-94.9195513,Acayucan,Veracruz,CED001,0219730907,silver,150
+Coppel,Coppel,,19.3032459,-99.055024,Iztapalapa,Mexico City,CED001,0023059612,silver,150
+COPPEL,,,28.4069643,-106.8648999,Cuauhtemoc,Chihuahua,CED002,0839375690,silver,150
+Coppel,Coppel,,24.8008331,-107.3912004,Culiacan,Sinaloa,CED002,0131436973,bronze,150
+Coppel,Coppel,,21.4968646,-104.8829558,Tepic,Nayarit,CED001,0289561629,bronze,150
+Coppel,,,19.9575647,-99.5329371,Jilotepec de Molina Enriquez,Mexico,CED001,0308475969,gold,150
+Coppel,,,19.000364,-98.2308107,Puebla,Puebla,CED001,0060067281,gold,150
+Coppel,Coppel,9:30 - 20:00,19.8253799,-90.5344296,Campeche,Campeche,CED003,0771400934,gold,150
+Coppel,Coppel,,21.9857181,-99.016362,Ciudad Valles,San Luis Potosi,CED001,0297183181,bronze,150
+Coppel,Coppel,,20.5470222,-104.0466523,Ameca,Jalisco,CED001,0194720948,silver,150
+Coppel Peralvillo,Coppel,,19.4535188,-99.1293766,Cuauhtemoc,Mexico City,CED001,0016645372,bronze,150
+Coppel,,,19.6475912,-99.2078219,Cuautitlan Izcalli,Mexico,CED001,0830087164,silver,150
+Coppel,,,25.3669866,-108.1534252,Angostura,Sinaloa,CED002,0654031414,bronze,150
+Coppel,,"Mo-Sa 10:00-20:00, Su 9:30-15:00",20.588178,-100.3936387,Santiago de Queretaro,Queretaro,CED001,0289810428,silver,150
+Coppel,,10:00-20:00,25.5803389,-100.0011904,Cadereyta,Nuevo Leon,CED002,0831304566,gold,150
+Coppel,Coppel,,25.5340423,-103.250767,Matamoros,Coahuila,CED002,0483371941,bronze,150
+Coppel,Coppel,,19.7974339,-99.1034465,Zumpango,Mexico,CED001,0757187189,gold,150
+Coppel Valle Alto,,,24.804292,-107.4651045,Culiacancito,Sinaloa,CED002,0020702942,silver,150
+Coppel y Zorro,,,19.4405714,-99.2498461,Naucalpan de Juarez,Mexico,CED001,0258467952,silver,150
+Coppel,Coppel,,31.8661281,-116.6229556,Ensenada,Baja California,CED002,0107105869,gold,150
+Coppel 8 de Julio,,Mo-Su 10:00-22:00,20.5844787,-103.3857069,Paseo del Prado,Jalisco,CED001,0050973636,gold,150
+Coppel,Coppel,,25.7439714,-100.1750224,Apodaca,Nuevo Leon,CED002,0437268827,bronze,150
+Coppel,Coppel,,19.3078362,-99.1647003,Tlalpan,Mexico City,CED001,0690674513,silver,150
+Coppel,Coppel,,14.892996,-92.2756797,Tapachula,Chiapas,CED003,0256280296,bronze,150
+Coppel,Coppel,Mo-Sa 10:00-20:30; Su 10:00-16:00,18.9001366,-96.9979019,Fortin de las Flores,Veracruz,CED001,0151758019,silver,150
+Coppel,Coppel,,20.4454828,-97.3239965,Papantla de Olarte,Veracruz,CED001,0497171181,silver,150
+Coppel,Coppel,,20.6893901,-88.2007685,Valladolid,Yucatan,CED003,0075555668,gold,150
+Coppel,,Mo-Th 09:30-20:00; Fr-Sa 09:30-20:30; Su 10:00-17:00; PH off,20.5272121,-103.3785501,Villas de la Hacienda [Fraccionamiento],Jalisco,CED001,0443087140,silver,150
+Coppel,Coppel,,20.6499018,-103.3407647,Tlaquepaque,Jalisco,CED001,0928980381,bronze,150
+Coppel,Coppel,,25.6730165,-100.3144055,Monterrey,Nuevo Leon,CED002,0298049114,bronze,150
+Coppel,Coppel,,19.5407797,-96.907525,Xalapa de Enriquez,Veracruz,CED001,0927986302,bronze,150
+Coppel,Coppel,,20.7312766,-105.2818634,San Clemente de Lima,Nayarit,CED001,0729700549,gold,150
+Coppel,Coppel,,25.6716776,-100.3148264,Monterrey,Nuevo Leon,CED002,0309129159,silver,150
+Coppel,Coppel,,25.6726675,-100.3184174,Monterrey,Nuevo Leon,CED002,0564977737,silver,150
+Coppel,,,24.7635594,-107.453953,El Diez,Sinaloa,CED002,0063000073,silver,150
+Coppel,Coppel,,19.5621974,-97.2451122,Perote,Veracruz,CED001,0407096982,silver,150
+Coppel,Coppel,09:00-22:00,18.4506224,-96.3523017,Rancho Grande,Oaxaca,CED003,0274511766,silver,150
+Coppel,Coppel,09:00-22:00,18.4478891,-96.3570426,Rancho Grande,Oaxaca,CED003,0197488078,silver,150
+Coppel,,,19.272262,-99.4603384,Ocoyoacac,Morelos,CED001,0218074363,bronze,150
+Coppel,Coppel,,19.2893598,-99.6951884,San Jose Barbabosa,Mexico,CED001,0415172377,gold,150
+Coppel,,,25.5478967,-103.4759454,Gomez Palacio,Durango,CED002,0228170025,silver,150
+Coppel Villa Vivero,,,25.5464359,-103.5198256,Ciudad Lerdo,Coahuila,CED002,0751604467,silver,150
+Coppel,Coppel,,17.0611968,-96.7269979,Oaxaca de Juarez,Oaxaca,CED003,0129316546,bronze,150
+Coppel,Coppel,,20.4486149,-97.0882654,Gutierrez Zamora,Veracruz,CED001,0648796215,silver,150
+Coppel,Coppel,Mo-Su 10:00-21:00,18.8360847,-97.146439,Nogales,Veracruz,CED001,0121726822,silver,150
+Coppel,Coppel,,19.3276767,-98.9467958,San Isidro,Mexico,CED001,0805046254,silver,150
+Coppel,Coppel,,21.5159934,-104.8909564,Tepic,Nayarit,CED001,0104813061,bronze,150
+Coppel,Coppel,,21.1442844,-88.1506641,Tizimin,Yucatan,CED003,0137018174,silver,150
+Coppel Constitucion,,,31.3233753,-113.5399055,Puerto Penasco,Sonora,CED002,0391962175,gold,150
+Coppel carranza,,,26.9020488,-101.4180936,Monclova,Coahuila,CED002,0184509679,bronze,150
+Coppel,Coppel,,19.4058526,-102.0537978,Uruapan,Michoacan,CED001,0083437767,silver,150
+Coppel San Andrés,,,19.5501287,-99.0747615,Puerto Escondido (Tepeolulco Puerto Escondido),Mexico,CED001,0068071218,bronze,150
+Coppel,Coppel,,19.3520593,-99.0783621,Iztapalapa,Mexico City,CED001,0184215213,silver,150
+Coppel Las Rosas,,,25.5539611,-103.5063155,Gomez Palacio,Durango,CED002,0389398951,gold,150
+Coppel Rio Mayo,,,21.0831012,-101.6404053,San Jose de Duran (Los Troncoso),Guanajuato,CED001,0257868909,bronze,150
+Coppel,,,21.1394662,-101.6336194,Medina,Guanajuato,CED001,0568690161,silver,150
+Cedis Coppel,,,20.5755983,-103.337258,Las Pintas de Arriba,Jalisco,CED001,0385538292,bronze,150
+Cedis Coppel,,,20.5744106,-103.3390105,Las Pintas de Arriba,Jalisco,CED001,0383498354,bronze,150
+Coppel Las Pintas,,,20.5698214,-103.3333966,Las Pintas de Arriba,Jalisco,CED001,0979947393,gold,150
+Coppel,,Mo-Sa 10:30-20:30; Su 10:00-17:00,20.6562227,-103.4326619,Guadalajara,Jalisco,CED001,0869610855,gold,150
+Coppel Mercado del Mar,,,20.7314266,-103.3891589,Zapopan,Jalisco,CED001,0790854593,silver,150
+Coppel,Coppel,,18.9233035,-99.2091324,Cuernavaca,Morelos,CED001,0466240264,silver,150
+Coppel,Coppel,,20.6090449,-103.3410186,Las Pintas de Arriba,Jalisco,CED001,0122447224,silver,150
+Coppel Zapata,,,17.7416713,-91.772792,Emiliano Zapata,Chiapas,CED003,0954844564,silver,150
+Coppel,Coppel,,19.7038819,-103.4831799,Ciudad Guzman,Jalisco,CED001,0620154732,silver,150
+Coppel Plateros,,,18.5527721,-99.6028008,Taxco de Alarcon,Guerrero,CED003,0874106951,bronze,150
+Coppel,Coppel,,20.8158802,-102.752657,Tepatitlan de Morelos,Jalisco,CED001,0211519207,bronze,150
+Coppel,,,19.4008376,-99.0615707,Iztacalco,Mexico City,CED001,0597483918,silver,150
+Coppel Sur 16,,,19.3948182,-99.0762135,Iztacalco,Mexico City,CED001,0418165195,silver,150
+Estacionamiento Coppel,,,19.394598,-99.0762585,Iztacalco,Mexico City,CED001,0919925305,silver,150
+Coppel,Coppel,,16.4332489,-95.0207895,Juchitan de Zaragoza,Oaxaca,CED003,0178391688,bronze,150
+Coppel,Coppel,,19.3214167,-99.0861314,Iztapalapa,Mexico City,CED001,0509557586,silver,150
+Coppel Colosio,,,23.2310039,-106.3878461,Mazatlan,Sinaloa,CED002,0941827825,bronze,150
+Coppel,Coppel,,32.4265341,-116.9626348,Villa del Prado 2da Seccion,Baja California,CED002,0498663506,bronze,150
+Coppel Corregidora,,,20.6442865,-100.9935536,Santa Cruz de Juventino Rosas,Guanajuato,CED001,0885791940,silver,150
+Coppel Pilares,,,19.2783229,-99.5941059,San Salvador Tizatlalli,Mexico,CED001,0148881336,bronze,150
+Coppel,Coppel,,31.3228438,-109.5527981,Agua Prieta,Sonora,CED002,0426060924,bronze,150
+Coppel,,,20.4520033,-101.5281074,Abasolo,Guanajuato,CED001,0392152556,silver,150
+pozo coppel,,,19.6431334,-99.0598708,Alborada Jaltenco,Mexico,CED001,0906507664,silver,150
+Coppel,,,19.6772421,-101.2324109,Morelos,Michoacan,CED001,0042840945,gold,150
+Coppel,Coppel,,17.553431,-92.9473411,Teapa,Tabasco,CED003,0006539459,silver,150
+Coppel,Coppel,,24.0442355,-104.629862,Victoria de Durango,Durango,CED002,0745410484,gold,150
+Coppel,Coppel,,20.5255159,-97.4632829,Poza Rica de Hidalgo,Veracruz,CED001,0120298735,bronze,150
+Coppel,,,20.4856463,-100.9626911,Cortazar,Guanajuato,CED001,0593643890,gold,150
+Coppel,Coppel,,16.7431141,-93.1040965,Tuxtla Gutierrez,Chiapas,CED003,0609027264,bronze,150
+Coppel,Coppel,,29.5498798,-104.4224674,Manuel Ojinaga,Chihuahua,CED002,0586734713,gold,150
+BanCoppel,Coppel,,21.542318,-105.2818403,San Blas,Nayarit,CED001,0657222122,silver,150
+Coppel Independencia,,,22.5705485,-102.2503896,Pozo de Jarillas,Zacatecas,CED001,0786854757,bronze,150
+Coppel,Coppel,,19.3596417,-99.0914468,Iztapalapa,Mexico City,CED001,0896180868,silver,150
+Coppel,Coppel,,19.3058534,-98.2393577,San Miguel Tlamahuco,Tlaxcala,CED001,0454834827,bronze,150
+Coppel,Coppel,,19.4114689,-99.0802489,Iztacalco,Mexico City,CED001,0704913727,silver,150
+Coppel,,,18.6060078,-90.7301962,Escarcega,Campeche,CED003,0754167464,bronze,150
+Coppel Elías Calles,,,29.0783771,-110.9515386,Hermosillo,Sonora,CED002,0286092027,bronze,150
+Coppel Canada Matamoros,,,29.0782567,-110.9521822,Hermosillo,Sonora,CED002,0820485566,bronze,150
+Coppel,Coppel,,29.0806897,-110.9538743,Hermosillo,Sonora,CED002,0502586833,gold,150
+Coppel,Coppel,,29.0561207,-110.9654968,Hermosillo,Sonora,CED002,0981293023,gold,150
+Coppel,,,29.029434,-110.9590381,Hermosillo,Sonora,CED002,0096636667,bronze,150
+Coppel López Portillo,,,29.126242,-110.9615239,Hermosillo,Sonora,CED002,0963148698,silver,150
+Coppel Lázaro Cárdenas,,,29.1182293,-110.9794957,Hermosillo,Sonora,CED002,0483049365,bronze,150
+Coppel Quiroga,,,29.1143773,-111.0218933,Hermosillo,Sonora,CED002,0027414334,gold,150
+Coppel,Coppel,Mo-Su 08:00-20:00,32.3676741,-117.0611323,Rosarito,Baja California,CED002,0147120354,silver,150
+Coppel,,,19.3646124,-99.0838666,Iztapalapa,Mexico City,CED001,0659320009,bronze,150
+Coppel,Coppel,Mo-Su 09:00-20:00,18.520077,-88.3219662,Chetumal,Quintana Roo,CED003,0712281950,gold,150
+Coppel,Coppel,,19.6000533,-99.0455456,Ecatepec,Mexico,CED001,0901107865,bronze,150
+Coppel,,,20.6236334,-103.3937715,Guadalajara,Jalisco,CED001,0621477658,gold,150
+Coppel,,,24.8157665,-107.4261381,Culiacan,Sinaloa,CED002,0508808263,silver,150
+COPPEL,,,27.5177155,-99.5629756,Laredo,Texas,Unknown,0625151648,silver,150
+Coppel,Coppel,,19.355434,-99.1027115,Iztapalapa,Mexico City,CED001,0304360764,bronze,150
+Coppel,Coppel,,22.2504902,-97.8650208,Tampico,Tamaulipas,CED002,0900228465,silver,150
+Coppel,Coppel,,20.7320833,-103.4522289,Nuevo Mexico,Jalisco,CED001,0336412968,silver,150
+Coppel Manuel Doblado,,,20.7288772,-101.9520519,Ciudad Manuel Doblado,Guanajuato,CED001,0930162160,silver,150
+Coppel,Coppel,,21.5108084,-104.8922841,Tepic,Nayarit,CED001,0565598291,silver,150
+Coppel Río Bravo,,Mo-Sa 10:00-20:00,19.3690779,-98.9615012,Los Reyes La Paz,Mexico,CED001,0310265873,silver,150
+Coppel Puebla,,,21.5112974,-104.8941795,Tepic,Nayarit,CED001,0044734027,silver,150
+Coppel,Coppel,,31.6362577,-106.4102729,Socorro,Texas,Unknown,0289941992,silver,150
+COPPEL,,,24.7942825,-107.421487,Culiacan,Sinaloa,CED002,0670698546,bronze,150
+COPPEL,,,24.7945938,-107.4216823,Culiacan,Sinaloa,CED002,0531838684,bronze,150
+Coppel Citadina,,,26.0094051,-98.2752751,Vamos Tamaulipas,Tamaulipas,CED002,0427067652,silver,150
+Coppel,Coppel,,31.656197,-106.4316891,Ciudad Juarez,Chihuahua,CED002,0180804424,gold,150
+Coppel,Coppel,,19.2987155,-98.9514018,San Miguel Xico Viejo,Mexico,CED001,0125229564,silver,150
+Coppel Solidaridad,,,19.2796849,-98.9109111,Chalco de Diaz Covarrubias,Mexico,CED001,0220531131,bronze,150
+Coppel,Coppel,,19.27808,-98.9451787,San Miguel Xico Viejo,Mexico,CED001,0115905998,bronze,150
+Coppel,Coppel,,19.2619518,-98.8986086,Chalco de Diaz Covarrubias,Mexico,CED001,0518085769,silver,150
+Coppel,Coppel,Mo-Sa 10:00-20:30; Su 10:00-16:00,18.8921775,-96.9315482,Cordoba,Veracruz,CED001,0644317221,silver,150
+Coppel,Coppel,Mo-Sa 10:00-20:30; Su 10:00-16:00,18.8886673,-96.934781,Cordoba,Veracruz,CED001,0296756040,silver,150
+Coppel,Coppel,Mo-Su 10:00-21:00,18.8459506,-97.1046845,Orizaba,Veracruz,CED001,0560902621,gold,150
+Coppel,Coppel,,19.1502946,-96.9622984,Huatusco de Chicuellar,Veracruz,CED001,0848788488,silver,150
+Coppel,Coppel,,19.3566633,-99.1159382,Colonia Nativitas,Mexico City,CED001,0182267983,silver,150
+Coppel,Coppel,Mo-Su 10:00-21:00,19.0726309,-97.0427966,Heroica Coscomatepec de Bravo,Veracruz,CED001,0737918718,gold,150
+Coppel Atzacoalco,,,19.5018629,-99.0944873,Gustavo A. Madero,Mexico City,CED001,0946489771,gold,150
+Coppel,,,31.8596016,-116.6052646,Ensenada,Baja California,CED002,0347581102,silver,150
+Coppel,Coppel,,31.6341579,-106.3907971,Socorro,Texas,Unknown,0434936512,bronze,150
+Coppel,Coppel,Mo-Sa 10:00-20:30; Su 10:00-15:00,18.8938151,-96.9325797,Cordoba,Veracruz,CED001,0226912726,gold,150
+Coppel,Coppel,,18.5257773,-88.2928098,Chetumal,Quintana Roo,CED003,0582463825,silver,150
+Coppel,,,21.9444151,-105.2977472,San Vicente,Nayarit,CED001,0865690997,bronze,150
+Coppel,Coppel,Mo-Su 10:00-21:00,18.9004816,-96.9605627,San Jose de Abajo [Unidad Habitacional],Veracruz,CED001,0531454086,bronze,150
+Coppel,Coppel,Mo-Su 10:00-21:00,18.8055841,-97.1788394,Ciudad Mendoza,Veracruz,CED001,0313677305,silver,150
+Centro de Distribución de Coppel,,,19.6335821,-99.0485689,Ecatepec,Mexico,CED001,0222699916,bronze,150
+Coppel,Coppel,,21.2362824,-104.8991762,Compostela,Nayarit,CED001,0618581608,silver,150
+coppel apan,,,19.7113994,-98.4525556,Apan,Hidalgo,CED001,0349344786,bronze,150
+Coppel,Coppel,,20.0621235,-97.0542121,Martinez de la Torre,Veracruz,CED001,0904679002,bronze,150
+Coppel,Coppel,,30.3733006,-109.6884023,Nacozari Viejo,Sonora,CED002,0993772376,bronze,150
+Coppel,Coppel,,19.0892649,-96.1527518,Fraccionamiento Arboledas San Ramon,Veracruz,CED001,0413614509,silver,150
+Coppel,Coppel,,19.2656531,-98.856283,San Jeronimo Cuatro Vientos,Mexico,CED001,0163763570,silver,150
+Coppel,,,20.7356184,-99.3840177,Zimapan,Hidalgo,CED001,0376701645,gold,150
+Coppel,Coppel,,22.1509099,-100.9482525,San Luis Potosi,San Luis Potosi,CED001,0714974742,gold,150
+Coppel,Coppel,,25.6800724,-100.2528991,Guadalupe,Nuevo Leon,CED002,0163342226,bronze,150
+Coppel,Coppel,,18.9202801,-99.1968387,Loma Bonita,Morelos,CED001,0703392198,bronze,150
+Coppel,Coppel,,17.9938588,-94.5759096,Minatitlan,Veracruz,CED001,0949681406,gold,150
+Coppel,Coppel,,19.7892875,-99.0535464,Arbolada los Sauces,Mexico,CED001,0941713015,silver,150
+Coppel,Coppel,,18.6161261,-99.1780217,Jojutla,Morelos,CED001,0882118708,bronze,150
+Coppel,Coppel,,19.617879,-99.02727,Santo Tomas Chiconautla,Mexico,CED001,0398814003,silver,150
+Coppel,Coppel,,19.6179372,-99.066972,Ecatepec,Mexico,CED001,0807754213,silver,150
+Coppel,Coppel,,25.7776405,-103.2720913,Jaboncillo,Coahuila,CED002,0687325828,gold,150
+Coppel,Coppel,,19.2106175,-96.2234866,Fraccionamiento Geovillas los Pinos,Veracruz,CED001,0821164102,bronze,150
+Coppel,,,18.5298136,-92.6377048,Frontera,Tabasco,CED003,0149117778,gold,150
+Coppel,Coppel,,17.9847737,-94.5450967,Minatitlan,Veracruz,CED001,0075483266,silver,150
+Coppel,Coppel,,19.3764326,-99.0784574,Iztapalapa,Mexico City,CED001,0428170314,silver,150
+Coppel,Coppel,,19.1796102,-96.1556925,Veracruz,Veracruz,CED001,0082723146,silver,150
+Coppel,Coppel,,25.7958355,-100.583201,Garcia,Nuevo Leon,CED002,0789809614,bronze,150
+Coppel,Coppel,,20.5289494,-99.8991424,Tequisquiapan,Queretaro,CED001,0657615846,silver,150
+Coppel,Coppel,,25.79042,-100.5810939,Garcia,Nuevo Leon,CED002,0532105673,silver,150
+Coppel,Coppel,,19.6230882,-99.3162671,Nicolas Romero,Mexico,CED001,0404404644,gold,150
+Coppel,Coppel,Mo-Su 10:00-20:00,18.9630237,-99.6427711,Villa Guerrero,Mexico,CED001,0235567072,bronze,150
+Coppel Aztecas,,,31.6615254,-106.4724966,Ciudad Juarez,Chihuahua,CED002,0147898154,bronze,150
+Coppel,Coppel,,21.9223149,-102.2885526,Cartagena [Fraccionamiento],Aguascalientes,CED001,0076185150,silver,150
+Coppel,Coppel,,17.5428194,-99.5015568,Chilpancingo de los Bravos,Guerrero,CED003,0020048589,gold,150
+Coppel Libramiento,,,31.6270919,-106.3543353,Socorro,Texas,Unknown,0475871768,silver,150
+Coppel,Coppel,,18.8628509,-97.1092939,Union y Progreso,Veracruz,CED001,0472155352,gold,150
+Coppel,Coppel,Mo-Sa 10:00-20:00; Su 10:30-18:00,31.3007983,-110.9390997,Nogales,Sonora,CED002,0064408490,gold,150
+Coppel,Coppel,,31.291115,-110.9457991,Nogales,Sonora,CED002,0677072649,bronze,150
+Coppel,Coppel,,18.2746571,-93.2196422,Comalcalco,Tabasco,CED003,0708966526,silver,150
+Coppel,Coppel,,18.2633911,-93.2241707,Comalcalco,Tabasco,CED003,0491568927,gold,150
+Coppel,Coppel,,22.1568497,-100.9792567,San Luis Potosi,San Luis Potosi,CED001,0604861209,gold,150
+Coppel,Coppel,,31.6760839,-106.4585985,Ciudad Juarez,Chihuahua,CED002,0719557664,silver,150
+Coppel,Coppel,,19.6084051,-99.0180354,Santo Tomas Chiconautla,Mexico,CED001,0685804816,bronze,150
+Coppel,Coppel,,18.8322765,-99.1879204,Emiliano Zapata,Morelos,CED001,0608862419,silver,150
+Avenida Ernesto Coppel Campaña,,,23.3318961,-106.4833854,El Habal,Sinaloa,CED002,0544996376,silver,150
+Avenida Ernesto Coppel Campaña,,,23.3225043,-106.4803051,El Habal,Sinaloa,CED002,0111923074,gold,150
+Bodega Coppel,,,18.8291474,-97.0906538,Jalapilla,Veracruz,CED001,0321519790,gold,150
+Coppel Recursos Hidráulicos,,,19.6404829,-99.058789,Alborada Jaltenco,Mexico,CED001,0194916597,bronze,150
+Coppel,Coppel,,23.7502232,-99.1563456,Ciudad Victoria,Tamaulipas,CED002,0212034405,silver,150
+Coppel,Coppel,,20.6713587,-103.3468443,Guadalajara,Jalisco,CED001,0715318931,silver,150
+Coppel,,,32.5784089,-115.3598767,Puebla,Baja California,CED002,0362175959,bronze,150
+Coppel,,,19.407507,-99.1449147,Benito Juarez,Mexico City,CED001,0768381577,silver,150
+Coppel Villa Coapa,Coppel,,19.2999124,-99.108038,Xochimilco,Mexico City,CED001,0663639155,silver,150
+Coppel,Coppel,,19.3740344,-99.18824,Alvaro Obregon,Mexico City,CED001,0791571945,bronze,150
+almacen coppel,,,19.499083,-96.8571295,Jacarandas,Veracruz,CED001,0755381677,silver,150
+Coppel,Coppel,8:00-20:00,17.473052,-91.4237779,Tenosique de Pino Suarez,Tabasco,CED003,0523817904,bronze,150
+Coppel,Coppel,,24.7671878,-107.6971565,Navolato,Sinaloa,CED002,0190551831,silver,150
+Coppel,Coppel,,24.7667511,-107.6988975,Navolato,Sinaloa,CED002,0059546458,silver,150
+Coppel,Coppel,,24.7688189,-107.6977278,Navolato,Sinaloa,CED002,0016400535,bronze,150
+Coppel,Coppel,,25.8927366,-100.2605686,Emiliano Zapata,Nuevo Leon,CED002,0438274338,silver,150
+Coppel,Coppel,,31.7400042,-106.4858453,Ciudad Juarez,Chihuahua,CED002,0772504627,silver,150
+Coppel Juárez,,,19.831309,-98.9797306,Tizayuca,Morelos,CED001,0565445862,silver,150
+Coppel,Coppel,,19.7703092,-104.3672804,Autlan de Navarro,Jalisco,CED001,0845079777,bronze,150
+Coppel,Coppel,Mo-Su 10:00-21:00,18.821958,-97.1617237,Huiloapan de Cuauhtemoc,Veracruz,CED001,0413234694,silver,150
+Coppel,Coppel,,18.8485342,-97.1054843,Orizaba,Veracruz,CED001,0434047628,silver,150
+Coppel,Coppel,Mo-Su 10:00-21:00,18.845034,-97.1067144,Orizaba,Veracruz,CED001,0866817749,silver,150
+Coppel,Coppel,Mo-Su 10:00-21:00,18.8486991,-97.0928365,Orizaba,Veracruz,CED001,0743544358,silver,150
+Coppel,Coppel,,26.0548109,-98.2934209,Reynosa,Tamaulipas,CED002,0931572212,gold,150
+Coppel,Coppel,Mo-Su 10:00-19:00,20.962728,-89.6230092,Merida,Yucatan,CED003,0282988169,gold,150
+Coppel,Coppel,,19.3711703,-99.1430705,Colonia Nativitas,Mexico City,CED001,0503560605,bronze,150
+Coppel,Coppel,,26.0924626,-98.2772522,Hidalgo,Texas,Unknown,0277711819,silver,150
+Coppel,Coppel,,17.9797173,-92.9412116,Villahermosa,Tabasco,CED003,0833987254,gold,150
+Coppel,Coppel,,26.0752911,-98.3144157,Reynosa,Tamaulipas,CED002,0813832831,silver,150
+Coppel,Coppel,,26.0724064,-98.321851,Reynosa,Tamaulipas,CED002,0506061904,gold,150
+Coppel,Coppel,,20.618775,-103.3729818,Altus Bosques,Jalisco,CED001,0158153729,silver,150
+Coppel,Coppel,Mo-Su 09:00-20:00,20.3759699,-99.6562273,Huichapan,Hidalgo,CED001,0492389173,silver,150
+Coppel,Coppel,Mo-Sa 09:30-20:00,21.0358597,-104.3700209,Ixtlan del Rio,Nayarit,CED001,0728636754,silver,150
+Coppel,,,22.2117806,-98.3781428,Oviedo,Veracruz,CED001,0794929569,silver,150
+Coppel,Coppel,,18.4507604,-95.2272475,San Andres Tuxtla,Veracruz,CED001,0830205154,silver,150
+Coppel,Coppel,,18.4188591,-95.1094996,Catemaco,Veracruz,CED001,0102600874,gold,150
+Coppel,Coppel,,19.1983801,-96.1372994,Veracruz,Veracruz,CED001,0290764360,bronze,150
+Coppel,Coppel,,19.3568626,-99.2997118,Cuajimalpa,Mexico City,CED001,0049686098,bronze,150
+Coppel,Coppel,,19.4052932,-98.925776,San Vicente Chicoloapan,Mexico,CED001,0902270844,gold,150
+Coppel,Coppel,,18.4473657,-95.2127452,San Andres Tuxtla,Veracruz,CED001,0970391792,silver,150
+Coppel,Coppel,,19.5483626,-96.9290585,Xalapa de Enriquez,Veracruz,CED001,0287319090,silver,150
+Coppel,Coppel,,16.2395135,-92.1358419,Comitan,Chiapas,CED003,0249483093,bronze,150
+Coppel,,,19.370298,-96.3715658,Cabezas,Veracruz,CED001,0497543202,gold,150
+Coppel,Coppel,,18.6151762,-99.1806926,Jojutla,Morelos,CED001,0193476603,gold,150
+Coppel,Coppel,,21.9263115,-102.2673528,Cumbres III,Aguascalientes,CED001,0815349153,silver,150
+Coppel,,,19.1173072,-98.2365501,Almecatla,Puebla,CED001,0746398604,bronze,150
+Coppel,Coppel,Mo-Sa 10:00-19:30; Su 10:00-17:00,16.7544369,-93.1191324,Tuxtla Gutierrez,Chiapas,CED003,0031175021,gold,150
+Coppel,Coppel,,20.630997,-103.2667902,Tlaquepaque,Jalisco,CED001,0108556435,silver,150
+Coppel,,,23.6481596,-100.6434085,Matehuala,San Luis Potosi,CED001,0663940756,bronze,150
+Coppel,Coppel,,19.2042701,-96.161417,Veracruz,Veracruz,CED001,0218407416,silver,150
+Coppel,Coppel,,20.9454818,-101.4179269,Silao,Guanajuato,CED001,0822636014,silver,150
+Coppel,Coppel,,20.6328439,-105.2299841,Puerto Vallarta,Jalisco,CED001,0411849249,silver,150
+Coppel Canadá,Coppel,Mo-Sa 10:00-20:00; Su 10:00-17:00,20.2300596,-103.5725554,Zacoalco de Torres,Jalisco,CED001,0708126271,silver,150
+Coppel,Coppel,,19.8849587,-103.6014301,Sayula,Jalisco,CED001,0236140617,silver,150
+Coppel,Coppel,,19.7028848,-103.4653308,Ciudad Guzman,Jalisco,CED001,0612916836,bronze,150
+Coppel Canadá,Coppel,,19.956044,-104.2626724,Union de Tula,Jalisco,CED001,0779254125,silver,150
+Coppel,Coppel,Mo-Sa 10:00-20:00; Su 10:00-17:00,20.3762277,-102.9273271,Poncitlan,Jalisco,CED001,0633192498,silver,150
+Coppel,Coppel,Mo-Sa 10:00-20:00; Su 10:00-16:00,20.3474149,-102.7739365,Ocotlan,Jalisco,CED001,0311819400,gold,150
+Coppel,Coppel,,20.5506263,-102.5099501,Atotonilco el Alto,Jalisco,CED001,0681035729,gold,150
+Coppel,Coppel,,20.5444652,-103.4656743,Nicolas R Casillas,Jalisco,CED001,0899313651,gold,150
+Coppel,Coppel,,19.5559423,-103.3769937,Tuxpan,Jalisco,CED001,0154461736,bronze,150
+Coppel,Coppel,,19.1070445,-104.3350004,Manzanillo,Colima,CED001,0688976709,gold,150
+Cedis Coppel,,,20.5734951,-103.3378771,Las Pintas de Arriba,Jalisco,CED001,0502904870,silver,150
+Coppel,Coppel,,19.23779,-104.560257,Cihuatlan,Jalisco,CED001,0559681716,silver,150
+Coppel,Coppel,,20.6123874,-103.4300737,La Tijera,Jalisco,CED001,0491735993,bronze,150
+Coppel,Coppel,,20.5843057,-101.2300986,Salamanca,Guanajuato,CED001,0465182500,bronze,150
+Coppel,Coppel,,18.8421502,-98.9402245,Tierra Larga (Campo Nuevo),Morelos,CED001,0099046115,silver,150
+Coppel Cantores,,,21.144049,-98.4151342,Huejutla de Reyes,Hidalgo,CED001,0880409250,gold,150
+Coppel,,,23.077146,-109.704575,San Jose del Cabo,Baja California Sur,CED002,0579954952,bronze,150
+Coppel,,,25.1920162,-99.8198163,Montemorelos,Nuevo Leon,CED002,0928499404,gold,150
+Coppel,Coppel,,20.6576244,-101.3420185,Irapuato,Guanajuato,CED001,0336402523,silver,150
+Coppel,Coppel,,25.9871093,-98.0981347,Rio Bravo,Tamaulipas,CED002,0102353150,silver,150
+Coppel,Coppel,,27.6822777,-105.1646507,Ciudad Camargo,Chihuahua,CED002,0815856263,gold,150
+Coppel,Coppel,,20.4953069,-97.4713376,Coatzintla,Veracruz,CED001,0367242293,gold,150
+Coppel,Coppel,,25.7142195,-100.1048354,Loma la Paz,Nuevo Leon,CED002,0807124790,silver,150
+Coppel,Coppel,,19.7783097,-98.5689783,Ciudad Sahagun,Hidalgo,CED001,0392699172,silver,150
+Coppel,,Mo-Sa 10:00-20:30; Su 10:00-16:00,21.8865626,-102.2975847,Aguascalientes,Aguascalientes,CED001,0046050132,bronze,150
+Coppel,Coppel,,18.4618962,-97.3937643,Tehuacan,Puebla,CED001,0303106493,bronze,150
+Coppel,Coppel,,26.8254356,-109.6433112,Huatabampo,Sonora,CED002,0574166836,bronze,150
+Coppel,Coppel,,18.8930199,-96.9286709,Cordoba,Veracruz,CED001,0651752877,silver,150
+Coppel,,,18.9250302,-99.2379686,Cuernavaca,Morelos,CED001,0355947331,bronze,150
+Coppel,Coppel,,19.4605646,-99.2523437,Naucalpan de Juarez,Mexico,CED001,0589093029,gold,150
+Coppel,Coppel,Mo-Su 09:00-21:00,19.4585739,-99.2380445,Naucalpan de Juarez,Mexico,CED001,0032363578,bronze,150
+Coppel,Coppel,,19.1769315,-99.4696495,Santiago Tianguistenco,Mexico,CED001,0182595964,silver,150
+Coppel,Coppel,,21.4374828,-102.5754005,Teocaltiche,Jalisco,CED001,0605232729,silver,150
+Coppel Caracol,,,20.5026097,-86.9386551,San Miguel de Cozumel,Quintana Roo,CED003,0398580624,bronze,150
+Coppel,Coppel,,25.8045836,-100.3426132,General Escobedo,Nuevo Leon,CED002,0280156734,silver,150
+Cedis Coppel,,,18.9028274,-96.9764745,Cordoba (Santa Leticia),Veracruz,CED001,0958876048,bronze,150
+Coppel,Coppel,,17.0977308,-96.7491203,San Jeronimo Yahuiche,Oaxaca,CED003,0859714186,gold,150
+Coppel,Coppel,,17.1223016,-96.7635465,San Jeronimo Yahuiche,Oaxaca,CED003,0127273945,bronze,150
+Coppel,,,19.5258281,-99.1416426,Colonia Lindavista,Mexico,CED001,0556264889,bronze,150
+Campus Digital Coppel,,,24.7099521,-107.3879021,El Diez,Sinaloa,CED002,0546358804,gold,150
+Coppel,Coppel,,16.4444412,-95.0277125,Juchitan de Zaragoza,Oaxaca,CED003,0795700707,gold,150
+Coppel Patio Ayotla,Coppel,,19.3105532,-98.9226623,Ixtapaluca,Mexico,CED001,0719213885,silver,150
+Coppel Periférico,Coppel,,19.4202315,-99.056621,Colonia Gustavo Baz Prada,Mexico,CED001,0686100716,bronze,150
+Coppel,Coppel,,21.0926671,-89.2850418,Motul,Yucatan,CED003,0571082187,bronze,150
+Coppel,Coppel,,18.364407,-95.7959749,Cosamaloapan de Carpio,Veracruz,CED001,0062262601,silver,150
+Coppel,Coppel,,18.238493,-96.1350503,Colonia Adolfo Ruiz Cortines (Colonia Obrera),Veracruz,CED001,0939977564,bronze,150
+BanCoppel,,,19.4370974,-100.3589296,Heroica Zitacuaro,Michoacan,CED001,0799761957,silver,150
+Coppel,Coppel,,26.0558469,-98.3645135,Reynosa,Tamaulipas,CED002,0532665148,bronze,150
+Coppel,Coppel,,26.0499175,-98.347353,Reynosa,Tamaulipas,CED002,0658974074,gold,150
+Campus Digital Coppel,,,24.709767,-107.3879682,El Diez,Sinaloa,CED002,0570197050,bronze,150
+Coppel,Coppel,,14.9094289,-92.2632205,Tapachula,Chiapas,CED003,0497607924,silver,150
+Coppel,Coppel,"Mo-Sa 10:00-20:00,Su 10:00-18:00",19.3280265,-98.9481145,San Isidro,Mexico,CED001,0963829648,gold,150
+Deportivo Coppel,,,24.7999424,-107.4568895,Culiacan,Sinaloa,CED002,0350161770,bronze,150
+Coppel,Coppel,,30.7119461,-112.1489831,Heroica Caborca,Sonora,CED002,0701574143,silver,150
+Coppel,Coppel,,30.7141852,-112.1474664,Heroica Caborca,Sonora,CED002,0237953277,silver,150
+Coppel,Coppel,,31.8642463,-112.8547551,Sonoyta,Sonora,CED002,0141911023,bronze,150
+Coppel,Coppel,,29.0626492,-110.9899515,Hermosillo,Sonora,CED002,0957563498,silver,150
+Coppel Tezontle,Coppel,,19.3878171,-99.1116005,Iztacalco,Mexico City,CED001,0157484204,bronze,150
+Coppel,Coppel,,19.3157124,-99.0716883,Iztapalapa,Mexico City,CED001,0976754299,silver,150
+Coppel,Coppel,,19.1912654,-96.134812,Veracruz,Veracruz,CED001,0740133027,gold,150
+Coppel,Coppel,"Mo-Sa 10:00-20:00, Su 10:00-17:00",18.7712661,-95.7613569,Heroica Alvarado,Veracruz,CED001,0609428002,silver,150
+Coppel,Coppel,,32.6231854,-115.4946015,Mexicali,Baja California,CED002,0954276923,gold,150
+Coppel,Coppel,,18.4197349,-95.1109712,Catemaco,Veracruz,CED001,0552235418,silver,150
+Coppel,Coppel,,18.4482923,-95.2127197,San Andres Tuxtla,Veracruz,CED001,0758362445,silver,150
+Coppel,Coppel,,18.4632856,-95.3014185,Santiago Tuxtla,Veracruz,CED001,0438328916,silver,150
+Coppel,Coppel,,18.4656805,-95.2996986,Santiago Tuxtla,Veracruz,CED001,0319474476,gold,150
+Coppel,Coppel,,18.9726202,-96.7238222,Paso del Macho,Veracruz,CED001,0145732394,silver,150
+Coppel,Coppel,,20.5351692,-97.470424,Poza Rica de Hidalgo,Veracruz,CED001,0822710480,bronze,150
+Coppel,Coppel,,20.5476464,-97.4504064,Poza Rica de Hidalgo,Veracruz,CED001,0109502174,bronze,150
+Coppel,Coppel,,20.9472446,-97.3852691,La Victoria (La Penita),Veracruz,CED001,0300121556,silver,150
+Coppel,Coppel,,21.190898,-97.7425024,Cerro Azul,Veracruz,CED001,0366439058,bronze,150
+Coppel,Coppel,,20.9496715,-97.4207319,Tuxpan de Rodriguez Cano,Veracruz,CED001,0552413235,bronze,150
+Coppel,Coppel,,19.9256102,-96.85485,Misantla,Veracruz,CED001,0121132306,bronze,150
+Coppel,Coppel,,20.6489053,-103.7087165,Tala,Jalisco,CED001,0027404869,bronze,150
+Coppel,Coppel,,19.4270523,-102.0254648,Toreo Bajo (El Toreo Bajo),Michoacan,CED001,0924760615,bronze,150
+Coppel,Coppel,Mo-Sa 10:00-20:00; Su 10:00-19:00,19.4688811,-99.1756008,Azcapotzalco,Mexico City,CED001,0227762329,gold,150
+Coppel,Coppel,,19.4534036,-96.9626844,Coatepec,Veracruz,CED001,0443542154,silver,150
+Coppel,Coppel,,21.3511571,-97.6874569,Naranjos,Veracruz,CED001,0834495347,silver,150
+Coppel,Coppel,,19.6811095,-103.4747755,Ciudad Guzman,Jalisco,CED001,0093026617,gold,150
+Coppel,Coppel,,21.4368893,-98.8756694,Villa Terrazas,San Luis Potosi,CED001,0139345355,silver,150
+Coppel,Coppel,,19.2428946,-103.7374766,Colima,Colima,CED001,0431875982,silver,150
+Coppel,Coppel,,18.0309849,-95.5299749,Juan Rodriguez Clara,Veracruz,CED001,0448019159,gold,150
+Coppel,Coppel,,17.8303498,-95.8144538,Playa Vicente,Veracruz,CED001,0478265772,bronze,150
+Coppel,Coppel,,18.8102684,-98.9544041,Cuautla Morelos,Morelos,CED001,0941738640,silver,150
+Coppel,Coppel,,20.1125231,-98.7731278,Pachuca de Soto,Hidalgo,CED001,0465734239,silver,150
+Coppel,Coppel,,19.2532967,-103.7198032,Colima,Colima,CED001,0252714119,silver,150
+Coppel,Coppel,,18.770616,-96.1719995,Piedras Negras,Veracruz,CED001,0004711061,gold,150
+Coppel,Coppel,,18.1081356,-95.8809093,Estacion Dobladero,Veracruz,CED001,0294030034,bronze,150
+Coppel,Coppel,,18.1107517,-95.8802549,Estacion Dobladero,Veracruz,CED001,0263390980,silver,150
+Coppel,Coppel,,19.2425796,-103.7386002,Colima,Colima,CED001,0206224992,bronze,150
+Coppel,Coppel,,20.5749361,-101.1994598,Salamanca,Guanajuato,CED001,0221196804,bronze,150
+Coppel,Coppel,,18.8130332,-96.7202005,Cuitlahuac,Veracruz,CED001,0409200760,gold,150
+Coppel,Coppel,,21.1759651,-101.6627645,Leon,Guanajuato,CED001,0574582984,silver,150
+Coppel,Coppel,,29.0366635,-110.9383506,Hermosillo,Sonora,CED002,0831448952,silver,150
+Coppel,Coppel,,19.0468316,-96.4229,Soledad de Doblado,Veracruz,CED001,0321329935,silver,150
+Coppel,Coppel,,19.0962479,-96.3352289,Manlio Fabio Altamirano,Veracruz,CED001,0413320879,silver,150
+Coppel,Coppel,,20.5065947,-103.2055893,Galaxia Bonito Jalisco,Jalisco,CED001,0657491647,silver,150
+Coppel,Coppel,,19.2402133,-103.7228562,Colima,Colima,CED001,0250491485,bronze,150
+CEDIS COPPEL TEXCOCO,,,19.4478001,-98.9003615,Colonia Lazaro Cardenas,Mexico,CED001,0023645160,gold,150
+Coppel,,,19.2904026,-99.7346122,San Miguel Zinacantepec,Mexico,CED001,0612180293,bronze,150
+Coppel,Coppel,,21.8883603,-102.2512718,Aguascalientes,Aguascalientes,CED001,0758163536,silver,150
+Coppel,Coppel,,20.3983089,-89.5403199,Ticul,Yucatan,CED003,0690841993,bronze,150
+Coppel,Coppel,,18.8588344,-97.3752727,San Jose Esperanza,Puebla,CED001,0639184641,silver,150
+Coppel,Coppel,,19.2730834,-103.7370119,Ciudad de Villa de Alvarez,Colima,CED001,0726726426,gold,150
+Coppel Estanzuela,,,25.5867113,-100.2569875,Bosques de San Pedro,Nuevo Leon,CED002,0450528787,bronze,150
+Tienda Coppel,,,19.7433991,-99.1779806,Teoloyucan,Mexico,CED001,0005907485,silver,150
+Coppel,Coppel,,25.5364057,-103.3562548,Fraccionamiento la Noria,Coahuila,CED002,0544361534,bronze,150
+Coppel,Coppel,,19.9732122,-102.2956267,Zamora,Michoacan,CED001,0124002331,gold,150
+Coppel,,,22.8979807,-109.9569919,Las Palmas,Baja California Sur,CED002,0092559086,gold,150
+Coppel,Coppel,,19.9852305,-102.2819183,Zamora,Michoacan,CED001,0476798330,silver,150
+Coppel,Coppel,,19.1941076,-96.1385138,Veracruz,Veracruz,CED001,0683317027,bronze,150
+Coppel,Coppel,,19.0440757,-98.0545466,Amozoc de Mota,Puebla,CED001,0310368517,silver,150
+Coppel,Coppel,,19.5053743,-96.8907345,Lomas Verdes,Veracruz,CED001,0624259787,silver,150
+Coppel,Coppel,,19.0954624,-104.3031347,Tapeixtles,Colima,CED001,0570176891,gold,150
+Coppel,,,22.4898754,-105.3682317,Acaponeta,Nayarit,CED001,0696051092,bronze,150
+Coppel,Coppel,,19.505986,-96.8640661,Las Trancas,Veracruz,CED001,0077685345,bronze,150
+Coppel,Coppel,,19.5679126,-96.9173929,El Pueblito (Garbanzal),Veracruz,CED001,0522512337,silver,150
+Coppel,Coppel,,29.8444427,-107.4700421,Buenaventura,Chihuahua,CED002,0567146541,silver,150
+Coppel,Coppel,,19.6227663,-96.7335439,Alto Lucero,Veracruz,CED001,0363737009,gold,150
+Coppel,Coppel,,17.9819054,-94.5419841,Minatitlan,Veracruz,CED001,0627297771,silver,150
+Coppel,,,19.34384,-99.1909701,Alvaro Obregon,Mexico City,CED001,0986012905,bronze,150
+Coppel,Coppel,,32.6476382,-115.5325562,Vinas del Sol,Baja California,CED002,0393450037,silver,150
+Coppel,Coppel,,32.6559015,-115.5054746,Calexico,California,CED002,0142778367,silver,150
+Coppel Canadá,,,21.9858073,-99.0171691,Ciudad Valles,San Luis Potosi,CED001,0507186185,silver,150
+Coppel,Coppel,,32.6593411,-115.4778831,Calexico,California,CED002,0212325111,gold,150
+Coppel,Coppel,,19.8251503,-97.3606685,Teziutlan,Puebla,CED001,0027441539,silver,150
+Coppel,Coppel,Mo-Sa 09:00-19:00; Su 10:00-19:00,15.7632317,-96.1294702,Crucecita,Oaxaca,CED003,0564774158,silver,150
+Coppel,Coppel,,18.6026201,-96.6872428,Cosolapa,Veracruz,CED001,0637971700,bronze,150
+Coppel,Coppel,,19.3380821,-90.7271492,Champoton,Campeche,CED003,0099293481,silver,150
+Coppel,Coppel,,20.9504769,-89.6488455,Merida,Yucatan,CED003,0440875471,gold,150
+Coppel Plaza El Salto,,,23.7876877,-105.3516732,El Salto,Durango,CED002,0810669873,bronze,150
+Coppel,Coppel,,18.6216699,-99.3228994,Puente de Ixtla,Morelos,CED001,0937453243,silver,150
+Coppel,Coppel,,19.1593182,-96.1118707,Veracruz,Veracruz,CED001,0368214096,silver,150
+Coppel,Coppel,Mo-Su 09:00-19:00,19.8877032,-102.2078006,Tangancicuaro de Arista,Mexico,CED001,0856281997,bronze,150
+Coppel,Coppel,,19.4394253,-98.9312214,Santa Martha,Mexico,CED001,0969684677,bronze,150
+Coppel,Coppel,Mo-Sa 10:00-20:00; Su 10:30-17:00,20.7186836,-100.758339,Comonfort,Guanajuato,CED001,0405770273,silver,150
+Estacionamiento Coppel,,,20.7186779,-100.7584359,Comonfort,Guanajuato,CED001,0161714786,gold,150
+Coppel,Coppel,,19.556757,-99.1810766,Tlalnepantla,Mexico,CED001,0080599379,bronze,150
+Coppel,Coppel,,19.1901938,-96.1388487,Veracruz,Veracruz,CED001,0063179302,bronze,150
+Coppel,,,19.6308171,-103.421848,Zapotiltic,Jalisco,CED001,0101558635,gold,150
+Coppel Henequén Umán,,,20.8831393,-89.7466412,Uman,Yucatan,CED003,0901249960,silver,150
+Coppel,Coppel,,19.4423269,-99.1367055,Cuauhtemoc,Mexico City,CED001,0760045375,bronze,150
+Coppel,Coppel,,28.1958034,-105.4595966,Ciudad Delicias,Chihuahua,CED002,0617102282,silver,150
+Coppel,Coppel,,16.2309605,-95.2096075,La Noria,Oaxaca,CED003,0788625904,gold,150
+Coppel,Coppel,,23.0996842,-109.7263885,San Jose del Cabo,Baja California Sur,CED002,0508996594,bronze,150
+Coppel,Coppel,,21.4521837,-104.8988064,Xalisco,Nayarit,CED001,0284636936,bronze,150
+Coppel,Coppel,,18.9223485,-103.882818,Tecoman,Colima,CED001,0077446984,bronze,150
+Coppel,Coppel,,24.8645202,-99.5627381,Linares,Nuevo Leon,CED002,0236893204,bronze,150
+Coppel,Coppel,,20.348441,-102.0338726,La Piedad Cavadas,Michoacan,CED001,0348374532,bronze,150
+Coppel,Coppel,Mo-Su 09:00-19:00,24.8088535,-107.3974062,Culiacan,Sinaloa,CED002,0230885235,silver,150
+Coppel,Coppel,Mo-Su 09:00-19:30,24.806338,-107.3961417,Culiacan,Sinaloa,CED002,0732411365,silver,150
+Coppel,Coppel,,27.8787365,-101.5166664,Melchor Muzquiz,Coahuila,CED002,0901133025,bronze,150
+Coppel,Coppel,,19.1976658,-96.1367453,Veracruz,Veracruz,CED001,0591532052,silver,150
+Coppel,Coppel,,19.0836156,-102.355927,Apatzingan,Michoacan,CED001,0818511729,silver,150
+Coppel,Coppel,,32.2920679,-115.0947467,Guadalupe Victoria,Baja California,CED002,0332549989,silver,150
+Coppel,Coppel,,19.3681501,-96.3751873,Cabezas,Veracruz,CED001,0157775418,silver,150
+Coppel,Coppel,,19.6423965,-99.2063587,Cuautitlan Izcalli,Mexico,CED001,0594943608,silver,150

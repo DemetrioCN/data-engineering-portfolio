@@ -14,7 +14,7 @@ import random
 import string
 import pandas as pd
 
-from config.settings import MEXICO_REGIONS, GEOFENCE_RADIUS_M, SEGMENT_DISTRIBUTION
+from config.customer_params import MEXICO_REGIONS, GEOFENCE_RADIUS_M, SEGMENT_DISTRIBUTION
 from utils.geo import add_city_and_state
 
 logger = logging.getLogger(__name__)
@@ -74,5 +74,5 @@ def transform(df: pd.DataFrame) -> pd.DataFrame:
     df["segment"] = _assign_segments(len(df))
 
     df["geofence_radius_m"] = GEOFENCE_RADIUS_M
-
+    logger.info("Transform complete. DF size: %d", len(df))
     return df

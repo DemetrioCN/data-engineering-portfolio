@@ -1,5 +1,5 @@
 """
-Global settings for the pipeline.
+Global settings for the CUSTOMER MASTER pipeline.
 Edit this file to configure timeouts, servers, and output format, brands and chanfe regional warehouse mapping.
 """
 
@@ -21,7 +21,7 @@ GEOFENCE_RADIUS_M: int = 150    # metres
 
 # Output
 OUTPUT_FORMAT: str = "csv"
-OUTPUT_DIR: str = "data/output"
+OUTPUT_DIR: str = "data/output/customer_master"
 
 # Segment distribution to classify clients with loyalty
 SEGMENT_DISTRIBUTION: dict[str, float] = {

@@ -6,7 +6,7 @@ import logging
 from datetime import datetime
 from pathlib import Path
 import pandas as pd
-from config.settings import OUTPUT_DIR, OUTPUT_FORMAT
+from config.customer_params import OUTPUT_DIR, OUTPUT_FORMAT
 
 logger = logging.getLogger(__name__)
 
@@ -15,6 +15,7 @@ def load(
     df: pd.DataFrame,
     output_dir: str | Path = OUTPUT_DIR,
     fmt: str = OUTPUT_FORMAT,
+    filename="customer_master"
 ) -> Path:
     """Write df to output_dir.
     """
@@ -24,8 +25,7 @@ def load(
     out_dir = Path(output_dir)
     out_dir.mkdir(parents=True, exist_ok=True)
 
-    timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-    filename  = f"customer_base_{timestamp}.{fmt}"
+    filename  = f"customer_master.{fmt}"
     out_path  = out_dir / filename
 
     df.to_csv(out_path, index=False, encoding="utf-8")

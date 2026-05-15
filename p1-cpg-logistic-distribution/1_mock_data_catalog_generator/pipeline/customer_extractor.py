@@ -5,7 +5,7 @@ Extract step – fetches raw store locations from the Overpass API.
 import logging
 import time
 import pandas as pd
-from config.settings import SLEEP_BETWEEN_BRANDS
+from config.customer_params import SLEEP_BETWEEN_BRANDS
 from utils.http_client import post_overpass_query
 
 logger = logging.getLogger(__name__)
@@ -72,6 +72,5 @@ def extract(brands: list[str], country: str = "México") -> pd.DataFrame:
 
     before = len(df)
     df = df.drop_duplicates(subset=["lat", "lon"]).reset_index(drop=True)
-    logger.info("Deduplication: %d → %d rows.", before, len(df))
-
+    logger.info("Extracted %d rows with %d columns", len(df), len(df.columns))
     return df

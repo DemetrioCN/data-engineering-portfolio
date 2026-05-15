@@ -6,7 +6,7 @@ import logging
 import time
 import requests
 
-from config.settings import (
+from config.customer_params import (
     OVERPASS_SERVERS,
     APP_NAME,
     MAX_RETRIES,

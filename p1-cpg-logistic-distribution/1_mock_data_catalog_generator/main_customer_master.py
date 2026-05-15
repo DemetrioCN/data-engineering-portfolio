@@ -3,10 +3,10 @@ Generator for mock data to create a base client catalog classify by loyalty.
 """
 
 import logging
-from config.settings import BRANDS, OUTPUT_DIR, OUTPUT_FORMAT
-from pipeline.extractor import extract
-from pipeline.transformer import transform
-from pipeline.loader import load
+from config.customer_params import BRANDS, OUTPUT_DIR, OUTPUT_FORMAT
+from pipeline.customer_extractor import extract
+from pipeline.customer_transformer import transform
+from pipeline.customer_loader import load
 
 logging.basicConfig(
     level=logging.INFO,
@@ -16,9 +16,9 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 
-def run() -> int:
+def run_customer_master() -> int:
     """Execute the full ETL pipeline. Returns 0 on success, 1 on failure."""
-    logger.info("═" * 60)
+    logger.info("Starting MATERIAL MASTER pipeline")
 
     # Extract
     df_raw = extract(brands=BRANDS)
@@ -36,4 +36,4 @@ def run() -> int:
 
 
 if __name__ == "__main__":
-    run()
+    run_customer_master()
