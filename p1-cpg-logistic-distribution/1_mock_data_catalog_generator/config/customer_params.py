@@ -30,17 +30,12 @@ SEGMENT_DISTRIBUTION: dict[str, float] = {
     "gold":   0.21,
 }
 
-# BRANDS list of store names to query via Overpass
-BRANDS: list[str] = [
-    "Walmart",
-    "Liverpool",
-    "Coppel",
-   # "Costco",
-   # "Soriana",
-   # "IKEA",
-   # "Chedraui",
-   # "Bodega Aurrera",
-]
+# BRANDS dictionary of store and its wikidata id. It can find the wikidata id here https://nsi.guide/index.html?t=* 
+BRANDS : dict[str, str] = {
+    "Walmart": "Q483551",
+    "Soriana": "Q735562",
+    "Chedraui": "Q2961952"
+}
 
 # MEXICO_REGIONS – maps Mexican state names to warehouse IDs (CED001/002/003)
 MEXICO_REGIONS: dict[str, str] = {

@@ -10,16 +10,16 @@ from utils.http_client import post_overpass_query
 
 logger = logging.getLogger(__name__)
 
-# Overpass query template – searches nodes by brand name inside the administrative boundary of the given country.
+# Overpass query template – searches nodes by wikidata_id inside the administrative boundary of the given country.
 # Return the result in JSON in maximum 60 seconds. 
-_QUERY_TEMPLATE = """
-[out:json][timeout:60];
-area["name"="{country}"]["admin_level"="2"];
-(
-  way["name"~"{brand}", i](area);
-);
-out center body;
-"""
+_QUERY_TEMPLATE =  """
+    [out:json][timeout:60];
+    area["name"="{country}"]["admin_level"="2"];
+    (
+    way["brand:wikidata"="{wikidata_id}"](area);
+    );
+    out center body;
+    """
 
 
 def _parse_elements(data: dict, brand_name: str) -> list[dict]:
@@ -50,9 +50,9 @@ def extract(brands: list[str], country: str = "México") -> pd.DataFrame:
     """
     all_records = []
 
-    for brand in brands:
+    for brand, qid in brands.items():
         logger.info("Extracting: %s…", brand)
-        query = _QUERY_TEMPLATE.format(country=country, brand=brand)
+        query = _QUERY_TEMPLATE.format(country=country, wikidata_id=qid )
         data  = post_overpass_query(query)
 
         if data:
