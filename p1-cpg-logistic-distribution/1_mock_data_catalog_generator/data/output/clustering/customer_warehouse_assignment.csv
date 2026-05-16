@@ -1,0 +1,693 @@
+name,brand,opening_hours,lat,lon,city,state,customer_id,segment,warehouse
+Walmart Supercenter,Walmart,,19.3064706,-99.1872597,Tlalpan,Mexico City,0253764527,gold,CEDI-09 · Puebla
+Walmart Supercenter,Walmart,"Mo-Su,PH 07:00-23:00",19.3717405,-99.1762739,Colonia del Valle,Mexico City,0637674556,silver,CEDI-09 · Puebla
+Walmart,Walmart,,19.3382162,-99.1841616,Coyoacan,Mexico City,0156176341,bronze,CEDI-09 · Puebla
+Walmart Express,Walmart,,19.3212772,-99.2215349,Magdalena Contreras,Mexico City,0452082293,bronze,CEDI-09 · Puebla
+Walmart Supercenter,Walmart,"Mo-Su,PH 07:00-22:00",19.369736,-99.193947,Alvaro Obregon,Mexico City,0251379500,gold,CEDI-09 · Puebla
+Walmart Express,Walmart,,19.4222264,-99.2374153,Polanco,Mexico City,0572565073,bronze,CEDI-09 · Puebla
+Walmart Supercenter,Walmart,,19.3686146,-99.1641869,Colonia del Valle,Mexico City,0719628965,silver,CEDI-09 · Puebla
+Walmart Express,Walmart,,19.3559387,-99.2767026,Cuajimalpa,Mexico City,0451790607,gold,CEDI-09 · Puebla
+Walmart,Walmart,Mo-Su 07:00-23:00,20.6154935,-100.3975719,Santiago de Queretaro,Queretaro,0377586315,bronze,CEDI-10 · Santiago de Queretaro
+Walmart,Walmart,,24.0365014,-104.6533742,Victoria de Durango,Durango,0021407593,silver,CEDI-06 · Victoria de Durango
+Walmart Supercenter,Walmart,,19.3179305,-99.1255283,Coyoacan,Mexico City,0030465279,silver,CEDI-09 · Puebla
+Walmart Supercenter,Walmart,,19.2930643,-99.1237177,Xochimilco,Mexico City,0852374383,bronze,CEDI-09 · Puebla
+Walmart Supercenter,Walmart,,22.1373898,-101.0027833,San Luis Potosi,San Luis Potosi,0007712329,silver,CEDI-10 · Santiago de Queretaro
+Walmart,Walmart,,32.6575971,-115.41412,Mexicali,Baja California,0269375520,gold,CEDI-04 · San Luis
+Walmart Express,Walmart,,19.3048072,-99.2209769,Magdalena Contreras,Mexico City,0014117183,gold,CEDI-09 · Puebla
+Walmart Express,Walmart,Mo-Su 07:00-23:00,19.3445301,-99.1561411,Coyoacan,Mexico City,0772910230,silver,CEDI-09 · Puebla
+Walmart Express,Walmart,,19.342515,-99.2482174,Magdalena Contreras,Mexico City,0258314143,gold,CEDI-09 · Puebla
+Walmart,Walmart,,20.6293167,-87.0762127,Playa del Carmen,Quintana Roo,0019247001,gold,CEDI-03 · Merida
+Walmart,Walmart,Mo-Su 08:30-20:00,18.1398778,-94.4716734,Coatzacoalcos,Veracruz,0908628099,silver,CEDI-07 · Villahermosa
+Walmart Express,Walmart,Mo-Su 07:00-00:00,19.3581589,-99.1519554,Coyoacan,Mexico City,0809538569,silver,CEDI-09 · Puebla
+Walmart,Walmart,,25.4246006,-100.9803516,Saltillo,Coahuila,0893797624,bronze,CEDI-12 · Guadalupe
+Walmart,Walmart,,25.7224207,-100.2206661,Guadalupe,Nuevo Leon,0193528510,bronze,CEDI-12 · Guadalupe
+Walmart,Walmart,Mo-Su 07:00-22:00,19.0449581,-98.2369646,Puebla,Puebla,0507559082,gold,CEDI-09 · Puebla
+Walmart,Walmart,,19.05795,-98.2239308,Puebla,Puebla,0486443275,gold,CEDI-09 · Puebla
+Walmart Express,Walmart,,21.9249095,-102.3172616,Pocitos,Aguascalientes,0423224344,gold,CEDI-10 · Santiago de Queretaro
+Walmart Miguel Alemán,Walmart,,25.6910492,-100.239978,Guadalupe,Nuevo Leon,0849205672,gold,CEDI-12 · Guadalupe
+Walmart Express,Walmart,,19.3838955,-99.1771782,Colonia del Valle,Mexico City,0658961457,gold,CEDI-09 · Puebla
+Walmart,Walmart,,25.615883,-100.2742737,Guadalupe,Nuevo Leon,0835287557,silver,CEDI-12 · Guadalupe
+Walmart Supercenter,Walmart,,20.2965952,-103.2444493,Ajijic,Jalisco,0184093100,silver,CEDI-08 · Guadalajara
+Walmart,Walmart,,20.6645714,-103.3483555,Guadalajara,Jalisco,0848866020,bronze,CEDI-08 · Guadalajara
+Walmart Supercenter,Walmart,,19.4435046,-99.1531236,Cuauhtemoc,Mexico City,0604509993,silver,CEDI-09 · Puebla
+Walmart,Walmart,,19.5418447,-96.9073705,Xalapa de Enriquez,Veracruz,0733550822,silver,CEDI-05 · Veracruz
+Walmart,Walmart,,19.1565412,-96.1123401,Veracruz,Veracruz,0009131628,gold,CEDI-05 · Veracruz
+Walmart Express,Walmart,,20.6425974,-103.4145573,Guadalajara,Jalisco,0243161184,bronze,CEDI-08 · Guadalajara
+Walmart,Walmart,,25.7307317,-100.369774,San Nicolas de los Garza,Nuevo Leon,0986166907,silver,CEDI-12 · Guadalupe
+Walmart Supercenter,Walmart,,25.6731942,-100.2024322,Jardines de la Silla (Jardines),Nuevo Leon,0975216141,silver,CEDI-12 · Guadalupe
+Walmart,Walmart,,25.766053,-100.3172532,San Nicolas de los Garza,Nuevo Leon,0065713581,bronze,CEDI-12 · Guadalupe
+Walmart,Walmart,,19.4253702,-99.0289726,Colonia Gustavo Baz Prada,Mexico,0452075892,bronze,CEDI-09 · Puebla
+Walmart,Walmart,,28.6344662,-106.119385,Chihuahua,Chihuahua,0034187824,gold,CEDI-11 · Chihuahua
+Walmart Supercenter,Walmart,,19.2573498,-103.7205064,Colima,Colima,0445009508,silver,CEDI-08 · Guadalajara
+Walmart,Walmart,,27.5167106,-109.9285698,Ciudad Obregon,Sonora,0966727433,gold,CEDI-13 · Hermosillo
+Walmart Supercenter,Walmart,,19.530975,-99.1562374,Tlalnepantla,Mexico,0814848374,bronze,CEDI-09 · Puebla
+Walmart Supercenter,Walmart,,19.30805,-99.0596829,Iztapalapa,Mexico City,0582781903,silver,CEDI-09 · Puebla
+Walmart,Walmart,,20.6487559,-103.3100069,Tlaquepaque,Jalisco,0430936883,bronze,CEDI-08 · Guadalajara
+Walmart Express,Walmart,,19.4348713,-99.1858689,Miguel Hidalgo,Mexico City,0679883413,silver,CEDI-09 · Puebla
+Walmart Express,Walmart,,19.4339538,-99.1900816,Miguel Hidalgo,Mexico City,0957971352,silver,CEDI-09 · Puebla
+Walmart,Walmart,,20.6666951,-103.4098868,Guadalajara,Jalisco,0490485729,bronze,CEDI-08 · Guadalajara
+Walmart,Walmart,,22.1384368,-100.9348495,Soledad de Graciano Sanchez,San Luis Potosi,0114867553,gold,CEDI-10 · Santiago de Queretaro
+Walmart,Walmart,,22.7621373,-102.5509176,Zacatecas,Zacatecas,0091877266,silver,CEDI-10 · Santiago de Queretaro
+Walmart,Walmart,,21.161556,-101.6908499,Leon,Guanajuato,0418567644,silver,CEDI-10 · Santiago de Queretaro
+Walmart,Walmart,,22.2303439,-97.8677321,Tampico,Tamaulipas,0622334425,silver,CEDI-02 · Tampico
+Walmart,Walmart,,22.297356,-97.879949,Tampico,Tamaulipas,0111896680,silver,CEDI-02 · Tampico
+Walmart,Walmart,,19.5089047,-96.8818018,Colonia Santa Barbara,Veracruz,0226969940,silver,CEDI-05 · Veracruz
+Walmart,Walmart,,20.5341685,-100.7968926,Celaya,Guanajuato,0307966677,silver,CEDI-10 · Santiago de Queretaro
+Walmart Supercenter,Walmart,,19.4055036,-99.2737331,Naucalpan de Juarez,Mexico,0209196722,silver,CEDI-09 · Puebla
+Walmart Río Sonora,Walmart,,29.06765,-110.9684122,Hermosillo,Sonora,0838599516,silver,CEDI-13 · Hermosillo
+Walmart Supercenter,Walmart,,19.2385462,-103.7155281,Colima,Colima,0431511479,silver,CEDI-08 · Guadalajara
+Walmart,Walmart,,20.6838255,-101.3666549,Irapuato,Guanajuato,0660602731,bronze,CEDI-10 · Santiago de Queretaro
+Walmart Culiacán,Walmart,,24.814762,-107.4092124,Culiacan,Sinaloa,0514295903,gold,CEDI-01 · La Paz
+Walmart,Walmart,,24.1187653,-110.3431298,La Paz,Baja California Sur,0388136838,bronze,CEDI-01 · La Paz
+Walmart,Walmart,,24.0558713,-104.6113973,Victoria de Durango,Durango,0137978243,silver,CEDI-06 · Victoria de Durango
+Walmart,Walmart,,23.752387,-99.1564482,Ciudad Victoria,Tamaulipas,0802232848,bronze,CEDI-02 · Tampico
+Walmart,Walmart,,24.004552,-104.6522798,Victoria de Durango,Durango,0902606553,bronze,CEDI-06 · Victoria de Durango
+Walmart,Walmart,,26.9090107,-101.4239765,Monclova,Coahuila,0698674764,silver,CEDI-12 · Guadalupe
+Walmart,Walmart,,17.9893055,-92.969053,Brisas del Carrizal,Tabasco,0907577935,silver,CEDI-07 · Villahermosa
+Walmart,Walmart,,18.0014765,-92.9247884,Villahermosa,Tabasco,0178662975,silver,CEDI-07 · Villahermosa
+Walmart Supercenter,Walmart,,19.8525832,-90.5285964,Campeche,Campeche,0365362354,bronze,CEDI-03 · Merida
+Walmart,Walmart,,28.4023967,-106.8380768,Cuauhtemoc,Chihuahua,0344471526,bronze,CEDI-11 · Chihuahua
+Walmart,Walmart,,22.2711544,-97.871594,Tampico,Tamaulipas,0139025222,gold,CEDI-02 · Tampico
+Walmart,Walmart,,22.2529348,-97.8531038,Tampico,Tamaulipas,0680096232,silver,CEDI-02 · Tampico
+Walmart 68,Walmart,,24.7791424,-107.3948419,Culiacan,Sinaloa,0797310936,silver,CEDI-01 · La Paz
+Walmart Supercenter,Walmart,Mo-Su 07:00-22:00,19.2703357,-99.6060272,Metepec,Morelos,0359346758,gold,CEDI-09 · Puebla
+Walmart,Walmart,,19.2810178,-99.6393299,Toluca,Mexico,0231173781,bronze,CEDI-09 · Puebla
+Walmart Express,Walmart,,19.2958725,-99.1552255,Tlalpan,Mexico City,0935548824,silver,CEDI-09 · Puebla
+Walmart,Walmart,,19.4293047,-98.9103576,Santa Martha,Mexico,0510360404,silver,CEDI-09 · Puebla
+Walmart,Walmart,,26.9335338,-105.6509215,Hidalgo del Parral,Chihuahua,0594915148,bronze,CEDI-11 · Chihuahua
+Walmart,Walmart,,23.0538894,-109.7022061,San Jose del Cabo,Baja California Sur,0471437111,bronze,CEDI-01 · La Paz
+Walmart,Walmart,,23.2443948,-106.4237179,Mazatlan,Sinaloa,0125239518,silver,CEDI-06 · Victoria de Durango
+Walmart Supercenter,Walmart,,20.6565959,-105.2381214,Puerto Vallarta,Jalisco,0624479036,gold,CEDI-08 · Guadalajara
+Walmart,Walmart,,31.7046706,-106.418527,Ciudad Juarez,Chihuahua,0081698167,silver,CEDI-11 · Chihuahua
+Walmart,Walmart,,31.7353352,-106.4424723,Ciudad Juarez,Chihuahua,0987634228,bronze,CEDI-11 · Chihuahua
+Walmart Supercenter,Walmart,,17.9784896,-102.2126162,Ciudad Lazaro Cardenas,Michoacan,0765659564,bronze,CEDI-08 · Guadalajara
+Walmart,Walmart,,21.4915278,-104.8816495,Tepic,Nayarit,0162881887,silver,CEDI-08 · Guadalajara
+Walmart Supercenter,Walmart,,32.6225783,-115.4556588,Mexicali,Baja California,0516944187,bronze,CEDI-04 · San Luis
+Walmart,Walmart,,25.5813536,-108.4738193,Guasave,Sinaloa,0064479507,silver,CEDI-01 · La Paz
+Walmart Supercenter,Walmart,Mo-Su 07:00-23:00,19.6795539,-101.2202865,Morelos,Michoacan,0594097339,silver,CEDI-10 · Santiago de Queretaro
+Walmart,Walmart,,20.7139039,-103.3753114,Zapopan,Jalisco,0618409580,bronze,CEDI-08 · Guadalajara
+Walmart,Walmart,,23.6577257,-100.6385302,Matehuala,San Luis Potosi,0481676574,silver,CEDI-12 · Guadalupe
+Walmart Supercenter,Walmart,,20.5742272,-100.4092503,Santiago de Queretaro,Queretaro,0666036721,bronze,CEDI-10 · Santiago de Queretaro
+Walmart Express,Walmart,,19.5229028,-96.8919475,Lomas Verdes,Veracruz,0804019104,gold,CEDI-05 · Veracruz
+Walmart,Walmart,,19.3078085,-99.6343534,Toluca,Mexico,0611120237,bronze,CEDI-09 · Puebla
+Walmart,Walmart,,19.2582445,-99.6226826,San Jorge Pueblo Nuevo,Mexico,0784992782,silver,CEDI-09 · Puebla
+Walmart Supercenter,Walmart,07:00-23:00,20.9970657,-89.6742824,Caucel,Yucatan,0176899042,silver,CEDI-03 · Merida
+Walmart Express,Walmart,,20.6918062,-100.4448061,El Salitre,Queretaro,0409352554,silver,CEDI-10 · Santiago de Queretaro
+Walmart,Walmart,,20.6760508,-100.4328571,El Salitre,Queretaro,0251187557,silver,CEDI-10 · Santiago de Queretaro
+Walmart Express,Walmart,,19.2823096,-99.1732472,Tlalpan,Mexico City,0066547553,silver,CEDI-09 · Puebla
+Walmart,Walmart,,19.2656105,-99.170326,Tlalpan,Mexico City,0500334879,gold,CEDI-09 · Puebla
+Walmart,Walmart,Mo-Su 08:00-21:00,18.9559917,-99.2378287,Fraccionamiento Lomas de Ahuatlan,Morelos,0142815715,bronze,CEDI-09 · Puebla
+Walmart Supercenter,Walmart,Mo-Su 07:00-10:00,19.4175609,-99.1057521,Iztacalco,Mexico City,0080514428,gold,CEDI-09 · Puebla
+Walmart,Walmart,,28.1994923,-105.4650725,Ciudad Delicias,Chihuahua,0500077744,bronze,CEDI-11 · Chihuahua
+Walmart Express,Walmart,,19.3818449,-99.1626121,Colonia del Valle,Mexico City,0166137082,gold,CEDI-09 · Puebla
+Walmart,Walmart,,18.9013826,-99.1747505,Jiutepec,Morelos,0524249817,bronze,CEDI-09 · Puebla
+Walmart,Walmart,,31.821466,-116.600555,Ensenada,Baja California,0439656007,silver,CEDI-04 · San Luis
+Walmart,Walmart,,19.2806056,-103.7312912,Ciudad de Villa de Alvarez,Colima,0594889476,gold,CEDI-08 · Guadalajara
+Walmart,Walmart,,20.5389573,-100.4353881,El Pueblito,Queretaro,0834680986,silver,CEDI-10 · Santiago de Queretaro
+Walmart Supercenter,Walmart,,19.3842354,-99.080422,Iztacalco,Mexico City,0234082429,gold,CEDI-09 · Puebla
+Walmart,Walmart,,19.2872293,-99.699357,San Jose Barbabosa,Mexico,0809574750,bronze,CEDI-09 · Puebla
+Walmart Supercenter,Walmart,,20.9946023,-89.6552849,Merida,Yucatan,0341116155,silver,CEDI-03 · Merida
+Walmart,Walmart,,25.6638941,-100.2420475,Guadalupe,Nuevo Leon,0009129682,bronze,CEDI-12 · Guadalupe
+Walmart,Walmart,,19.5429377,-99.2137542,Tlalnepantla,Mexico,0294968482,silver,CEDI-09 · Puebla
+Walmart,Walmart,Mo-Su 07:00-23:00,18.9025915,-96.9596757,San Jose de Abajo [Unidad Habitacional],Veracruz,0700603294,gold,CEDI-05 · Veracruz
+Walmart,Walmart,,31.6335624,-106.3934245,Socorro,Texas,0543984198,silver,CEDI-11 · Chihuahua
+Walmart Express,Walmart,,19.3899251,-99.1756754,Colonia del Valle,Mexico City,0250247468,gold,CEDI-09 · Puebla
+Walmart,Walmart,,32.4936538,-116.8519718,Terrazas del Valle,Baja California,0579415527,bronze,CEDI-04 · San Luis
+Walmart,Walmart,,20.6544551,-87.080986,Playa del Carmen,Quintana Roo,0326497443,silver,CEDI-03 · Merida
+Walmart Supercenter,Walmart,Mo-Su 7:00-22:00,21.0097091,-89.6219013,Merida,Yucatan,0998365909,silver,CEDI-03 · Merida
+Walmart,Walmart,,19.6773898,-99.1482687,Tultepec,Mexico,0574653094,silver,CEDI-09 · Puebla
+Walmart,Walmart,,32.4956784,-116.9347382,San Luis,Baja California,0620743101,bronze,CEDI-04 · San Luis
+Walmart,Walmart,,31.2892777,-110.94162,Nogales,Sonora,0480728482,bronze,CEDI-13 · Hermosillo
+Walmart Express,Walmart,,19.4350622,-99.2095777,Miguel Hidalgo,Mexico City,0973209947,bronze,CEDI-09 · Puebla
+Walmart Express,Walmart,,20.6946251,-103.384171,Zapopan2,Jalisco,0814462322,gold,CEDI-08 · Guadalajara
+Walmart,Walmart,,18.5150213,-88.2812557,Chetumal,Quintana Roo,0350520233,bronze,CEDI-03 · Merida
+Walmart,Walmart,,22.9032144,-109.8991831,Cabo San Lucas,Baja California Sur,0333191008,bronze,CEDI-01 · La Paz
+Walmart Supercenter,Walmart,,19.4254216,-102.0380574,Uruapan,Michoacan,0578872434,silver,CEDI-10 · Santiago de Queretaro
+Walmart Supercenter,Walmart,,25.6753317,-100.4510267,Santa Catarina,Nuevo Leon,0259159957,silver,CEDI-12 · Guadalupe
+Walmart,Walmart,,22.1655906,-100.9990293,San Luis Potosi,San Luis Potosi,0316377390,silver,CEDI-10 · Santiago de Queretaro
+Walmart,Walmart,,25.6524327,-100.209608,Jardines de la Silla (Jardines),Nuevo Leon,0820472217,gold,CEDI-12 · Guadalupe
+Walmart Express,Walmart,,25.678906,-100.3641394,Garza Garcia,Nuevo Leon,0102711531,silver,CEDI-12 · Guadalupe
+Walmart Supercenter,Walmart,,19.2948448,-99.1091815,Xochimilco,Mexico City,0563473796,gold,CEDI-09 · Puebla
+Walmart,Walmart,,20.3537963,-102.056849,La Piedad Cavadas,Michoacan,0882261776,silver,CEDI-10 · Santiago de Queretaro
+Walmart Supercenter,Walmart,,20.997731,-89.5759965,Merida,Yucatan,0672677453,gold,CEDI-03 · Merida
+Walmart SuperCenter Valle Real,Walmart,,20.7296914,-103.4506815,Nuevo Mexico,Jalisco,0852891539,gold,CEDI-08 · Guadalajara
+Walmart Express,Walmart,,20.731029,-103.4331921,Nuevo Mexico,Jalisco,0290961733,silver,CEDI-08 · Guadalajara
+Walmart,Walmart,,20.6571305,-103.4490454,Guadalajara,Jalisco,0605524563,bronze,CEDI-08 · Guadalajara
+Walmart Express,Walmart,,19.490273,-99.1340218,Colonia Lindavista,Mexico,0832479063,bronze,CEDI-09 · Puebla
+Walmart Express,Walmart,,19.3930088,-99.1542427,Benito Juarez,Mexico City,0758377552,silver,CEDI-09 · Puebla
+Walmart Express,Walmart,,18.9352361,-99.2076141,Colonia los Cerritos,Morelos,0607522098,bronze,CEDI-09 · Puebla
+Walmart,Walmart,,25.6656145,-100.2805387,Guadalupe,Nuevo Leon,0775223037,silver,CEDI-12 · Guadalupe
+Walmart,Walmart,,18.4680763,-97.4154745,Tehuacan,Puebla,0495856271,silver,CEDI-05 · Veracruz
+Walmart Supercenter,Walmart,,20.603543,-103.4005028,Paseo del Prado,Jalisco,0517022375,bronze,CEDI-08 · Guadalajara
+Walmart,Walmart,,21.8825958,-102.2580382,Aguascalientes,Aguascalientes,0452943962,gold,CEDI-10 · Santiago de Queretaro
+Walmart Express,Walmart,,20.6931838,-103.4406003,Zapopan2,Jalisco,0032434177,silver,CEDI-08 · Guadalajara
+Walmart,Walmart,,32.5283392,-117.1186835,Imperial Beach,California,0042162048,bronze,CEDI-04 · San Luis
+Walmart Supercenter,Walmart,,20.809964,-102.7778371,Tepatitlan de Morelos,Jalisco,0610243407,bronze,CEDI-08 · Guadalajara
+Walmart,Walmart,,18.8366256,-99.2137051,Temixco,Morelos,0253080653,bronze,CEDI-09 · Puebla
+Walmart,Walmart,,19.6384616,-99.2233795,Cuautitlan Izcalli,Mexico,0637634556,bronze,CEDI-09 · Puebla
+Walmart,Walmart,,27.4818168,-109.927085,Ciudad Obregon,Sonora,0485758577,silver,CEDI-13 · Hermosillo
+Walmart,Walmart,,16.2315157,-95.208428,La Noria,Oaxaca,0059544106,gold,CEDI-07 · Villahermosa
+Walmart,Walmart,,16.7532671,-93.1362163,Tuxtla Gutierrez,Chiapas,0626076604,bronze,CEDI-07 · Villahermosa
+Walmart Express,Walmart,,19.3392205,-99.1266005,Coyoacan,Mexico City,0883612436,silver,CEDI-09 · Puebla
+Walmart Supercenter,Walmart,,19.3987618,-99.2889231,San Bartolome Coatepec,Mexico,0006423065,bronze,CEDI-09 · Puebla
+Walmart Express,Walmart,,19.3728901,-99.2789704,Col. Bosques de las Lomas,Mexico City,0265765528,bronze,CEDI-09 · Puebla
+Walmart Supercenter,Walmart,,19.5530701,-99.2905056,Ciudad Lopez Mateos,Mexico,0653336972,silver,CEDI-09 · Puebla
+Walmart,Walmart,,25.7939408,-100.3272884,General Escobedo,Nuevo Leon,0527389395,gold,CEDI-12 · Guadalupe
+Walmart,Walmart,,16.7505212,-93.0764066,Tuxtla Gutierrez,Chiapas,0891229691,gold,CEDI-07 · Villahermosa
+Walmart Express,Walmart,,18.9368052,-99.2474479,Cuernavaca,Morelos,0573763965,silver,CEDI-09 · Puebla
+Walmart,Walmart,Mo-Su 07:00-23:00,18.8625788,-97.0948134,Orizaba,Veracruz,0154157306,silver,CEDI-05 · Veracruz
+Walmart,Walmart,,28.6189818,-106.0290466,Chihuahua,Chihuahua,0577458013,silver,CEDI-11 · Chihuahua
+Walmart Supercenter,Walmart,Mo-Su 08:00-22:30,19.4196954,-99.0940449,Venustiano Carranza,Mexico City,0075682233,silver,CEDI-09 · Puebla
+Walmart Supercenter,Walmart,,20.5875543,-103.4427492,La Tijera,Jalisco,0148849827,gold,CEDI-08 · Guadalajara
+Walmart Express,Walmart,,19.3448608,-99.1351934,Coyoacan,Mexico City,0659929700,bronze,CEDI-09 · Puebla
+Walmart Supercenter,Walmart,,32.3784659,-117.0589563,Rosarito,Baja California,0462278708,silver,CEDI-04 · San Luis
+Walmart,Walmart,,19.8246235,-90.5457555,Campeche,Campeche,0504250659,silver,CEDI-03 · Merida
+Walmart,Walmart,,19.2992241,-98.8859091,Ixtapaluca,Mexico,0323706866,bronze,CEDI-09 · Puebla
+Walmart,Walmart,,21.038754,-89.6043101,Merida,Yucatan,0814391823,bronze,CEDI-03 · Merida
+Walmart,Walmart,,25.7599588,-100.4054872,Mitras Poniente,Nuevo Leon,0496320038,bronze,CEDI-12 · Guadalupe
+Walmart,Walmart,,32.4878693,-116.9455419,San Luis,Baja California,0350941127,bronze,CEDI-04 · San Luis
+Walmart,Walmart,,19.5189913,-99.1168461,Colonia Lindavista,Mexico,0252274871,gold,CEDI-09 · Puebla
+Walmart Supercenter,Walmart,,21.8598263,-102.2960654,Aguascalientes,Aguascalientes,0861529533,bronze,CEDI-10 · Santiago de Queretaro
+Walmart Supercenter,Walmart,Mo-Su 08:00-22:00,28.7274465,-106.1299761,Chihuahua,Chihuahua,0778286412,gold,CEDI-11 · Chihuahua
+Walmart Express,Walmart,Mo-Su 07:00-23:00,19.4152626,-99.1780745,Polanco,Mexico City,0540599241,bronze,CEDI-09 · Puebla
+Walmart,Walmart,,29.0983153,-110.9941515,Hermosillo,Sonora,0514492898,gold,CEDI-13 · Hermosillo
+Walmart,Walmart,,19.6927456,-101.1488709,Puerto de Buenavista (Lazaro Cardenas),Michoacan,0052131928,silver,CEDI-10 · Santiago de Queretaro
+Walmart La Isla,Walmart,,24.8249887,-107.3702406,Culiacan,Sinaloa,0155552331,gold,CEDI-01 · La Paz
+Walmart,Walmart,,19.6591248,-99.0184522,Santo Tomas Chiconautla,Mexico,0153394711,bronze,CEDI-09 · Puebla
+Walmart,Walmart,,19.2994268,-98.9534528,San Miguel Xico Viejo,Mexico,0495676387,bronze,CEDI-09 · Puebla
+Walmart,Walmart,,19.0770185,-98.2243385,Sanctorum,Puebla,0065662163,silver,CEDI-09 · Puebla
+Walmart Express,Walmart,,19.033006,-98.2249872,Puebla,Puebla,0611069483,silver,CEDI-09 · Puebla
+Walmart Express,Walmart,,18.9442032,-99.2278842,Cuernavaca,Morelos,0022158981,bronze,CEDI-09 · Puebla
+Walmart,Walmart,,29.1221182,-110.9492411,Hermosillo,Sonora,0084430258,bronze,CEDI-13 · Hermosillo
+Walmart,Walmart,,21.0984411,-101.6601165,Leon,Guanajuato,0296101681,bronze,CEDI-10 · Santiago de Queretaro
+Walmart Express,Walmart,,18.9562867,-99.2463575,Fraccionamiento Lomas de Ahuatlan,Morelos,0004951497,silver,CEDI-09 · Puebla
+Walmart Supercenter,Walmart,,19.515425,-99.2310742,Vista Hermosa,Mexico,0420231608,gold,CEDI-09 · Puebla
+Walmart,Walmart,,19.7899192,-99.0547159,Arbolada los Sauces,Mexico,0489619488,gold,CEDI-09 · Puebla
+Walmart,Walmart,,23.7405969,-99.1347435,Ciudad Victoria,Tamaulipas,0200566601,bronze,CEDI-02 · Tampico
+Walmart Supercenter,Walmart,,19.2613176,-98.878062,Chalco de Diaz Covarrubias,Mexico,0719358747,gold,CEDI-09 · Puebla
+Walmart,Walmart,,22.277706,-97.8420689,Ciudad Madero,Tamaulipas,0625458887,bronze,CEDI-02 · Tampico
+Walmart,Walmart,,28.697911,-106.139114,Chihuahua,Chihuahua,0444335886,silver,CEDI-11 · Chihuahua
+Walmart Supercenter,Walmart,,28.6658722,-106.1307812,Chihuahua,Chihuahua,0209583034,gold,CEDI-11 · Chihuahua
+Walmart Supercenter,Walmart,,32.4744702,-117.0004853,Tijuana,Baja California,0579051411,silver,CEDI-04 · San Luis
+Walmart Colosio,Walmart,Mo-Su 07:00-23:00,29.0833106,-111.0214687,Hermosillo,Sonora,0987370492,silver,CEDI-13 · Hermosillo
+Walmart Supercenter,Walmart,,19.3445769,-99.1827557,Coyoacan,Mexico City,0031330879,gold,CEDI-09 · Puebla
+Walmart Supercenter,Walmart,,17.5256642,-99.489861,Chilpancingo de los Bravos,Guerrero,0922581458,silver,CEDI-09 · Puebla
+Walmart,Walmart,,16.7447666,-92.660117,San Antonio del Monte,Chiapas,0966970199,silver,CEDI-07 · Villahermosa
+Walmart,Walmart,,21.1251674,-86.8754778,Alfredo V. Bonfil,Quintana Roo,0891114346,gold,CEDI-03 · Merida
+Walmart Express,Walmart,,19.0762595,-96.093022,Playa de la Libertad,Veracruz,0882993710,bronze,CEDI-05 · Veracruz
+Walmart Express,Walmart,,19.4223365,-99.2055158,Polanco,Mexico City,0764650909,gold,CEDI-09 · Puebla
+Walmart Express,Walmart,Mo-Su 07:00-23:00,19.3395759,-99.2188186,Magdalena Contreras,Mexico City,0841337651,silver,CEDI-09 · Puebla
+Walmart,Walmart,,16.844763,-99.847337,Acapulco de Juarez,Guerrero,0310532560,gold,CEDI-09 · Puebla
+Walmart Supercenter,Walmart,,20.559802,-100.4273835,El Pueblito,Queretaro,0683669109,bronze,CEDI-10 · Santiago de Queretaro
+Walmart Supercenter,Walmart,,19.5160229,-99.2677855,Rincon Verde,Mexico,0107405843,bronze,CEDI-09 · Puebla
+Walmart Supercenter,Walmart,Mo-Su 07:00-22:00,19.4092548,-99.075272,Iztacalco,Mexico City,0571152038,gold,CEDI-09 · Puebla
+Walmart,Walmart,,19.3238448,-98.2297135,Acxotla del Rio,Tlaxcala,0648253662,gold,CEDI-09 · Puebla
+Walmart Supercenter,Walmart,,19.249667,-99.5897545,San Salvador Tizatlalli,Mexico,0074257414,silver,CEDI-09 · Puebla
+Walmart,Walmart,,19.0172782,-98.2634913,Tlazcalancingo,Puebla,0070475697,silver,CEDI-09 · Puebla
+Walmart Supercenter,Walmart,,20.743896,-103.4095565,Zapopan2,Jalisco,0009372043,gold,CEDI-08 · Guadalajara
+Walmart Supercenter,Walmart,,25.7915827,-100.2476839,Fraccionamiento Cosmopolis Octavo Sector,Nuevo Leon,0274937564,silver,CEDI-12 · Guadalupe
+Walmart Supercenter,Walmart,,19.3640196,-99.2886505,Cuajimalpa,Mexico City,0020072759,bronze,CEDI-09 · Puebla
+Walmart,Walmart,,21.1543228,-86.8337325,Cancun,Quintana Roo,0024041564,gold,CEDI-03 · Merida
+Walmart,Walmart,,25.8058384,-108.990648,Los Mochis,Sinaloa,0627965914,bronze,CEDI-01 · La Paz
+Walmart Supercenter,Walmart,,20.5832283,-101.2246184,Salamanca,Guanajuato,0134491481,silver,CEDI-10 · Santiago de Queretaro
+Walmart,Walmart,,25.8594122,-97.5195236,Heroica Matamoros,Tamaulipas,0185637655,silver,CEDI-12 · Guadalupe
+Walmart Reforma Huinala,Walmart,,25.7236045,-100.1642325,Fraccionamiento Mision de San Javier,Nuevo Leon,0587587952,silver,CEDI-12 · Guadalupe
+Walmart,Walmart,,20.6572342,-101.3432144,Irapuato,Guanajuato,0768409629,silver,CEDI-10 · Santiago de Queretaro
+Walmart Supercenter,Walmart,,19.5159382,-98.8685193,Texcoco de Mora,Mexico,0190834532,silver,CEDI-09 · Puebla
+Walmart,Walmart,,18.9328078,-99.2275323,Cuernavaca,Morelos,0273980965,gold,CEDI-09 · Puebla
+Walmart,Walmart,,18.9343885,-99.1965867,Colonia los Cerritos,Morelos,0984041517,silver,CEDI-09 · Puebla
+Walmart,Walmart,,14.8742921,-92.2833104,Cebadilla 1ra. Seccion,Chiapas,0408948958,bronze,CEDI-07 · Villahermosa
+Walmart,Walmart,,21.9662905,-98.9933711,Ciudad Valles,San Luis Potosi,0286670016,bronze,CEDI-02 · Tampico
+Walmart Supercenter,Walmart,,21.3439694,-101.9458741,Lagos de Moreno,Jalisco,0857811842,silver,CEDI-10 · Santiago de Queretaro
+Walmart,Walmart,,20.5686805,-97.437351,Villa de las Flores,Veracruz,0606341858,bronze,CEDI-05 · Veracruz
+Walmart,Walmart,,20.9478096,-97.4334483,Alto Lucero,Veracruz,0757014416,gold,CEDI-02 · Tampico
+Walmart Express,Walmart,Mo-Su 07:00-22:00,19.1817045,-99.5898311,San Andres Ocotlan,Morelos,0455983692,bronze,CEDI-09 · Puebla
+Walmart,Walmart,,19.2134364,-96.1921704,Rio Medio [Granja],Veracruz,0200836228,bronze,CEDI-05 · Veracruz
+Walmart Express,Walmart,,20.6857445,-103.3956332,Guadalajara,Jalisco,0720456728,bronze,CEDI-08 · Guadalajara
+Walmart Supercenter,Walmart,,20.7444311,-103.3876492,Zapopan,Jalisco,0059935600,bronze,CEDI-08 · Guadalajara
+Walmart,Walmart,,32.5957582,-115.3608351,Puebla,Baja California,0672508905,gold,CEDI-04 · San Luis
+Walmart,Walmart,,20.0884977,-98.7191646,Colinas de Plata,Hidalgo,0729991517,silver,CEDI-09 · Puebla
+Walmart Supercenter,Walmart,Mo-Su 08:00-23:00,32.63368,-115.3850494,Islas Agrarias Grupo A,Baja California,0221400053,bronze,CEDI-04 · San Luis
+Walmart Express,Walmart,,20.7089804,-103.4110818,Zapopan2,Jalisco,0979797812,bronze,CEDI-08 · Guadalajara
+Walmart,Walmart,,25.5765728,-103.4143499,Torreon,Coahuila,0201913737,silver,CEDI-06 · Victoria de Durango
+Walmart fundidores Lopez mateos,Walmart,,25.733662,-100.2461405,San Nicolas de los Garza,Nuevo Leon,0010584443,silver,CEDI-12 · Guadalupe
+Walmart,Walmart,"Mo-Su,PH 07:00-23:00",20.6703019,-87.064092,Playa del Carmen,Quintana Roo,0769359224,silver,CEDI-03 · Merida
+Walmart Supercenter,Walmart,,19.6771221,-103.4762453,Ciudad Guzman,Jalisco,0772360770,silver,CEDI-08 · Guadalajara
+Walmart Supercenter,Walmart,,29.3192884,-100.9556492,Ciudad Acuna,Coahuila,0685088889,silver,CEDI-12 · Guadalupe
+Walmart Express,Walmart,,21.1596119,-86.8197395,Cancun,Quintana Roo,0869240541,gold,CEDI-03 · Merida
+Walmart,Walmart,,25.8071194,-100.22328,Fraccionamiento Cosmopolis Octavo Sector,Nuevo Leon,0796604986,silver,CEDI-12 · Guadalupe
+Walmart Express,Walmart,,21.1121062,-86.8413163,Alfredo V. Bonfil,Quintana Roo,0629939842,silver,CEDI-03 · Merida
+Walmart,Walmart,,25.6453693,-100.1681501,Valle de Juarez,Nuevo Leon,0260860265,bronze,CEDI-12 · Guadalupe
+Walmart Supercenter,Walmart,,31.6722874,-106.3863173,Socorro,Texas,0862542880,gold,CEDI-11 · Chihuahua
+Walmart Express,Walmart,,21.0013614,-89.5931361,Merida,Yucatan,0934220948,silver,CEDI-03 · Merida
+Walmart,Walmart,,19.0562996,-98.1601438,Casa Blanca,Puebla,0244052226,bronze,CEDI-09 · Puebla
+Walmart,Walmart,,19.068167,-98.1746352,Puebla,Puebla,0743897415,silver,CEDI-09 · Puebla
+Walmart Express,Walmart,,18.9834761,-98.1950896,18 de Marzo,Puebla,0816491688,silver,CEDI-09 · Puebla
+Walmart,Walmart,,19.0194063,-98.198253,Puebla,Puebla,0504423452,silver,CEDI-09 · Puebla
+Walmart,Walmart,,18.9865291,-98.2398805,El Capulo (La Quebradora),Puebla,0581424967,gold,CEDI-09 · Puebla
+Walmart,Walmart,,18.99726,-98.2790175,Santa Clara,Puebla,0486758082,silver,CEDI-09 · Puebla
+Walmart Express,Walmart,,19.0496416,-98.2481638,Santiago Momoxpan,Puebla,0182676789,bronze,CEDI-09 · Puebla
+Walmart,Walmart,,25.8669084,-97.4762507,Heroica Matamoros,Tamaulipas,0573814028,silver,CEDI-12 · Guadalupe
+Walmart Express,Walmart,,19.3182206,-99.2111505,Magdalena Contreras,Mexico City,0400502613,bronze,CEDI-09 · Puebla
+Walmart Express,Walmart,,19.4068446,-99.2391052,Col. Bosques de las Lomas,Mexico City,0704089072,bronze,CEDI-09 · Puebla
+Walmart,Walmart,,32.6212346,-115.506706,Vinas del Sol,Baja California,0411672723,silver,CEDI-04 · San Luis
+Walmart,Walmart,,18.1024748,-96.1336721,Tuxtepec,Oaxaca,0703295412,silver,CEDI-05 · Veracruz
+Walmart,Walmart,,25.780021,-100.2147237,Fraccionamiento Cosmopolis Octavo Sector,Nuevo Leon,0880816915,gold,CEDI-12 · Guadalupe
+Walmart,Walmart,,20.9864077,-89.6161048,Merida,Yucatan,0088453079,silver,CEDI-03 · Merida
+Walmart Supercenter,Walmart,,22.1096145,-100.8923382,La Pila,San Luis Potosi,0415663612,gold,CEDI-10 · Santiago de Queretaro
+Walmart,Walmart,,31.3080925,-113.521563,Puerto Penasco,Sonora,0513429452,silver,CEDI-04 · San Luis
+Walmart Express,Walmart,,19.407113,-99.2386439,Col. Bosques de las Lomas,Mexico City,0682085920,bronze,CEDI-09 · Puebla
+Walmart Supercenter,Walmart,,32.5756063,-116.617677,Tecate,Baja California,0335400179,gold,CEDI-04 · San Luis
+Walmart Supercenter,Walmart,,22.8893504,-109.9090489,Cabo San Lucas,Baja California Sur,0213979587,bronze,CEDI-01 · La Paz
+Walmart,Walmart,,29.1265335,-111.0218091,Hermosillo,Sonora,0954796658,silver,CEDI-13 · Hermosillo
+Soriana Híper,Soriana,,20.6297708,-105.2300811,Puerto Vallarta,Jalisco,0392835567,bronze,CEDI-08 · Guadalajara
+MEGA Soriana,Soriana,Mo-Su 07:00-23:00,20.6754029,-103.4290771,Guadalajara,Jalisco,0661222573,silver,CEDI-08 · Guadalajara
+Soriana,Soriana,,19.3841452,-99.1889298,Colonia del Valle,Mexico City,0021959357,silver,CEDI-09 · Puebla
+Soriana,Soriana,24/7,19.3792057,-99.1863072,Colonia del Valle,Mexico City,0384688383,silver,CEDI-09 · Puebla
+Soriana,Soriana,,19.3759927,-99.1632964,Colonia del Valle,Mexico City,0290727669,silver,CEDI-09 · Puebla
+Soriana,Soriana,,25.7059962,-100.3384935,Monterrey,Nuevo Leon,0576842647,silver,CEDI-12 · Guadalupe
+Soriana,Soriana,,25.6876915,-100.3247648,Monterrey,Nuevo Leon,0967140381,bronze,CEDI-12 · Guadalupe
+Soriana,Soriana,,19.3183365,-98.2213968,San Buenaventura Atempan,Tlaxcala,0550556066,bronze,CEDI-09 · Puebla
+Soriana Mercado,Soriana,,16.8591719,-99.8936712,Acapulco de Juarez,Guerrero,0240304235,gold,CEDI-09 · Puebla
+Soriana Híper,Soriana,,17.6478802,-101.5434665,Ixtapa-Zihuatanejo,Guerrero,0105630142,bronze,CEDI-09 · Puebla
+Soriana,Soriana,,24.0267981,-104.6632537,Victoria de Durango,Durango,0868471527,silver,CEDI-06 · Victoria de Durango
+Soriana,Soriana,,24.0440865,-104.6306074,Victoria de Durango,Durango,0125541821,bronze,CEDI-06 · Victoria de Durango
+Soriana,Soriana,,16.7482223,-93.0807664,Tuxtla Gutierrez,Chiapas,0212377075,bronze,CEDI-07 · Villahermosa
+Soriana,Soriana,,19.3860571,-99.1636083,Colonia del Valle,Mexico City,0140122456,bronze,CEDI-09 · Puebla
+Soriana,Soriana,,19.3695502,-99.1577107,Colonia del Valle,Mexico City,0293056484,bronze,CEDI-09 · Puebla
+MEGA Soriana,Soriana,,21.152557,-86.8451583,Cancun,Quintana Roo,0179993795,bronze,CEDI-03 · Merida
+Soriana,Soriana,,19.4097135,-98.1460992,Apizaco,Tlaxcala,0559206933,bronze,CEDI-09 · Puebla
+Soriana,Soriana,Mo-Fr 08:30-20:00,18.1437612,-94.4743709,Coatzacoalcos,Veracruz,0872461524,silver,CEDI-07 · Villahermosa
+Soriana,Soriana,Mo-Su 08:30-22:00,18.1220624,-94.4437755,Coatzacoalcos,Veracruz,0152782110,silver,CEDI-07 · Villahermosa
+MEGA Soriana,Soriana,,19.0659537,-98.2121305,Puebla,Puebla,0542500967,silver,CEDI-09 · Puebla
+MEGA Soriana,Soriana,,20.6989881,-103.3372332,Zapopan,Jalisco,0066492416,silver,CEDI-08 · Guadalajara
+Soriana Híper,Soriana,,19.0393052,-98.2069474,Puebla,Puebla,0806212750,bronze,CEDI-09 · Puebla
+Soriana,Soriana,,18.6512642,-91.8051555,Ciudad del Carmen,Campeche,0349647685,gold,CEDI-07 · Villahermosa
+Soriana Híper,Soriana,,25.5649455,-103.4415288,Torreon,Coahuila,0955353779,silver,CEDI-06 · Victoria de Durango
+Soriana,Soriana,Mo-Su 08:00-22:00,19.5706372,-99.0419955,Colonia el Salado,Mexico,0772708992,gold,CEDI-09 · Puebla
+Soriana,Soriana,,25.6390756,-100.2825621,Guadalupe,Nuevo Leon,0312079152,bronze,CEDI-12 · Guadalupe
+Soriana,Soriana,,25.4572742,-101.0106287,Saltillo,Coahuila,0836021379,silver,CEDI-12 · Guadalupe
+MEGA Soriana,Soriana,,20.6983508,-103.3866739,Zapopan2,Jalisco,0790600989,silver,CEDI-08 · Guadalajara
+Soriana,Soriana,,23.2475456,-106.4370472,Mazatlan,Sinaloa,0441095797,silver,CEDI-06 · Victoria de Durango
+Soriana Híper,Soriana,,19.1039259,-104.3268237,Manzanillo,Colima,0128816788,silver,CEDI-08 · Guadalajara
+Soriana,Soriana,,17.0808036,-96.7116019,Oaxaca de Juarez,Oaxaca,0549097184,silver,CEDI-05 · Veracruz
+MEGA Soriana,Soriana,,20.3009505,-103.1900251,Chapala,Jalisco,0084543935,silver,CEDI-08 · Guadalajara
+Soriana Mercado,Soriana,,25.4030868,-101.0270577,Saltillo,Coahuila,0027485762,bronze,CEDI-12 · Guadalupe
+Soriana,Soriana,,20.7325339,-103.4523311,Nuevo Mexico,Jalisco,0759848378,silver,CEDI-08 · Guadalajara
+MEGA Soriana,Soriana,,19.1608115,-96.1074154,Veracruz,Veracruz,0157144687,gold,CEDI-05 · Veracruz
+Soriana,Soriana,,25.683014,-100.3570995,Garza Garcia,Nuevo Leon,0711493248,silver,CEDI-12 · Guadalupe
+Soriana,Soriana,,16.858422,-99.8904878,Acapulco de Juarez,Guerrero,0500522690,gold,CEDI-09 · Puebla
+MEGA Soriana,Soriana,,25.6719453,-100.4208926,San Pedro Garza Garcia,Nuevo Leon,0943217455,gold,CEDI-12 · Guadalupe
+MEGA Soriana,Soriana,,25.6890472,-100.4550875,Santa Catarina,Nuevo Leon,0050587715,silver,CEDI-12 · Guadalupe
+Soriana,Soriana,,25.7204199,-100.3816898,San Pedro Garza Garcia,Nuevo Leon,0322275253,silver,CEDI-12 · Guadalupe
+Soriana,Soriana,,25.6611256,-100.2140791,Jardines de la Silla (Jardines),Nuevo Leon,0326904185,gold,CEDI-12 · Guadalupe
+Soriana,Soriana,,25.7883834,-100.3206177,General Escobedo,Nuevo Leon,0072869997,gold,CEDI-12 · Guadalupe
+MEGA Soriana,Soriana,,20.5797787,-103.4481842,La Tijera,Jalisco,0514025513,silver,CEDI-08 · Guadalajara
+Soriana Mercado,Soriana,,20.7059752,-103.3478231,Zapopan,Jalisco,0038159614,bronze,CEDI-08 · Guadalajara
+Soriana,Soriana,,32.6396416,-115.4513356,Mexicali,Baja California,0498260345,silver,CEDI-04 · San Luis
+Soriana,Soriana,,27.0610546,-109.440554,Navojoa,Sonora,0569026645,silver,CEDI-13 · Hermosillo
+Soriana,Soriana,,25.6883421,-100.255616,Guadalupe,Nuevo Leon,0700604297,bronze,CEDI-12 · Guadalupe
+Soriana,Soriana,,24.8165681,-107.3644829,Culiacan,Sinaloa,0950311508,silver,CEDI-01 · La Paz
+Soriana,Soriana,,22.1533514,-100.9547926,San Luis Potosi,San Luis Potosi,0590605862,gold,CEDI-10 · Santiago de Queretaro
+MEGA Soriana,Soriana,,22.7615117,-102.5473902,Guadalupe,Zacatecas,0755517697,gold,CEDI-10 · Santiago de Queretaro
+Soriana Híper,Soriana,,22.2989134,-97.8761346,Tampico,Tamaulipas,0964456156,silver,CEDI-02 · Tampico
+Soriana Mercado,Soriana,,28.1845791,-105.483959,Ciudad Delicias,Chihuahua,0980037051,silver,CEDI-11 · Chihuahua
+MEGA Soriana,Soriana,,19.4643767,-99.0564684,Venustiano Carranza,Mexico City,0951727956,silver,CEDI-09 · Puebla
+Soriana,Soriana,,19.3848539,-99.0746673,Iztacalco,Mexico City,0263862989,silver,CEDI-09 · Puebla
+Soriana,Soriana,,24.0309923,-104.6482578,Victoria de Durango,Durango,0138099664,silver,CEDI-06 · Victoria de Durango
+MEGA Soriana,Soriana,Mo-Su 08:00-22:00,21.0198148,-101.2599534,Guanajuato,Guanajuato,0027745407,silver,CEDI-10 · Santiago de Queretaro
+Soriana,Soriana,,20.6757945,-101.3401184,Irapuato,Guanajuato,0423158779,bronze,CEDI-10 · Santiago de Queretaro
+Soriana Híper,Soriana,,32.6218173,-115.4780813,Mexicali,Baja California,0065619080,bronze,CEDI-04 · San Luis
+MEGA Soriana,Soriana,,17.9692972,-92.9710724,Villahermosa,Tabasco,0905735227,bronze,CEDI-07 · Villahermosa
+MEGA Soriana,Soriana,,17.9723372,-92.9236657,Villahermosa,Tabasco,0307727342,silver,CEDI-07 · Villahermosa
+Soriana,Soriana,,21.9672015,-99.0000574,Ciudad Valles,San Luis Potosi,0504102708,bronze,CEDI-02 · Tampico
+MEGA Soriana,Soriana,,18.9329037,-99.2324104,Cuernavaca,Morelos,0753948546,silver,CEDI-09 · Puebla
+MEGA Soriana,Soriana,,25.6639416,-100.3840816,Garza Garcia,Nuevo Leon,0917495129,bronze,CEDI-12 · Guadalupe
+Soriana,Soriana,,20.5320379,-100.8378572,Celaya,Guanajuato,0214164623,silver,CEDI-10 · Santiago de Queretaro
+Soriana,Soriana,Mo-Su 07:00-22:00,20.6154121,-100.4046084,Santiago de Queretaro,Queretaro,0495373497,bronze,CEDI-10 · Santiago de Queretaro
+Soriana,Soriana,,32.483201,-114.7794048,San Luis,Arizona,0623505102,bronze,CEDI-04 · San Luis
+Soriana,Soriana,,19.5512938,-99.0183372,Colonia el Salado,Mexico,0750376761,gold,CEDI-09 · Puebla
+Soriana,Soriana,,23.2397944,-106.4426538,Mazatlan,Sinaloa,0132917959,silver,CEDI-06 · Victoria de Durango
+Soriana,Soriana,,25.7584904,-103.0017615,San Pedro de Las Colonias,Coahuila,0503160081,bronze,CEDI-06 · Victoria de Durango
+MEGA Soriana,Soriana,,21.1488501,-86.8361877,Cancun,Quintana Roo,0179370733,bronze,CEDI-03 · Merida
+Soriana Súper,Soriana,,32.4496037,-114.7811299,San Luis Rio Colorado,Sonora,0011542563,gold,CEDI-04 · San Luis
+MEGA Soriana,Soriana,,31.7353561,-106.4274594,Ciudad Juarez,Chihuahua,0552049793,silver,CEDI-11 · Chihuahua
+Soriana Híper,Soriana,,25.5149516,-103.4159025,Torreon,Coahuila,0439112995,silver,CEDI-06 · Victoria de Durango
+Soriana,Soriana,,32.4641376,-114.7527303,San Luis Rio Colorado,Sonora,0993434357,silver,CEDI-04 · San Luis
+MEGA Soriana,Soriana,,19.410555,-98.9260343,Santa Martha,Mexico,0283566994,gold,CEDI-09 · Puebla
+Soriana,Soriana,,19.4294268,-98.9604163,Santa Maria Chimalhuacan,Mexico,0145058612,gold,CEDI-09 · Puebla
+Soriana,Soriana,"Mo-Su,PH 08:00-22:00",19.3950186,-98.9715633,Poligonos,Mexico,0702025350,bronze,CEDI-09 · Puebla
+Soriana,Soriana,,29.082692,-110.9812965,Hermosillo,Sonora,0237704786,gold,CEDI-13 · Hermosillo
+Soriana Express Tizimín,Soriana,,21.1405521,-88.1479927,Tizimin,Yucatan,0884870583,bronze,CEDI-03 · Merida
+Soriana,Soriana,Mo-Su 08:00-23:00,18.1441883,-94.4294244,Coatzacoalcos,Veracruz,0192776744,bronze,CEDI-07 · Villahermosa
+Soriana,Soriana,,20.126214,-98.7580127,Pachuca de Soto,Hidalgo,0636049478,silver,CEDI-09 · Puebla
+Soriana,Soriana,,20.0545855,-98.7827492,La Colonia,Hidalgo,0501074102,bronze,CEDI-09 · Puebla
+Soriana,Soriana,,18.1421663,-92.8637227,Macultepec,Tabasco,0517719833,silver,CEDI-07 · Villahermosa
+MEGA Soriana,Soriana,,28.7381623,-106.1328444,Chihuahua,Chihuahua,0771317313,gold,CEDI-11 · Chihuahua
+Soriana,Soriana,,19.4708517,-99.171036,Azcapotzalco,Mexico City,0736233018,silver,CEDI-09 · Puebla
+MEGA Soriana,Soriana,,18.9998539,-98.2301974,Puebla,Puebla,0938687292,bronze,CEDI-09 · Puebla
+MEGA Soriana,Soriana,,28.7051679,-106.1292695,Chihuahua,Chihuahua,0614332023,bronze,CEDI-11 · Chihuahua
+Soriana,Soriana,,25.6669435,-100.4593459,Santa Catarina,Nuevo Leon,0935812448,silver,CEDI-12 · Guadalupe
+Soriana,Soriana,,19.042836,-98.1641778,Puebla,Puebla,0399335962,silver,CEDI-09 · Puebla
+Soriana,Soriana,,24.0086025,-104.6641332,Victoria de Durango,Durango,0433781634,silver,CEDI-06 · Victoria de Durango
+Soriana,Soriana,,28.6407355,-106.1025787,Chihuahua,Chihuahua,0551485178,bronze,CEDI-11 · Chihuahua
+Soriana,Soriana,,28.6288894,-106.1218706,Chihuahua,Chihuahua,0785675810,bronze,CEDI-11 · Chihuahua
+Soriana Express,Soriana,Mo-Su 08:00-21:00,20.5451143,-104.045935,Ameca,Jalisco,0063642488,silver,CEDI-08 · Guadalajara
+Soriana,Soriana,,20.5649165,-100.3748313,Santiago de Queretaro,Queretaro,0015737691,gold,CEDI-10 · Santiago de Queretaro
+Soriana,Soriana,,25.7037299,-100.163214,Loma la Paz,Nuevo Leon,0001650583,bronze,CEDI-12 · Guadalupe
+MEGA Soriana,Soriana,,28.6606619,-106.0944133,Chihuahua,Chihuahua,0568051929,silver,CEDI-11 · Chihuahua
+MEGA Soriana,Soriana,,31.6491779,-106.3905288,Socorro,Texas,0012136352,silver,CEDI-11 · Chihuahua
+Soriana,Soriana,,25.5767188,-100.001495,Cadereyta,Nuevo Leon,0275960226,silver,CEDI-12 · Guadalupe
+Soriana,Soriana,,21.2774436,-89.6618373,Progreso de Castro,Yucatan,0367005874,silver,CEDI-03 · Merida
+MEGA Soriana,Soriana,,19.2865297,-99.653556,Toluca,Mexico,0396835348,bronze,CEDI-09 · Puebla
+Soriana,Soriana,Mo-Su 07:00-22:00,32.4359712,-117.0420317,Porticos de San Antonio,Baja California,0687243963,bronze,CEDI-04 · San Luis
+Soriana,Soriana,,21.4714314,-101.2157217,San Felipe,Guanajuato,0022352506,silver,CEDI-10 · Santiago de Queretaro
+Soriana,Soriana,,21.9166216,-102.2907426,Aguascalientes,Aguascalientes,0425014678,gold,CEDI-10 · Santiago de Queretaro
+MEGA Soriana,Soriana,,19.7972428,-99.1062048,Zumpango,Mexico,0851211744,bronze,CEDI-09 · Puebla
+Soriana,Soriana,,20.4481589,-97.3110274,Papantla de Olarte,Veracruz,0346484715,silver,CEDI-05 · Veracruz
+Soriana,Soriana,,31.8660857,-116.6590815,El Sauzal,Baja California,0151412977,silver,CEDI-04 · San Luis
+Soriana,Soriana,,25.7428702,-100.1753308,Apodaca,Nuevo Leon,0133656628,bronze,CEDI-12 · Guadalupe
+MEGA Soriana,Soriana,,18.897337,-99.1673052,Jiutepec,Morelos,0015201742,silver,CEDI-09 · Puebla
+Soriana,Soriana,,31.815409,-116.5960616,Ensenada,Baja California,0326948515,bronze,CEDI-04 · San Luis
+Soriana Súper,Soriana,,21.1157409,-86.8808313,Alfredo V. Bonfil,Quintana Roo,0945432714,bronze,CEDI-03 · Merida
+MEGA Soriana,Soriana,,19.646644,-99.2062429,Cuautitlan Izcalli,Mexico,0594930756,gold,CEDI-09 · Puebla
+MEGA Soriana,Soriana,,19.2875718,-99.6883368,San Buenaventura,Mexico,0646713937,silver,CEDI-09 · Puebla
+Soriana Súper,Soriana,,22.1252937,-101.0197405,San Luis Potosi,San Luis Potosi,0863030762,gold,CEDI-10 · Santiago de Queretaro
+Soriana,Soriana,,19.4088716,-99.1843333,Polanco,Mexico City,0251414080,bronze,CEDI-09 · Puebla
+Soriana,Soriana,,18.9168013,-99.2377011,Cuernavaca,Morelos,0597104501,silver,CEDI-09 · Puebla
+SORIANA Mercado Express,Soriana,Mo-Su 8:00-22:00,20.691207,-88.2078298,Valladolid,Yucatan,0511721094,gold,CEDI-03 · Merida
+Soriana,Soriana,,25.6829608,-100.2996318,Monterrey,Nuevo Leon,0404550143,bronze,CEDI-12 · Guadalupe
+Soriana,Soriana,,25.6804237,-100.2512037,Guadalupe,Nuevo Leon,0968155715,silver,CEDI-12 · Guadalupe
+Soriana Híper,Soriana,,19.2725922,-103.7374702,Ciudad de Villa de Alvarez,Colima,0324232499,silver,CEDI-08 · Guadalajara
+Soriana,Soriana,,20.559433,-103.3646993,Altus Bosques,Jalisco,0124176811,silver,CEDI-08 · Guadalajara
+MEGA Soriana,Soriana,,20.6471168,-103.3190896,Tlaquepaque,Jalisco,0253215101,gold,CEDI-08 · Guadalajara
+Soriana Híper,Soriana,,20.9978808,-89.6227319,Merida,Yucatan,0034300978,bronze,CEDI-03 · Merida
+MEGA Soriana,Soriana,,28.6441919,-106.0131014,Chihuahua,Chihuahua,0401007379,silver,CEDI-11 · Chihuahua
+Soriana,Soriana,,25.5939069,-103.5035673,Gomez Palacio,Durango,0898880754,silver,CEDI-06 · Victoria de Durango
+Soriana,Soriana,,18.2531132,-93.2320975,Comalcalco,Tabasco,0580213473,silver,CEDI-07 · Villahermosa
+Soriana,Soriana,,25.7075168,-100.285561,San Nicolas de los Garza,Nuevo Leon,0182335806,bronze,CEDI-12 · Guadalupe
+Soriana,Soriana,,16.4439225,-95.0265706,Juchitan de Zaragoza,Oaxaca,0506654469,bronze,CEDI-07 · Villahermosa
+Soriana,Soriana,,32.5144643,-116.8908731,Terrazas del Valle,Baja California,0252809654,gold,CEDI-04 · San Luis
+Soriana,Soriana,,32.5141282,-116.8875924,Terrazas del Valle,Baja California,0811556642,silver,CEDI-04 · San Luis
+Soriana,Soriana,,19.4017371,-99.1588135,Benito Juarez,Mexico City,0438908315,silver,CEDI-09 · Puebla
+Soriana,Soriana,,25.6606338,-100.2961813,Monterrey,Nuevo Leon,0391206064,gold,CEDI-12 · Guadalupe
+Soriana,Soriana,,25.7146103,-100.3481448,Monterrey,Nuevo Leon,0080326394,silver,CEDI-12 · Guadalupe
+Soriana express,Soriana,,22.9925406,-105.8611992,El Pozole,Sinaloa,0005447350,gold,CEDI-06 · Victoria de Durango
+Soriana Súper,Soriana,,26.0855458,-98.2715856,Hidalgo,Texas,0204294751,silver,CEDI-12 · Guadalupe
+Soriana Híper,Soriana,Mo-Su 07:00-23:00,18.8834477,-96.9215419,Cordoba,Veracruz,0819932274,gold,CEDI-05 · Veracruz
+Soriana,Soriana,,19.5036866,-98.8803269,Texcoco de Mora,Mexico,0010991863,bronze,CEDI-09 · Puebla
+MEGA Soriana,Soriana,,25.6750107,-100.4302462,Santa Catarina,Nuevo Leon,0820182397,silver,CEDI-12 · Guadalupe
+Soriana,Soriana,,25.6859283,-100.3194548,Monterrey,Nuevo Leon,0940333913,bronze,CEDI-12 · Guadalupe
+Soriana,Soriana,,19.334286,-99.0753203,Iztapalapa,Mexico City,0449075395,gold,CEDI-09 · Puebla
+Soriana,Soriana,,19.3494733,-99.0742166,Iztapalapa,Mexico City,0564437547,silver,CEDI-09 · Puebla
+Soriana Súper,Soriana,,21.3466641,-97.6875386,Naranjos,Veracruz,0703552397,silver,CEDI-02 · Tampico
+Soriana,Soriana,,25.726235,-100.3650728,San Nicolas de los Garza,Nuevo Leon,0002294488,gold,CEDI-12 · Guadalupe
+Soriana,Soriana,,25.7319748,-100.347623,San Nicolas de los Garza,Nuevo Leon,0305009991,bronze,CEDI-12 · Guadalupe
+Soriana Mercado,Soriana,,19.7258983,-101.1981947,Real Hacienda (Metropolis),Michoacan,0498138241,gold,CEDI-10 · Santiago de Queretaro
+Soriana Híper,Soriana,,19.4269865,-102.0259305,Toreo Bajo (El Toreo Bajo),Michoacan,0394004787,gold,CEDI-10 · Santiago de Queretaro
+Soriana,Soriana,,25.7537374,-100.2661666,San Nicolas de los Garza,Nuevo Leon,0571641353,bronze,CEDI-12 · Guadalupe
+Soriana Express,Soriana,,20.4739066,-103.4419466,Tlajomulco de Zuniga,Jalisco,0331376389,bronze,CEDI-08 · Guadalajara
+Soriana,Soriana,,18.3514976,-99.5276524,Iguala de la Independencia,Guerrero,0865703356,silver,CEDI-09 · Puebla
+Soriana Híper,Soriana,,31.2903946,-110.9462138,Nogales,Sonora,0044414399,gold,CEDI-13 · Hermosillo
+Soriana,Soriana,,27.4849051,-109.959222,Ciudad Obregon,Sonora,0451734040,bronze,CEDI-13 · Hermosillo
+Soriana Express,Soriana,,21.4260708,-102.577453,Teocaltiche,Jalisco,0945161632,bronze,CEDI-10 · Santiago de Queretaro
+Soriana Express,Soriana,,20.5943297,-103.3344532,Las Pintas de Arriba,Jalisco,0832185775,silver,CEDI-08 · Guadalajara
+Soriana,Soriana,,25.6413608,-100.1816465,Jardines de la Silla (Jardines),Nuevo Leon,0995365530,bronze,CEDI-12 · Guadalupe
+Soriana,Soriana,,20.6594002,-103.3981929,Guadalajara,Jalisco,0536459039,silver,CEDI-08 · Guadalajara
+MEGA Soriana,Soriana,,19.4513223,-99.1637908,Cuauhtemoc,Mexico City,0038941034,bronze,CEDI-09 · Puebla
+MEGA Soriana,Soriana,,19.4511693,-99.1636477,Cuauhtemoc,Mexico City,0981293468,gold,CEDI-09 · Puebla
+Soriana Híper,Soriana,,25.8698546,-97.4851357,Heroica Matamoros,Tamaulipas,0645584101,silver,CEDI-12 · Guadalupe
+Soriana,Soriana,,25.8788911,-97.5220402,Heroica Matamoros,Tamaulipas,0672291973,bronze,CEDI-12 · Guadalupe
+Soriana Express Tecomán,Soriana,,18.9246768,-103.8843582,Tecoman,Colima,0174115851,bronze,CEDI-08 · Guadalajara
+Soriana,Soriana,,23.630998,-103.6419672,Sombrerete,Zacatecas,0084690594,bronze,CEDI-06 · Victoria de Durango
+Soriana,Soriana,,32.5287083,-116.978469,Tijuana,Baja California,0938800587,bronze,CEDI-04 · San Luis
+Soriana,Soriana,,25.8038282,-100.3425017,General Escobedo,Nuevo Leon,0052986434,silver,CEDI-12 · Guadalupe
+Soriana Mercado,Soriana,,18.8994497,-98.4330315,Atlixco,Puebla,0521481041,silver,CEDI-09 · Puebla
+MEGA Soriana,Soriana,,19.2036967,-100.1334226,Valle de Bravo,Mexico,0733666946,silver,CEDI-09 · Puebla
+Soriana,Soriana,,20.6391495,-87.0708227,Playa del Carmen,Quintana Roo,0158982223,gold,CEDI-03 · Merida
+Soriana,Soriana,,25.6555358,-100.3844286,Garza Garcia,Nuevo Leon,0905297417,gold,CEDI-12 · Guadalupe
+Soriana,Soriana,,19.6055151,-99.2283231,Ciudad Lopez Mateos,Mexico,0384369010,bronze,CEDI-09 · Puebla
+Soriana,Soriana,,19.3603082,-99.1238814,Colonia Nativitas,Mexico City,0697871862,gold,CEDI-09 · Puebla
+Soriana,Soriana,Mo-Su 08:00-23:00,27.4571032,-99.5134704,Nuevo Laredo,Tamaulipas,0998134082,silver,CEDI-12 · Guadalupe
+MEGA Soriana,Soriana,Mo-Su 08:00-22:00,19.4045882,-99.0679357,Iztacalco,Mexico City,0687510909,gold,CEDI-09 · Puebla
+Soriana Híper,Soriana,,19.6883454,-101.1866674,Morelia,Michoacan,0655120039,silver,CEDI-10 · Santiago de Queretaro
+MEGA Soriana,Soriana,,19.5124662,-98.8834487,Texcoco de Mora,Mexico,0851657226,gold,CEDI-09 · Puebla
+Soriana Súper,Soriana,Mo-Su 08:00-22:00,18.8621399,-97.1075053,Orizaba,Veracruz,0121598592,bronze,CEDI-05 · Veracruz
+Soriana,Soriana,,19.179984,-96.1550468,Veracruz,Veracruz,0199914631,bronze,CEDI-05 · Veracruz
+Soriana,Soriana,,20.5521386,-100.8262187,Celaya,Guanajuato,0381057151,gold,CEDI-10 · Santiago de Queretaro
+Soriana,Soriana,,20.5206501,-100.8291449,Celaya,Guanajuato,0392832636,bronze,CEDI-10 · Santiago de Queretaro
+MEGA Soriana,Soriana,,16.728975,-92.6582717,San Cristobal de las Casas,Chiapas,0034181844,bronze,CEDI-07 · Villahermosa
+MEGA Soriana,Soriana,,29.5497353,-104.4228677,Manuel Ojinaga,Chihuahua,0868252879,silver,CEDI-11 · Chihuahua
+Soriana,Soriana,,25.4438238,-100.9616827,Saltillo,Coahuila,0647871598,silver,CEDI-12 · Guadalupe
+MEGA Soriana,Soriana,,19.3431759,-99.1071334,Iztapalapa,Mexico City,0292205241,silver,CEDI-09 · Puebla
+MEGA Soriana,Soriana,,32.5306759,-117.0105449,Tijuana,Baja California,0420969602,silver,CEDI-04 · San Luis
+Soriana,Soriana,,20.9475752,-97.3856953,La Victoria (La Penita),Veracruz,0454081220,silver,CEDI-02 · Tampico
+Soriana,Soriana,"Mo-Su,PH 09:00-22:00",25.7341591,-100.1989359,Apodaca,Nuevo Leon,0613104777,silver,CEDI-12 · Guadalupe
+Soriana,Soriana,,25.7800735,-100.2856991,General Escobedo,Nuevo Leon,0528220136,bronze,CEDI-12 · Guadalupe
+MEGA Soriana,Soriana,,28.1897719,-105.4595687,Ciudad Delicias,Chihuahua,0251969710,silver,CEDI-11 · Chihuahua
+Soriana,Soriana,,21.1549058,-86.8900264,Cancun,Quintana Roo,0685307951,silver,CEDI-03 · Merida
+Soriana,Soriana,,19.6191447,-99.0280956,Santo Tomas Chiconautla,Mexico,0700316835,silver,CEDI-09 · Puebla
+Soriana,Soriana,,19.8270457,-90.5525252,Campeche,Campeche,0034787478,silver,CEDI-03 · Merida
+MEGA Soriana,Soriana,,28.6212638,-106.0492372,Chihuahua,Chihuahua,0106734104,silver,CEDI-11 · Chihuahua
+Soriana Express,Soriana,,19.8605089,-90.4922816,Campeche,Campeche,0793120196,gold,CEDI-03 · Merida
+Soriana,Soriana,,20.667132,-103.3598767,Guadalajara,Jalisco,0382377306,silver,CEDI-08 · Guadalajara
+Soriana Mercado,Soriana,,25.9161616,-100.1898731,Villas de Alcala,Nuevo Leon,0899547354,bronze,CEDI-12 · Guadalupe
+Soriana Híper,Soriana,,19.3674819,-99.0048877,Los Reyes La Paz,Mexico,0289070140,silver,CEDI-09 · Puebla
+Soriana Mercado,Soriana,Mo-Su 07:00-22:00,18.8462026,-97.1040881,Orizaba,Veracruz,0625452951,bronze,CEDI-05 · Veracruz
+Soriana,Soriana,,31.8589119,-116.6053241,Ensenada,Baja California,0763181853,silver,CEDI-04 · San Luis
+Soriana,Soriana,,23.1848107,-102.8627005,Fresnillo,Zacatecas,0679642528,bronze,CEDI-06 · Victoria de Durango
+Soriana,Soriana,,23.8292634,-103.0413466,Rio Grande,Zacatecas,0457359255,bronze,CEDI-06 · Victoria de Durango
+Soriana,Soriana,,20.0599769,-97.0629369,Martinez de la Torre,Veracruz,0735255630,silver,CEDI-05 · Veracruz
+Soriana,Soriana,,29.1236396,-110.9521012,Hermosillo,Sonora,0938476978,bronze,CEDI-13 · Hermosillo
+Soriana Mercado,Soriana,,19.0895285,-96.152518,Fraccionamiento Arboledas San Ramon,Veracruz,0546290197,silver,CEDI-05 · Veracruz
+Soriana,Soriana,,25.7794192,-100.4083274,Mitras Poniente,Nuevo Leon,0674002088,silver,CEDI-12 · Guadalupe
+MEGA Soriana,Soriana,,31.7230885,-106.4710497,Ciudad Juarez,Chihuahua,0517379290,bronze,CEDI-11 · Chihuahua
+Soriana Mercado,Soriana,,22.1668331,-100.9766844,San Luis Potosi,San Luis Potosi,0176505195,gold,CEDI-10 · Santiago de Queretaro
+Soriana,Soriana,,20.2760897,-98.9526549,Actopan,Hidalgo,0259351776,silver,CEDI-09 · Puebla
+Soriana Express Caborca,Soriana,,30.7151127,-112.1486614,Heroica Caborca,Sonora,0068300699,silver,CEDI-13 · Hermosillo
+MEGA Soriana,Soriana,,25.6582787,-100.3668273,Garza Garcia,Nuevo Leon,0238219858,bronze,CEDI-12 · Guadalupe
+Soriana Express,Soriana,,19.8100933,-101.781706,Zacapu,Michoacan,0909397960,bronze,CEDI-10 · Santiago de Queretaro
+Soriana Híper,Soriana,,21.8964875,-102.3107161,Aguascalientes,Aguascalientes,0046724502,bronze,CEDI-10 · Santiago de Queretaro
+Soriana,Soriana,,28.6670256,-106.1277641,Chihuahua,Chihuahua,0037663551,silver,CEDI-11 · Chihuahua
+Soriana,Soriana,,32.4713937,-116.9501927,San Luis,Baja California,0375816144,gold,CEDI-04 · San Luis
+Soriana,Soriana,,17.9868938,-94.5504625,Minatitlan,Veracruz,0951921689,silver,CEDI-07 · Villahermosa
+Soriana,Soriana,,25.7955523,-100.5827832,Garcia,Nuevo Leon,0990071012,silver,CEDI-12 · Guadalupe
+Soriana,Soriana,,19.3285481,-99.1536603,Coyoacan,Mexico City,0410449885,silver,CEDI-09 · Puebla
+Soriana,Soriana,,32.4643524,-116.9315202,San Luis,Baja California,0824342005,silver,CEDI-04 · San Luis
+Soriana,Soriana,,17.5269135,-99.4946742,Chilpancingo de los Bravos,Guerrero,0945748013,silver,CEDI-09 · Puebla
+Soriana,Soriana,,19.6327327,-99.0335392,Santo Tomas Chiconautla,Mexico,0353202804,gold,CEDI-09 · Puebla
+MEGA Soriana,Soriana,,17.543262,-99.5032656,Chilpancingo de los Bravos,Guerrero,0608881853,silver,CEDI-09 · Puebla
+Soriana,Soriana,,22.3960751,-97.932133,Altamira,Tamaulipas,0522623529,bronze,CEDI-02 · Tampico
+Soriana,Soriana,,25.6554893,-100.1204547,Hector Caballero,Nuevo Leon,0109699497,silver,CEDI-12 · Guadalupe
+Soriana,Soriana,,18.2653434,-93.2198624,Comalcalco,Tabasco,0633074274,gold,CEDI-07 · Villahermosa
+Soriana,Soriana,,18.2742443,-93.2198741,Comalcalco,Tabasco,0591059866,gold,CEDI-07 · Villahermosa
+Soriana,Soriana,,18.1764299,-93.0731691,Jalpa de Mendez,Tabasco,0979533604,silver,CEDI-07 · Villahermosa
+Soriana Express,Soriana,,20.7476851,-105.2553013,San Clemente de Lima,Nayarit,0306990819,gold,CEDI-08 · Guadalajara
+Soriana,Soriana,,31.8500752,-116.6063045,Ensenada,Baja California,0092948341,silver,CEDI-04 · San Luis
+Soriana,Soriana,,32.5004803,-116.8981463,Terrazas del Valle,Baja California,0085010588,gold,CEDI-04 · San Luis
+Soriana,Soriana,,16.8511993,-99.8541149,Acapulco de Juarez,Guerrero,0900425345,gold,CEDI-09 · Puebla
+Soriana,Soriana,,19.617961,-99.3066346,Nicolas Romero,Mexico,0643802602,gold,CEDI-09 · Puebla
+Soriana,Soriana,,25.8924423,-100.2612026,Emiliano Zapata,Nuevo Leon,0171337665,bronze,CEDI-12 · Guadalupe
+Soriana,Soriana,,19.4020536,-98.9870217,Poligonos,Mexico,0879314620,silver,CEDI-09 · Puebla
+Soriana,Soriana,,25.642896,-100.0892881,Juarez,Nuevo Leon,0336651012,bronze,CEDI-12 · Guadalupe
+MEGA Soriana,Soriana,,26.0716632,-98.3220235,Reynosa,Tamaulipas,0341282677,gold,CEDI-12 · Guadalupe
+Soriana,Soriana,,19.6311299,-99.1192093,Coacalco,Mexico,0902416724,silver,CEDI-09 · Puebla
+Soriana Híper,Soriana,,24.117409,-110.3361255,La Paz,Baja California Sur,0269626591,silver,CEDI-01 · La Paz
+Soriana Express,Soriana,Mo-Su 08:00-22:00,19.8837249,-103.5931089,Sayula,Jalisco,0727499747,silver,CEDI-08 · Guadalajara
+Soriana,Soriana,,20.7489501,-105.3120565,Bucerias,Nayarit,0634191366,silver,CEDI-08 · Guadalajara
+Soriana Mercado,Soriana,,20.3542742,-102.7818465,Ocotlan,Jalisco,0953081197,silver,CEDI-08 · Guadalajara
+Soriana Express,Soriana,,19.6310272,-103.4211566,Zapotiltic,Jalisco,0415700313,bronze,CEDI-08 · Guadalajara
+Soriana Mercado,Soriana,,19.9724888,-102.2933667,Zamora,Michoacan,0653847807,bronze,CEDI-10 · Santiago de Queretaro
+Soriana Súper,Soriana,,20.6351334,-103.399341,Guadalajara,Jalisco,0185997067,gold,CEDI-08 · Guadalajara
+Soriana,Soriana,,14.9866399,-92.1608359,Cacahoatan,Chiapas,0545288533,silver,CEDI-07 · Villahermosa
+Soriana,Soriana,,25.5128356,-103.3952934,Torreon,Coahuila,0848859374,silver,CEDI-06 · Victoria de Durango
+Soriana Híper,Soriana,,20.7158158,-103.321056,Zapopan,Jalisco,0348454443,silver,CEDI-08 · Guadalajara
+Soriana,Soriana,,22.0019836,-99.0083007,Ciudad Valles,San Luis Potosi,0382219311,gold,CEDI-02 · Tampico
+Soriana Mercado,Soriana,,24.8492125,-99.5701429,Linares,Nuevo Leon,0449412376,bronze,CEDI-12 · Guadalupe
+Soriana,Soriana,Mo-Su 07:00-22:00,26.0880716,-98.3018987,Reynosa,Tamaulipas,0374385121,gold,CEDI-12 · Guadalupe
+Soriana,Soriana,,19.6597968,-99.0813723,Alborada Jaltenco,Mexico,0873039038,silver,CEDI-09 · Puebla
+Soriana,Soriana,,14.8916636,-92.2764016,Tapachula,Chiapas,0074678739,silver,CEDI-07 · Villahermosa
+Soriana,Soriana,,21.0926272,-89.2840494,Motul,Yucatan,0887837317,bronze,CEDI-03 · Merida
+Soriana,Soriana,,20.5480213,-97.4499292,Poza Rica de Hidalgo,Veracruz,0980054806,bronze,CEDI-05 · Veracruz
+Soriana,Soriana,,19.1924559,-96.1390677,Veracruz,Veracruz,0239243910,silver,CEDI-05 · Veracruz
+Soriana,Soriana,,18.451962,-95.2267482,San Andres Tuxtla,Veracruz,0525147028,silver,CEDI-05 · Veracruz
+Soriana,Soriana,,20.495734,-97.4711915,Coatzintla,Veracruz,0098688085,bronze,CEDI-05 · Veracruz
+Soriana,Soriana,,17.9397943,-94.9106489,Acayucan,Veracruz,0390904406,bronze,CEDI-07 · Villahermosa
+Soriana Mercado,Soriana,,19.2428035,-103.7369796,Colima,Colima,0956493791,silver,CEDI-08 · Guadalajara
+Soriana,Soriana,,26.3989069,-99.0291239,Ciudad Miguel Aleman,Tamaulipas,0789787101,silver,CEDI-12 · Guadalupe
+Soriana Híper,Soriana,,25.5334559,-103.4067948,Torreon,Coahuila,0640461102,silver,CEDI-06 · Victoria de Durango
+Soriana,Soriana,,29.0240025,-110.9462103,Hermosillo,Sonora,0107492707,bronze,CEDI-13 · Hermosillo
+MEGA Soriana,Soriana,,29.0348971,-110.9380502,Hermosillo,Sonora,0265156894,silver,CEDI-13 · Hermosillo
+Soriana Súper,Soriana,,18.6338882,-95.5230658,Lerdo de Tejada,Veracruz,0993494215,gold,CEDI-05 · Veracruz
+Soriana Súper,Soriana,,18.4236978,-95.1203563,Catemaco,Veracruz,0538841613,bronze,CEDI-05 · Veracruz
+Soriana Súper,Soriana,,18.9910103,-97.4471218,Ciudad Serdan,Puebla,0704046834,silver,CEDI-05 · Veracruz
+Soriana Súper,Soriana,,32.6389979,-115.3844775,Islas Agrarias Grupo A,Baja California,0954878943,silver,CEDI-04 · San Luis
+Soriana Súper,Soriana,,20.9450856,-89.6304379,Merida,Yucatan,0280673977,bronze,CEDI-03 · Merida
+Soriana Híper,Soriana,,20.9722842,-89.6643619,Merida,Yucatan,0226037699,bronze,CEDI-03 · Merida
+Soriana Súper,Soriana,,19.934047,-96.8501007,Misantla,Veracruz,0392460714,silver,CEDI-05 · Veracruz
+Soriana Híper,Soriana,,21.0295562,-89.6233353,Merida,Yucatan,0406620147,bronze,CEDI-03 · Merida
+Soriana Súper,Soriana,,20.6759857,-103.3976263,Guadalajara,Jalisco,0757966361,silver,CEDI-08 · Guadalajara
+Soriana Express,Soriana,,19.3384573,-90.7271102,Champoton,Campeche,0765687698,bronze,CEDI-03 · Merida
+Soriana Híper,Soriana,Mo-Su 07:00-18:00,15.7708647,-96.1409627,Crucecita,Oaxaca,0300480380,bronze,CEDI-07 · Villahermosa
+MEGA Soriana,Soriana,,19.4555986,-99.1372254,Cuauhtemoc,Mexico City,0983566573,bronze,CEDI-09 · Puebla
+MEGA Soriana,Soriana,,19.3438858,-99.0283609,Iztapalapa,Mexico City,0763495373,bronze,CEDI-09 · Puebla
+Soriana Híper,Soriana,24/7,20.7068698,-105.2723471,Las Jarretaderas,Nayarit,0775144044,silver,CEDI-08 · Guadalajara
+Soriana Híper,Soriana,,23.2371997,-106.4208897,Mazatlan,Sinaloa,0721256212,gold,CEDI-06 · Victoria de Durango
+Soriana Híper,Soriana,,19.503848,-99.2044355,Vista Hermosa,Mexico,0609006270,bronze,CEDI-09 · Puebla
+MEGA Soriana,Soriana,,27.8790334,-101.5154513,Melchor Muzquiz,Coahuila,0617881794,silver,CEDI-12 · Guadalupe
+MEGA Soriana,Soriana,,28.6387139,-106.079212,Chihuahua,Chihuahua,0172442072,bronze,CEDI-11 · Chihuahua
+Soriana Híper,Soriana,,24.1250654,-110.3133258,La Paz,Baja California Sur,0804920619,bronze,CEDI-01 · La Paz
+Soriana Súper,Soriana,,19.2719954,-99.471818,Ocoyoacac,Morelos,0127620529,silver,CEDI-09 · Puebla
+Soriana Súper,Soriana,,20.9939878,-89.6522443,Merida,Yucatan,0938261796,bronze,CEDI-03 · Merida
+MEGA Soriana,Soriana,,31.5974157,-106.3077328,San Elizario,Texas,0538686369,gold,CEDI-11 · Chihuahua
+Chedraui,Chedraui,,19.3039413,-99.1184067,Xochimilco,Mexico City,0673265080,silver,CEDI-09 · Puebla
+Chedraui,Chedraui,,21.153574,-86.8412431,Cancun,Quintana Roo,0257805255,bronze,CEDI-03 · Merida
+Chedraui,Chedraui,,18.1396087,-94.4653294,Coatzacoalcos,Veracruz,0551140414,bronze,CEDI-07 · Villahermosa
+Chedraui,Chedraui,,18.1474435,-94.4348042,Coatzacoalcos,Veracruz,0910619744,bronze,CEDI-07 · Villahermosa
+Chedraui,Chedraui,,19.0704537,-98.2058176,Puebla,Puebla,0918121996,gold,CEDI-09 · Puebla
+Chedraui,Chedraui,,18.6423821,-91.8213365,Ciudad del Carmen,Campeche,0094205510,bronze,CEDI-07 · Villahermosa
+Chedraui,Chedraui,Mo-Su 07:00-23:00,17.0783866,-96.7086453,Oaxaca de Juarez,Oaxaca,0424277704,gold,CEDI-05 · Veracruz
+Chedraui,Chedraui,Mo-Su 07:00-23:00,19.5277841,-96.9340971,Xalapa de Enriquez,Veracruz,0772465611,silver,CEDI-05 · Veracruz
+Chedraui,Chedraui,,19.5285624,-96.9218898,Xalapa de Enriquez,Veracruz,0351306283,bronze,CEDI-05 · Veracruz
+Chedraui,Chedraui,,19.5381487,-96.9066077,Xalapa de Enriquez,Veracruz,0094305970,bronze,CEDI-05 · Veracruz
+Chedraui,Chedraui,,16.7502858,-93.0929412,Tuxtla Gutierrez,Chiapas,0427405655,bronze,CEDI-07 · Villahermosa
+Chedraui,Chedraui,,18.9209607,-99.1977917,Loma Bonita,Morelos,0867328365,bronze,CEDI-09 · Puebla
+Chedraui,Chedraui,"Mo-Su,PH 07:00-22:00",20.211595,-87.4496381,Tulum,Quintana Roo,0964286538,gold,CEDI-03 · Merida
+Chedraui,Chedraui,,21.1580146,-86.8260217,Cancun,Quintana Roo,0897111899,silver,CEDI-03 · Merida
+Chedraui,Chedraui,,19.5293699,-99.1573554,Tlalnepantla,Mexico,0423920018,bronze,CEDI-09 · Puebla
+Chedraui,Chedraui,,20.5482897,-97.4512231,Poza Rica de Hidalgo,Veracruz,0628455353,bronze,CEDI-05 · Veracruz
+Chedraui,Chedraui,,18.0918292,-96.1309293,Tuxtepec,Oaxaca,0577921974,bronze,CEDI-05 · Veracruz
+Chedraui,Chedraui,,19.2586396,-99.6283644,San Jorge Pueblo Nuevo,Mexico,0300143513,bronze,CEDI-09 · Puebla
+Chedraui,Chedraui,Mo-Su 07:00-24:00,15.8626046,-97.0673158,Puerto Escondido,Oaxaca,0486623102,bronze,CEDI-05 · Veracruz
+Chedraui,Chedraui,"Mo-Su,PH 07:00-23:00",20.625147,-87.0845022,Playa del Carmen,Quintana Roo,0009151634,bronze,CEDI-03 · Merida
+Chedraui,Chedraui,,24.01166,-104.6609602,Victoria de Durango,Durango,0090107690,gold,CEDI-06 · Victoria de Durango
+Chedraui,Chedraui,,20.6169069,-100.4086535,Sergio Villasenor,Queretaro,0261436675,bronze,CEDI-10 · Santiago de Queretaro
+Chedraui,Chedraui,,18.1068747,-95.8792993,Estacion Dobladero,Veracruz,0707234436,silver,CEDI-05 · Veracruz
+Chedraui,Chedraui,,19.4691563,-99.1147041,Gustavo A. Madero,Mexico City,0738595576,silver,CEDI-09 · Puebla
+Chedraui,Chedraui,,21.4849424,-104.8759082,Tepic,Nayarit,0602873771,silver,CEDI-08 · Guadalajara
+Chedraui,Chedraui,,17.9558311,-94.9204146,Acayucan,Veracruz,0475033550,silver,CEDI-07 · Villahermosa
+Super Chedraui,Chedraui,,18.0766706,-94.4079459,Villa Nanchital,Veracruz,0118756198,silver,CEDI-07 · Villahermosa
+Chedraui,Chedraui,,19.6792459,-101.2164442,Morelos,Michoacan,0427324841,silver,CEDI-10 · Santiago de Queretaro
+Chedraui,Chedraui,,19.0494321,-98.1704878,Puebla,Puebla,0128722694,gold,CEDI-09 · Puebla
+Chedraui,Chedraui,,21.993248,-99.021231,Ciudad Valles,San Luis Potosi,0702529038,silver,CEDI-02 · Tampico
+Chedraui,Chedraui,,19.48248,-99.0358475,Colonia Gustavo Baz Prada,Mexico,0874654248,bronze,CEDI-09 · Puebla
+Chedraui,Chedraui,,19.8072298,-97.3662678,Teziutlan,Puebla,0943849275,bronze,CEDI-05 · Veracruz
+Chedraui,Chedraui,,19.3101737,-99.6359662,Toluca,Mexico,0569771250,silver,CEDI-09 · Puebla
+Super Chedraui,Chedraui,,21.2870434,-89.6630928,Progreso de Castro,Yucatan,0627950968,gold,CEDI-03 · Merida
+Chedraui,Chedraui,,21.0050543,-89.6895444,Caucel,Yucatan,0602250455,silver,CEDI-03 · Merida
+Chedraui,Chedraui,,19.5478602,-96.9333317,Xalapa de Enriquez,Veracruz,0142406934,silver,CEDI-05 · Veracruz
+Chedraui,Chedraui,,24.0981428,-110.3276081,La Paz,Baja California Sur,0185937474,silver,CEDI-01 · La Paz
+Chedraui,Chedraui,Mo-Su 07:00-23:00,20.9600393,-89.6405156,Merida,Yucatan,0846567304,bronze,CEDI-03 · Merida
+Super Chedraui,Chedraui,,17.5486655,-98.5740383,Tlapa de Comonfort,Guerrero,0879468137,bronze,CEDI-09 · Puebla
+Chedraui,Chedraui,,19.5374083,-96.9207854,Xalapa de Enriquez,Veracruz,0598677210,bronze,CEDI-05 · Veracruz
+Chedraui,Chedraui,,14.8944379,-92.276085,Tapachula,Chiapas,0096129003,silver,CEDI-07 · Villahermosa
+Chedraui,Chedraui,,20.650691,-105.2418194,Puerto Vallarta,Jalisco,0754682727,silver,CEDI-08 · Guadalajara
+Chedraui,Chedraui,,21.1651663,-86.8434506,Cancun,Quintana Roo,0458618224,bronze,CEDI-03 · Merida
+Chedraui,Chedraui,,21.1490671,-86.873348,Cancun,Quintana Roo,0252012860,silver,CEDI-03 · Merida
+Chedraui,Chedraui,07:00-23:00,18.4516231,-96.3531775,Rancho Grande,Oaxaca,0961462365,gold,CEDI-05 · Veracruz
+Chedraui,Chedraui,,19.6083837,-99.177642,Buenavista,Mexico,0866571734,bronze,CEDI-09 · Puebla
+Chedraui,Chedraui,,19.0057747,-98.2669962,Tlazcalancingo,Puebla,0580197212,silver,CEDI-09 · Puebla
+Chedraui,Chedraui,,19.5627358,-96.9037329,Xalapa de Enriquez,Veracruz,0750687269,silver,CEDI-05 · Veracruz
+Chedraui,Chedraui,,20.7355557,-103.3500196,Zapopan,Jalisco,0556928070,bronze,CEDI-08 · Guadalajara
+Super Che,Chedraui,Mo-Su 09:00-10:00,20.3994169,-89.5376698,Ticul,Yucatan,0751937262,bronze,CEDI-03 · Merida
+Chedraui,Chedraui,,19.3590788,-99.063209,Iztapalapa,Mexico City,0043107354,bronze,CEDI-09 · Puebla
+Chedraui,Chedraui,,17.9751294,-92.9632333,Villahermosa,Tabasco,0877623055,bronze,CEDI-07 · Villahermosa
+Chedraui,Chedraui,,20.5095454,-87.2249206,Playa del Carmen,Quintana Roo,0707952210,silver,CEDI-03 · Merida
+Super Chedraui,Chedraui,,17.9877402,-92.9149467,Villahermosa,Tabasco,0596439476,silver,CEDI-07 · Villahermosa
+Chedraui,Chedraui,Mo-Su 07:00-23:00,17.9980423,-92.9216952,Villahermosa,Tabasco,0070886517,bronze,CEDI-07 · Villahermosa
+Chedraui,Chedraui,,18.5206612,-88.3209624,Chetumal,Quintana Roo,0397256693,silver,CEDI-03 · Merida
+Chedraui,Chedraui,,24.1428894,-110.3310278,La Paz,Baja California Sur,0046517315,gold,CEDI-01 · La Paz
+Chedraui,Chedraui,Mo-Su 07:00-23:00,19.7096767,-101.1903935,Morelia,Michoacan,0261161246,silver,CEDI-10 · Santiago de Queretaro
+Chedraui,Chedraui,,20.0700873,-97.0648454,Martinez de la Torre,Veracruz,0608511313,silver,CEDI-05 · Veracruz
+Chedraui,Chedraui,,19.15993,-96.1333718,Veracruz,Veracruz,0585492509,silver,CEDI-05 · Veracruz
+Chedraui,Chedraui,,19.1906283,-96.1347212,Veracruz,Veracruz,0905836626,silver,CEDI-05 · Veracruz
+Chedraui,Chedraui,,19.3360235,-99.1584272,Coyoacan,Mexico City,0659898905,bronze,CEDI-09 · Puebla
+Chedraui,Chedraui,,18.463918,-97.3865746,Tehuacan,Puebla,0630199654,silver,CEDI-05 · Veracruz
+Super Che,Chedraui,"Mo-Su,PH 07:00-21:30",19.2040938,-100.1254622,Colonia Rincon Villa del Valle,Mexico,0137938361,bronze,CEDI-09 · Puebla
+Chedraui,Chedraui,,19.60369,-99.0127504,Colonia el Salado,Mexico,0110263187,bronze,CEDI-09 · Puebla
+Chedraui,Chedraui,,20.6823827,-103.433925,Guadalajara,Jalisco,0933474329,silver,CEDI-08 · Guadalajara
+Chedraui,Chedraui,,17.9948013,-92.9442408,Villahermosa,Tabasco,0823634730,silver,CEDI-07 · Villahermosa
+Chedraui,Chedraui,,24.0207226,-104.6463989,Victoria de Durango,Durango,0283022583,bronze,CEDI-06 · Victoria de Durango
+Chedraui,Chedraui,,19.1757967,-96.1893534,Las Amapolas,Veracruz,0021166532,silver,CEDI-05 · Veracruz
+Chedraui,Chedraui,,24.0463752,-104.6225793,Victoria de Durango,Durango,0483100272,bronze,CEDI-06 · Victoria de Durango
+Chedraui,Chedraui,,18.1380624,-94.4999785,Centro de Readaptacion Social,Veracruz,0260522643,gold,CEDI-07 · Villahermosa
+Chedraui,Chedraui,,19.8489907,-90.4953698,Campeche,Campeche,0595427796,bronze,CEDI-03 · Merida
+Chedraui,Chedraui,,19.1704555,-96.1560725,Veracruz,Veracruz,0018850191,gold,CEDI-05 · Veracruz
+Chedraui,Chedraui,,27.4844093,-99.5032731,Nuevo Laredo,Tamaulipas,0567900359,gold,CEDI-12 · Guadalupe
+Chedraui,Chedraui,,19.1468678,-96.9674333,Huatusco de Chicuellar,Veracruz,0558850193,bronze,CEDI-05 · Veracruz
+Chedraui,Chedraui,Mo-Su 07:00-22:00,18.8137518,-97.1686995,Ciudad Mendoza,Veracruz,0104100522,gold,CEDI-05 · Veracruz
+Chedraui,Chedraui,,23.0439487,-109.7077048,San Jose del Cabo,Baja California Sur,0173395969,silver,CEDI-01 · La Paz
+Chedraui,Chedraui,Mo-Su 07:00-23:00,18.8896379,-96.9475647,Cordoba,Veracruz,0666614951,silver,CEDI-05 · Veracruz
+Chedraui,Chedraui,,18.893941,-96.9288657,Cordoba,Veracruz,0112062820,bronze,CEDI-05 · Veracruz
+Chedraui,Chedraui,,18.8371764,-99.2248126,Temixco,Morelos,0166478046,bronze,CEDI-09 · Puebla
+Chedraui,Chedraui,,20.0569746,-98.7769435,La Colonia,Hidalgo,0092887659,silver,CEDI-09 · Puebla
+Chedraui,Chedraui,07:00-23:00,20.8466401,-86.8768856,Alfredo V. Bonfil,Quintana Roo,0619142989,gold,CEDI-03 · Merida
+Chedraui,Chedraui,,20.7132016,-105.2736958,Las Jarretaderas,Nayarit,0905251261,silver,CEDI-08 · Guadalajara
+Chedraui,Chedraui,,21.8551641,-102.293881,Aguascalientes,Aguascalientes,0476611765,silver,CEDI-10 · Santiago de Queretaro
+Chedraui,Chedraui,,19.4006609,-98.9871739,Poligonos,Mexico,0874157858,bronze,CEDI-09 · Puebla
+Chedraui,Chedraui,,19.2086581,-96.2238751,Fraccionamiento Costa Dorada,Veracruz,0670729959,silver,CEDI-05 · Veracruz
+Chedraui,Chedraui,,19.4354047,-99.1101297,Venustiano Carranza,Mexico City,0590946061,silver,CEDI-09 · Puebla
+Súper Chedraui,Chedraui,,14.682002,-92.1484128,Ciudad Hidalgo,Chiapas,0576640746,bronze,CEDI-07 · Villahermosa
+Chedraui,Chedraui,,18.2674058,-93.2183146,Comalcalco,Tabasco,0667862736,silver,CEDI-07 · Villahermosa
+Chedraui,Chedraui,,25.83627,-97.4994835,Heroica Matamoros,Tamaulipas,0694826236,silver,CEDI-12 · Guadalupe
+Chedraui,Chedraui,,18.8327842,-99.1879009,Emiliano Zapata,Morelos,0183623104,bronze,CEDI-09 · Puebla
+Chedraui,Chedraui,,16.7477885,-93.0748418,Tuxtla Gutierrez,Chiapas,0316875836,bronze,CEDI-07 · Villahermosa
+Chedraui,Chedraui,,17.472336,-91.4255803,Tenosique de Pino Suarez,Tabasco,0643021864,gold,CEDI-07 · Villahermosa
+Chedraui,Chedraui,,19.3166603,-98.2000858,Tlaxcala de Xicohtencatl,Tlaxcala,0192860307,silver,CEDI-09 · Puebla
+Chedraui,Chedraui,Mo-Su 07:00-23:00,19.1570252,-96.1739978,Las Amapolas,Veracruz,0021611978,gold,CEDI-05 · Veracruz
+Chedraui,Chedraui,,22.183323,-100.9522621,Soledad Diez Gutierrez,San Luis Potosi,0243500792,gold,CEDI-10 · Santiago de Queretaro
+Chedraui,Chedraui,,23.1872667,-102.8795116,Fresnillo,Zacatecas,0816463431,gold,CEDI-06 · Victoria de Durango
+Chedraui,Chedraui,,19.6448943,-99.1084113,Coacalco,Mexico,0585515587,silver,CEDI-09 · Puebla
+Chedraui,Chedraui,,20.9510781,-97.4201091,Tuxpan de Rodriguez Cano,Veracruz,0040482628,gold,CEDI-02 · Tampico
+Chedraui,Chedraui,,19.36028,-99.2930976,Cuajimalpa,Mexico City,0056410365,bronze,CEDI-09 · Puebla
+Chedraui Selecto,Chedraui,Mo-Su 08:00-22:00,16.7712649,-99.7744674,10 de Abril,Guerrero,0428437207,silver,CEDI-09 · Puebla
+Chedraui,Chedraui,"Mo-Su,PH 07:00-20:00+",19.4912188,-99.0668914,Gustavo A. Madero,Mexico City,0905294576,silver,CEDI-09 · Puebla
+Chedraui,Chedraui,,19.776633,-98.5807851,Ciudad Sahagun,Hidalgo,0400938111,silver,CEDI-09 · Puebla
+Chedraui,Chedraui,,20.5208788,-97.4507886,Poza Rica de Hidalgo,Veracruz,0295298576,bronze,CEDI-05 · Veracruz
+Supercito Chedraui,Chedraui,,18.9003851,-96.9986628,Fortin de las Flores,Veracruz,0618789736,bronze,CEDI-05 · Veracruz
+Super Chedraui,Chedraui,,19.1903752,-99.4645507,Capulhuac,Morelos,0899124543,silver,CEDI-09 · Puebla
+Chedraui,Chedraui,,19.5495519,-96.9481624,Guadalupe Victoria,Veracruz,0965581471,bronze,CEDI-05 · Veracruz
+Chedraui,Chedraui,,19.5209892,-96.8840783,Lomas Verdes,Veracruz,0476543362,gold,CEDI-05 · Veracruz
+Chedraui,Chedraui,,19.4487601,-96.9630976,Coatepec,Veracruz,0607764423,gold,CEDI-05 · Veracruz
+Chedraui,Chedraui,,18.8477027,-97.0923533,Orizaba,Veracruz,0924960564,gold,CEDI-05 · Veracruz
+Chedraui,Chedraui,,20.5182934,-100.7956661,Celaya,Guanajuato,0993759201,silver,CEDI-10 · Santiago de Queretaro
+Chedraui,Chedraui,,19.334669,-99.19823,Magdalena Contreras,Mexico City,0168748454,silver,CEDI-09 · Puebla
+Super Chedraui,Chedraui,,18.3637684,-95.7942792,Cosamaloapan de Carpio,Veracruz,0290650223,silver,CEDI-05 · Veracruz
+Super Che,Chedraui,,17.9605709,-94.7122869,Coacotla,Veracruz,0556317795,silver,CEDI-07 · Villahermosa
+Chedraui,Chedraui,,19.1750876,-96.1352816,Veracruz,Veracruz,0878317413,bronze,CEDI-05 · Veracruz
+Supercito Chedraui,Chedraui,,19.502532,-96.8780665,Colonia Santa Barbara,Veracruz,0092799615,silver,CEDI-05 · Veracruz
+Supercito Chedraui,Chedraui,,19.5327585,-96.9209308,Xalapa de Enriquez,Veracruz,0274989220,bronze,CEDI-05 · Veracruz
+Supercito Chedraui,Chedraui,,19.1260099,-96.1215432,Boca del Rio,Veracruz,0180874370,silver,CEDI-05 · Veracruz
+Supercito Chedraui,Chedraui,,19.1347692,-96.1254349,Boca del Rio,Veracruz,0711272398,silver,CEDI-05 · Veracruz
+Chedraui,Chedraui,,19.1392285,-96.1071652,Boca del Rio,Veracruz,0847067304,bronze,CEDI-05 · Veracruz
+Super Selecto Chedraui,Chedraui,,19.1595213,-96.1191823,Veracruz,Veracruz,0843449309,gold,CEDI-05 · Veracruz
+Supercito Chedraui,Chedraui,,19.1753119,-96.1227307,Veracruz,Veracruz,0793667725,bronze,CEDI-05 · Veracruz
+Chedraui,Chedraui,,19.1667759,-96.2224942,Las Amapolas,Veracruz,0376429516,gold,CEDI-05 · Veracruz
+Supercito Chedraui,Chedraui,,19.1929576,-96.1420945,Veracruz,Veracruz,0046582774,gold,CEDI-05 · Veracruz
+Supercito Chedraui,Chedraui,,19.2023482,-96.2039487,Los Torrentes,Veracruz,0513193862,silver,CEDI-05 · Veracruz
+Super Chedraui,Chedraui,,20.4463248,-97.3199644,Papantla de Olarte,Veracruz,0270385780,silver,CEDI-05 · Veracruz
+Chedraui,Chedraui,,20.5359654,-97.473063,Poza Rica de Hidalgo,Veracruz,0173799824,gold,CEDI-05 · Veracruz
+Chedraui,Chedraui,07:00-23:00,17.9943254,-94.5750596,Minatitlan,Veracruz,0859081976,silver,CEDI-07 · Villahermosa
+Chedraui,Chedraui,,18.4521295,-95.2194016,San Andres Tuxtla,Veracruz,0354138392,bronze,CEDI-05 · Veracruz
+Chedraui,Chedraui,,21.135999,-86.7479626,Isla Mujeres,Quintana Roo,0568377395,silver,CEDI-03 · Merida
+Chedraui,Chedraui,,20.5712369,-100.3602177,Santiago de Queretaro,Queretaro,0650011538,silver,CEDI-10 · Santiago de Queretaro
+Chedraui,Chedraui,,22.229695,-97.8451062,Anahuac,Veracruz,0121333148,silver,CEDI-02 · Tampico
+Selecto Chedraui,Chedraui,,21.9268575,-102.2953374,El Llano,Aguascalientes,0352087684,silver,CEDI-10 · Santiago de Queretaro
+Chedraui,Chedraui,,18.987345,-98.2466684,El Capulo (La Quebradora),Puebla,0829224619,gold,CEDI-09 · Puebla
+Super Chedraui,Chedraui,,18.7742745,-95.7641632,Heroica Alvarado,Veracruz,0650406546,silver,CEDI-05 · Veracruz
+Super Selecto Chedraui,Chedraui,,20.6910722,-100.4488808,El Nabo,Queretaro,0665688759,silver,CEDI-10 · Santiago de Queretaro
+Super Chedraui,Chedraui,,18.9623355,-97.9065124,Tepeaca,Puebla,0783368193,silver,CEDI-09 · Puebla
+Super Selecto Chedraui,Chedraui,,20.6351004,-87.0681791,Playa del Carmen,Quintana Roo,0082045845,silver,CEDI-03 · Merida
+Supercito Chedraui,Chedraui,,18.8949431,-96.936389,Cordoba,Veracruz,0650156347,bronze,CEDI-05 · Veracruz
+Supercito Chedraui,Chedraui,,18.8733612,-96.9332533,Cordoba,Veracruz,0738897967,bronze,CEDI-05 · Veracruz
+Supercito Chedraui,Chedraui,,18.8852185,-96.9368266,Cordoba,Veracruz,0201237251,gold,CEDI-05 · Veracruz
+Supercito Chedraui,Chedraui,,19.5718624,-96.9226865,El Pueblito (Garbanzal),Veracruz,0960234257,silver,CEDI-05 · Veracruz
+Chedraui,Chedraui,,17.0251446,-96.7284979,Santa Cruz Xoxocotlan,Oaxaca,0081202618,silver,CEDI-05 · Veracruz
+Chedraui Villas del Sol,Chedraui,,20.670504,-87.1148467,Playa del Carmen,Quintana Roo,0525430095,bronze,CEDI-03 · Merida
+Chedraui,Chedraui,,21.1125464,-101.6524784,Leon,Guanajuato,0911845332,bronze,CEDI-10 · Santiago de Queretaro
+Supercito Chedraui,Chedraui,,19.1644018,-96.1269491,Veracruz,Veracruz,0691938298,gold,CEDI-05 · Veracruz
+Supercito Chedraui,Chedraui,,19.453428,-99.1612667,Cuauhtemoc,Mexico City,0292081124,silver,CEDI-09 · Puebla
+Super Chedraui,Chedraui,,18.96615,-99.2324487,Fraccionamiento Lomas de Ahuatlan,Morelos,0771594614,silver,CEDI-09 · Puebla
+Supercito Chedraui,Chedraui,Mo-Su 07:00-22:00,19.4387131,-98.931832,Santa Martha,Mexico,0518649593,bronze,CEDI-09 · Puebla
+Selecto Chedraui,Chedraui,,21.0213003,-89.579214,Merida,Yucatan,0180458000,silver,CEDI-03 · Merida
+Supercito Chedraui,Chedraui,,19.5126313,-96.8513608,Las Trancas,Veracruz,0244838048,silver,CEDI-05 · Veracruz

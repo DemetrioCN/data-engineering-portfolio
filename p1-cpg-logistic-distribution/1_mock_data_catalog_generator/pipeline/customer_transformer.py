@@ -13,23 +13,11 @@ import logging
 import random
 import string
 import pandas as pd
-
-from config.customer_params import MEXICO_REGIONS, GEOFENCE_RADIUS_M, SEGMENT_DISTRIBUTION
+from config.customer_params import GEOFENCE_RADIUS_M, SEGMENT_DISTRIBUTION
 from utils.geo import add_city_and_state
+from model.warehouse_clustering import run_clustering as _assign_region
 
 logger = logging.getLogger(__name__)
-
-
-def _assign_region(df: pd.DataFrame) -> pd.DataFrame:
-    """Map the state column to a warehouse ID via MEXICO_REGIONS."""
-    df = df.copy()
-    df["warehouse_id"] = df["state"].map(MEXICO_REGIONS).fillna("Unknown")
-
-    unmapped = df.loc[df["warehouse_id"] == "Unknown", "state"].unique()
-    if len(unmapped):
-        logger.warning("Unmapped states: %s", list(unmapped))
-    
-    return df
 
 
 def _generate_customer_ids(df_len: int) -> list[str]:
@@ -63,15 +51,18 @@ def transform(df: pd.DataFrame) -> pd.DataFrame:
     logger.info("Reverse-geocoding %d locations…", len(df))
     df = add_city_and_state(df, lat_col="lat", lon_col="lon")
 
-    logger.info("Assigning warehouse regions…")
-    df = _assign_region(df)
-
     logger.info("Generating client IDs…")
     df = df.copy()
     df["customer_id"] = _generate_customer_ids(len(df))
 
     logger.info("Assigning loyalty segments…")
     df["segment"] = _assign_segments(len(df))
+
+    logger.info("Assigning warehouse regions…")
+    df, df_warehouses = _assign_region(
+                                df=df,
+                                output_dir="data/output/clustering/",
+                                save_plot=True)
 
     df["geofence_radius_m"] = GEOFENCE_RADIUS_M
     logger.info("Transform complete. DF size: %d", len(df))
