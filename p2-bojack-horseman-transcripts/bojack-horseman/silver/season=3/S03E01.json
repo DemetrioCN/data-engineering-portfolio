@@ -1,0 +1,3554 @@
+{
+  "episode_id": "S03E01",
+  "season_num": 3,
+  "episode_num": 1,
+  "title": "Episode 1 - Start Spreading the News",
+  "lines": [
+    {
+      "timestamp": "00:00:06",
+      "speaker": null,
+      "text": "[BoJack]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:00:06",
+      "speaker": null,
+      "text": "It's a dream come true.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:00:09",
+      "speaker": null,
+      "text": "[woman]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:00:09",
+      "speaker": null,
+      "text": "You've been trying to get this movie made for 20 years.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:00:12",
+      "speaker": null,
+      "text": "Did you ever think you'd be sitting here, talking about Secretariat?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:00:15",
+      "speaker": null,
+      "text": "Sitting here? In this hotel room?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:00:18",
+      "speaker": null,
+      "text": "[clears throat]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:00:20",
+      "speaker": null,
+      "text": "It's a dream come true.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:00:22",
+      "speaker": null,
+      "text": "What's it like to play Secretariat?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:00:24",
+      "speaker": null,
+      "text": "Dream come true.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:00:25",
+      "speaker": null,
+      "text": "Playing Secretariat, what was that like?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:00:28",
+      "speaker": null,
+      "text": "Dream come true.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:00:29",
+      "speaker": null,
+      "text": "[woman]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:00:29",
+      "speaker": null,
+      "text": "How long you in New York for?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:00:31",
+      "speaker": null,
+      "text": "Just a couple days of fun interviews, then it's off to Chicago for more fun interviews, and then, if I don't blow my brains out, I get to go back to L.A.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:00:39",
+      "speaker": null,
+      "text": "Darling, you're doing marvelously, I am so proud of you.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:00:42",
+      "speaker": null,
+      "text": "If I could make one slight adjustment?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:00:44",
+      "speaker": null,
+      "text": "Maybe fewer jokes about how these interviews",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:00:46",
+      "speaker": null,
+      "text": "- make you want to blow your brains out? - Right. Sorry.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:00:48",
+      "speaker": null,
+      "text": "I am so thrilled to be here, talking with, uh...",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:00:51",
+      "speaker": null,
+      "text": "-Yahoo Finland. -Yahoo Finland.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:00:53",
+      "speaker": null,
+      "text": "- Are you Finnish? - No, we are just getting started.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:00:56",
+      "speaker": null,
+      "text": "Walked right into that one.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:00:57",
+      "speaker": null,
+      "text": "What would an Oscar nomination mean for Mr. BoJack Horseman?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:01:02",
+      "speaker": null,
+      "text": "Any award recognition is just gravy.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:01:04",
+      "speaker": null,
+      "text": "The real joy is to sit in this hotel room all day, answering the same questions over and over again.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:01:08",
+      "speaker": null,
+      "text": "Great answers, you're divine. I'm in love with you.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:01:11",
+      "speaker": null,
+      "text": "One small adjustment. I don't think sarcasm is going to read.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:01:14",
+      "speaker": null,
+      "text": "Just write a script for me, so I don't have to think for myself.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:01:17",
+      "speaker": null,
+      "text": "Honey, I would shove my hand up your ass and control your mouth like a Muppet if it would win you an Oscar.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:01:22",
+      "speaker": null,
+      "text": "What do I know?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:01:23",
+      "speaker": null,
+      "text": "I'm just the publicist you hired to help win you an Oscar.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:01:26",
+      "speaker": null,
+      "text": "[woman]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:01:26",
+      "speaker": null,
+      "text": "What's it like to play Seabiscuit?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:01:29",
+      "speaker": null,
+      "text": "I don't know. You'd have to ask Tobey Maguire.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:01:31",
+      "speaker": null,
+      "text": "[man]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:01:31",
+      "speaker": null,
+      "text": "Your last attempt at a comeback was The BoJack Horseman Show.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:01:34",
+      "speaker": null,
+      "text": "Pass.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:01:35",
+      "speaker": null,
+      "text": "[man 2]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:01:35",
+      "speaker": null,
+      "text": "People still see you as the guy from that sucky show from the '90s.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:01:38",
+      "speaker": null,
+      "text": "Horsin' Around was not a sucky show.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:01:40",
+      "speaker": null,
+      "text": "- Yeah, but it was. - It lasted nine seasons.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:01:43",
+      "speaker": null,
+      "text": "Its whole purpose was for people to watch it so the network could sell ad time, so the show could make more money than it cost to produce.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:01:49",
+      "speaker": null,
+      "text": "It did that well. It was a good show.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:01:51",
+      "speaker": null,
+      "text": "- Yes, but it sucked. - It didn't suck!",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:01:56",
+      "speaker": null,
+      "text": "Great job today. It could not have gone better.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:01:58",
+      "speaker": null,
+      "text": "My only note would be stop defending Horsin' Around.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:02:01",
+      "speaker": null,
+      "text": "Why? Millions of people loved it!",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:02:03",
+      "speaker": null,
+      "text": "We need to use these next few months to define your story.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:02:06",
+      "speaker": null,
+      "text": "When people see you they need to think Oscar winner, not dumb asshole from an old TV show that nobody cares about.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:02:13",
+      "speaker": null,
+      "text": "Okay, I hear what you're saying, but we can both agree Horsin' Around was a good show, right?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:02:17",
+      "speaker": null,
+      "text": "BoJack, you know I think the world of you.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:02:19",
+      "speaker": null,
+      "text": "I think you are so smart and attractive, so I'm not going to mince words.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:02:23",
+      "speaker": null,
+      "text": "Horsin' Around was a piece of shit.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:02:27",
+      "speaker": null,
+      "text": "[funky electronic music]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:02:28",
+      "speaker": null,
+      "text": "♪ ♪",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:03:22",
+      "speaker": null,
+      "text": "Looking good. Fantastic. You need a coaster.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:03:26",
+      "speaker": null,
+      "text": "I told you to wear lipstick and underpants, Teresa.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:03:29",
+      "speaker": null,
+      "text": "I put everything bill-related in one folder.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:03:30",
+      "speaker": null,
+      "text": "Gas bill, cable bill, and the new headshots for Billy Zane.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:03:33",
+      "speaker": null,
+      "text": "- Thank you, Judah. - You also wanted me to remind you",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:03:35",
+      "speaker": null,
+      "text": "- to call Mr. Peanutbutter. - Yeah.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:03:37",
+      "speaker": null,
+      "text": "Ping me again in two minutes? No, five minutes.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:03:39",
+      "speaker": null,
+      "text": "Uh, when's our call with BoJack and Spanakopita?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:03:41",
+      "speaker": null,
+      "text": "The one that started seven minutes ago? It started seven minutes ago.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:03:43",
+      "speaker": null,
+      "text": "What?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:03:44",
+      "speaker": null,
+      "text": "Diane's in your office right now, stalling... poorly.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:03:47",
+      "speaker": null,
+      "text": "And that is my opinion on the Octomom.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:03:51",
+      "speaker": null,
+      "text": "Remember Octomom?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:03:52",
+      "speaker": null,
+      "text": "[Ana]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:03:52",
+      "speaker": null,
+      "text": "Diane, are you stalling for Princess Carolyn?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:03:55",
+      "speaker": null,
+      "text": "What? You know who was good at stallin' was Joseph Stalin.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:03:55",
+      "speaker": null,
+      "text": "[chuckles]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:04:00",
+      "speaker": null,
+      "text": "[BoJack]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:04:00",
+      "speaker": null,
+      "text": "If anything, Stalin was ruthlessly efficient.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:04:02",
+      "speaker": null,
+      "text": "Get your head out of your ass.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:04:04",
+      "speaker": null,
+      "text": "He also had a city named after him. Isn't that right, Princess Carolyn,",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:04:09",
+      "speaker": null,
+      "text": "- who's been here the whole time? - Hey, buddy.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:04:11",
+      "speaker": null,
+      "text": "How was your first big day at the press junket?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:04:13",
+      "speaker": null,
+      "text": "[sighs]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:04:13",
+      "speaker": null,
+      "text": "Endless. It was like the second act of a Judd Apatow movie.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:04:17",
+      "speaker": null,
+      "text": "He was exquisite.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:04:18",
+      "speaker": null,
+      "text": "The movie's tracking really well on social.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:04:20",
+      "speaker": null,
+      "text": "New media impressions are up 23 percent across platforms.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:04:23",
+      "speaker": null,
+      "text": "What does that mean?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:04:25",
+      "speaker": null,
+      "text": "Oh, I have no idea. I assumed you would know.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:04:27",
+      "speaker": null,
+      "text": "[clears throat]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:04:28",
+      "speaker": null,
+      "text": "But I keep tweeting things and they keep getting retweeted,",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:04:31",
+      "speaker": null,
+      "text": "so we're doing something right.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:04:32",
+      "speaker": null,
+      "text": "Yesterday I dropped my phone in the bathroom which made BoJack's Instagram post a picture of the floor, with the caption \" spujb.\" That got 4000 likes.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:04:39",
+      "speaker": null,
+      "text": "-",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:04:39",
+      "speaker": null,
+      "text": "[Ana]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:04:39",
+      "speaker": null,
+      "text": "Great. - I am exhausted.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:04:41",
+      "speaker": null,
+      "text": "Being a movie star is the hardest job.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:04:44",
+      "speaker": null,
+      "text": "And we get no recognition.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:04:44",
+      "speaker": null,
+      "text": "[grunts]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:04:46",
+      "speaker": null,
+      "text": "Okay, you're gonna love this.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:04:48",
+      "speaker": null,
+      "text": "I pulled some strings at Manatee Fair and set up an interview tomorrow night.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:04:52",
+      "speaker": null,
+      "text": "BoJack is not ready for a magazine feature.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:04:54",
+      "speaker": null,
+      "text": "Relax. It's not that big a deal.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:04:56",
+      "speaker": null,
+      "text": "I didn't realize you were an authority on deal size.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:04:59",
+      "speaker": null,
+      "text": "[Princess Carolyn]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:04:59",
+      "speaker": null,
+      "text": "Listen, Moussaka...",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:05:00",
+      "speaker": null,
+      "text": "Ladies, please. There's plenty of BoJack to go around.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:05:04",
+      "speaker": null,
+      "text": "I can do all the bullshit things Ana's scheduled for me in the morning and still have time for Princess Carolyn's bullshit thing tomorrow night.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:05:10",
+      "speaker": null,
+      "text": "Now, pajamas.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:05:12",
+      "speaker": null,
+      "text": "- Whaa! -",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:05:12",
+      "speaker": null,
+      "text": "[gasping]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:05:13",
+      "speaker": null,
+      "text": "- Todd?! - What is going on over there?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:05:15",
+      "speaker": null,
+      "text": "[Ana]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:05:15",
+      "speaker": null,
+      "text": "BoJack smuggled a young boy into his room.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:05:17",
+      "speaker": null,
+      "text": "No big deal. Movie stars do it all the time.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:05:20",
+      "speaker": null,
+      "text": "Where am I?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:05:20",
+      "speaker": null,
+      "text": "[sniffs]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:05:21",
+      "speaker": null,
+      "text": "Bagels? Pizza?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:05:23",
+      "speaker": null,
+      "text": "[sniffing]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:05:23",
+      "speaker": null,
+      "text": "Hipsters? Urine?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:05:26",
+      "speaker": null,
+      "text": "- Am I in Minneapolis? - What? No, you're in New York.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:05:29",
+      "speaker": null,
+      "text": "Follow-up: why are you in New York?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:05:31",
+      "speaker": null,
+      "text": "Beats me. Sometimes I just am places.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:05:34",
+      "speaker": null,
+      "text": "[moaning]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:05:34",
+      "speaker": null,
+      "text": "I can't get to sleep. Oh, God.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:05:39",
+      "speaker": null,
+      "text": "[groans]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:05:41",
+      "speaker": null,
+      "text": "Yeah, that'll do it.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:05:42",
+      "speaker": null,
+      "text": "[sighs]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:05:44",
+      "speaker": null,
+      "text": "Is my name Sarah Koenig? Because I'm about to get cereal.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:05:50",
+      "speaker": null,
+      "text": "[moans]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:05:52",
+      "speaker": null,
+      "text": "I am the queen.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:05:53",
+      "speaker": null,
+      "text": "Follow me, citizens.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:05:55",
+      "speaker": null,
+      "text": "There are no sad times in our cave of possibilities.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:05:59",
+      "speaker": null,
+      "text": "[sighs and snores]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:06:01",
+      "speaker": null,
+      "text": "[grunting]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:06:05",
+      "speaker": null,
+      "text": "[monitor beeps]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:06:08",
+      "speaker": null,
+      "text": "-",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:06:08",
+      "speaker": null,
+      "text": "[beeping]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:06:08",
+      "speaker": null,
+      "text": "- Huh.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:06:09",
+      "speaker": null,
+      "text": "Small bottle of shampoo?! Not on my watch!",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:06:13",
+      "speaker": null,
+      "text": "-",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:06:13",
+      "speaker": null,
+      "text": "[alarm ringing]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:06:13",
+      "speaker": null,
+      "text": "-",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:06:13",
+      "speaker": null,
+      "text": "[screaming]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:06:15",
+      "speaker": null,
+      "text": "You better not have gotten your failure stink all over my important movie star clothes.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:06:19",
+      "speaker": null,
+      "text": "- Ohh... - I didn't mean that.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:06:21",
+      "speaker": null,
+      "text": "You're my friend and you don't stink of failure.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:06:23",
+      "speaker": null,
+      "text": "Your stink is one of good intentions and youthful exuberance.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:06:27",
+      "speaker": null,
+      "text": "[Todd]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:06:27",
+      "speaker": null,
+      "text": "Hooray, compliment!",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:06:29",
+      "speaker": null,
+      "text": "You wanted me to ping you regarding Mr. Peanutbutter.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:06:31",
+      "speaker": null,
+      "text": "Oh, fish! Guys, hold on, I have to make a quick call.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:06:34",
+      "speaker": null,
+      "text": "- What? You're already on a call. - Sorry.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:06:36",
+      "speaker": null,
+      "text": "- Please hold. -",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:06:36",
+      "speaker": null,
+      "text": "[Ana]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:06:36",
+      "speaker": null,
+      "text": "This is ridiculous.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:06:38",
+      "speaker": null,
+      "text": "- Hello? -",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:06:38",
+      "speaker": null,
+      "text": "[Princess Carolyn]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:06:38",
+      "speaker": null,
+      "text": "It's your agent!",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:06:40",
+      "speaker": null,
+      "text": "I wanted to remind you of your meeting with Pinky today.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:06:43",
+      "speaker": null,
+      "text": "I think I'm already in it.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:06:44",
+      "speaker": null,
+      "text": "[annoyed throat clearing]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:06:46",
+      "speaker": null,
+      "text": "- Do I need to be on this call still? - I put you on conference. How do I...?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:06:49",
+      "speaker": null,
+      "text": "- BoJack Horseman, is that you?! - Hey, Mr. Peanutbutter.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:06:53",
+      "speaker": null,
+      "text": "Hey buddy, loved that bathroom floor pic you posted yesterday.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:06:57",
+      "speaker": null,
+      "text": "Spujb! Classic BoJack.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:06:59",
+      "speaker": null,
+      "text": "We should get together sometime and take a selfie.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:07:02",
+      "speaker": null,
+      "text": "I'd love to, buddy, but I'm kinda in New York right now.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:07:06",
+      "speaker": null,
+      "text": "[Peanutbutter]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:07:06",
+      "speaker": null,
+      "text": "New York City?! They make such great salsa.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:07:09",
+      "speaker": null,
+      "text": "I'm here too, honey. Have a great meeting!",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:07:12",
+      "speaker": null,
+      "text": "Diane?! Wait, you went to New York?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:07:14",
+      "speaker": null,
+      "text": "-",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:07:14",
+      "speaker": null,
+      "text": "[Diane]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:07:14",
+      "speaker": null,
+      "text": "No. I'm just on-- - Why wouldn't you tell me?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:07:16",
+      "speaker": null,
+      "text": "How long are you-- I'm not accusing.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:07:17",
+      "speaker": null,
+      "text": "I just... I feel safer when I know that I know where you are.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:07:22",
+      "speaker": null,
+      "text": "- I affirm your feelings... -",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:07:22",
+      "speaker": null,
+      "text": "[BoJack]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:07:22",
+      "speaker": null,
+      "text": "I don't want to--",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:07:24",
+      "speaker": null,
+      "text": "...your feelings have value, but I'm not in New York, I'm just on the conference call.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:07:28",
+      "speaker": null,
+      "text": "- Guys, can we... -",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:07:28",
+      "speaker": null,
+      "text": "[Peanutbutter]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:07:28",
+      "speaker": null,
+      "text": "I feel heard.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:07:30",
+      "speaker": null,
+      "text": "-",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:07:30",
+      "speaker": null,
+      "text": "[Diane]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:07:30",
+      "speaker": null,
+      "text": "I hear that you feel heard. - What the hell is happening?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:07:32",
+      "speaker": null,
+      "text": "- Hey, Mr. Peanutbutter, I'm in New York! - What?!",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:07:36",
+      "speaker": null,
+      "text": "[Todd]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:07:36",
+      "speaker": null,
+      "text": "As Carrie from Sex and the City might say...",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:07:39",
+      "speaker": null,
+      "text": "- I'm Carrie. -",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:07:39",
+      "speaker": null,
+      "text": "[Peanutbutter]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:07:39",
+      "speaker": null,
+      "text": "Todd? In the naked city?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:07:42",
+      "speaker": null,
+      "text": "[chuckling]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:07:42",
+      "speaker": null,
+      "text": "That is going to lead to some wackiness. You mark my words.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:07:47",
+      "speaker": null,
+      "text": "Would you guys literally mark my words? I do want to refer back to this later on.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:07:51",
+      "speaker": null,
+      "text": "We're in the middle of a meeting!",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:07:53",
+      "speaker": null,
+      "text": "[Peanutbutter]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:07:53",
+      "speaker": null,
+      "text": "G ot to go. It's always \"Rabbit, Run\" with this guy.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:07:56",
+      "speaker": null,
+      "text": "Right?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:07:57",
+      "speaker": null,
+      "text": "Oh, yeah. Somebody did their research on J.D. Salinger.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:08:01",
+      "speaker": null,
+      "text": "Rabbit, Run?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:08:02",
+      "speaker": null,
+      "text": "- That's Updike, you illiterate. - What's Updike?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:08:04",
+      "speaker": null,
+      "text": "Not much, dyke, what's up with you?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:08:06",
+      "speaker": null,
+      "text": "Is \"dyke\" an okay thing to say now?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:08:08",
+      "speaker": null,
+      "text": "Has it been reclaimed? I honestly can't keep track.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:08:11",
+      "speaker": null,
+      "text": "- Who are you asking? -",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:08:11",
+      "speaker": null,
+      "text": "[Ana]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:08:11",
+      "speaker": null,
+      "text": "We're hanging up now, goodbye.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:08:14",
+      "speaker": null,
+      "text": "Wow! BoJack and Todd in the Big Apple.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:08:18",
+      "speaker": null,
+      "text": "I want to find one of those fortune telling robots that can make me big!",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:08:22",
+      "speaker": null,
+      "text": "[groans]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:08:23",
+      "speaker": null,
+      "text": "Hey, champ, I have a very important job for you.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:08:26",
+      "speaker": null,
+      "text": "Why don't you go get us some ice?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:08:28",
+      "speaker": null,
+      "text": "You don't need to patronize me.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:08:30",
+      "speaker": null,
+      "text": "- But, yeah, I can do that important job. -",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:08:30",
+      "speaker": null,
+      "text": "[BoJack]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:08:30",
+      "speaker": null,
+      "text": "Don't get lost, buddy!",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:08:34",
+      "speaker": null,
+      "text": "I'm not gonna get lost.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:08:36",
+      "speaker": null,
+      "text": "The city's on a grid, why would I get...",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:08:44",
+      "speaker": null,
+      "text": "Oh, no.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:08:45",
+      "speaker": null,
+      "text": "Hello? Are you still there?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:08:47",
+      "speaker": null,
+      "text": "- They may have hung up. - I have some good news for once.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:08:50",
+      "speaker": null,
+      "text": "I just got promoted to head of programming.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:08:53",
+      "speaker": null,
+      "text": "I'm no longer a passenger on the burning wreckage of an industry that is broadcast television.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:08:59",
+      "speaker": null,
+      "text": "- I'm a captain! - What happened to Wanda?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:09:01",
+      "speaker": null,
+      "text": "You didn't hear? She got poached.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:09:03",
+      "speaker": null,
+      "text": "- Oh, God! - By another company.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:09:05",
+      "speaker": null,
+      "text": "Oh, good.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:09:06",
+      "speaker": null,
+      "text": "- They shot her. - Oh, God!",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:09:08",
+      "speaker": null,
+      "text": "Straight to the top of the corporate ladder!",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:09:10",
+      "speaker": null,
+      "text": "- Oh, good. - She had to move to Detroit.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:09:14",
+      "speaker": null,
+      "text": "- Oh, God! - Which I hear is due for a resurgence.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:09:17",
+      "speaker": null,
+      "text": "Can we get to the goddamn point, please?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:09:19",
+      "speaker": null,
+      "text": "Anyway, the network is finally breaking even, thanks to the runaway success of Hollywoo Stars and Celebrities:",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:09:25",
+      "speaker": null,
+      "text": "What Do They Know? Do They Know Things? Let's Find Out!",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:09:27",
+      "speaker": null,
+      "text": "Not to mention its companion show Talking Hollywoo Stars and Celebrities:",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:09:30",
+      "speaker": null,
+      "text": "What Do They Know? Do They Know Things? Let's Find Out,",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:09:32",
+      "speaker": null,
+      "text": "With Chris Hardwick.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:09:33",
+      "speaker": null,
+      "text": "- So as long as you two stick around... - I'm taking the show off the air.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:09:36",
+      "speaker": null,
+      "text": "Wait, what? Why?!",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:09:38",
+      "speaker": null,
+      "text": "I told the story I wanted to tell.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:09:40",
+      "speaker": null,
+      "text": "To prolong it for commercial reasons would be crass and inorganic.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:09:43",
+      "speaker": null,
+      "text": "Uh...",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:09:44",
+      "speaker": null,
+      "text": "At long last the public knows what Hollywoo stars and celebrities know",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:09:48",
+      "speaker": null,
+      "text": "- and what they don't know. -",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:09:48",
+      "speaker": null,
+      "text": "[moaning]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:09:50",
+      "speaker": null,
+      "text": "- Did they know things? -",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:09:50",
+      "speaker": null,
+      "text": "[whimpers]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:09:51",
+      "speaker": null,
+      "text": "- Well, we found out. - This is a nightmare.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:09:53",
+      "speaker": null,
+      "text": "Why does everything I love fall apart as soon as I touch it?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:09:56",
+      "speaker": null,
+      "text": "Oh, my ex-wife was right about me.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:09:58",
+      "speaker": null,
+      "text": "I am no Christopher from the Tesla dealership.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:10:06",
+      "speaker": null,
+      "text": "Is this as good as it gets?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:10:09",
+      "speaker": null,
+      "text": "Or are we living in the ghost town where once my career did blossom?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:10:15",
+      "speaker": null,
+      "text": "Who will speak my name when I am gone?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:10:18",
+      "speaker": null,
+      "text": "Who will sing lamentations for he who once talked soup?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:10:22",
+      "speaker": null,
+      "text": "-",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:10:22",
+      "speaker": null,
+      "text": "[groans]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:10:22",
+      "speaker": null,
+      "text": "- What legacy of ruin am I left with?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:10:26",
+      "speaker": null,
+      "text": "What rewards have I reaped for the damage done?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:10:31",
+      "speaker": null,
+      "text": "I do not miss the spotlight's glare, but I do... a little, miss sunshine.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:10:38",
+      "speaker": null,
+      "text": "[sobbing]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:10:42",
+      "speaker": null,
+      "text": "[gasps and growls]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:10:44",
+      "speaker": null,
+      "text": "But before you fold the omelette,",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:10:45",
+      "speaker": null,
+      "text": "I'd like the chef to hold the pan up and whisper his or her dreams into it.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:10:49",
+      "speaker": null,
+      "text": "Whisper dreams into omelette.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:10:53",
+      "speaker": null,
+      "text": "Just coffee. Don't need to talk to it at all. Thanks.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:10:55",
+      "speaker": null,
+      "text": "You look different. Older. A lot older.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:10:58",
+      "speaker": null,
+      "text": "I'm not saying you look bad, just much, much, much older.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:11:01",
+      "speaker": null,
+      "text": "Thank you, Jill.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:11:02",
+      "speaker": null,
+      "text": "You haven't heard from Cuddlywhiskers recently, have you?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:11:04",
+      "speaker": null,
+      "text": "Cuddlywhiskers? I haven't talked to him since the show was canceled.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:11:07",
+      "speaker": null,
+      "text": "I worry about him.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:11:08",
+      "speaker": null,
+      "text": "About six months back, he disappeared, stopped returning my calls.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:11:12",
+      "speaker": null,
+      "text": "I'm sure he's fine. I mean, who returns calls?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:11:16",
+      "speaker": null,
+      "text": "Promise me you'll check on him when you get back to L.A.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:11:19",
+      "speaker": null,
+      "text": "Maybe swing by his house? I think you owe him that much.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:11:21",
+      "speaker": null,
+      "text": "Fine. Listen, about the play...",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:11:23",
+      "speaker": null,
+      "text": "The Tragedy of Greg KingLear, a theatrical immersion by Jill Pill?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:11:26",
+      "speaker": null,
+      "text": "- Right. - That's dead. Over.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:11:28",
+      "speaker": null,
+      "text": "A thing that happened that happens no longer,",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:11:30",
+      "speaker": null,
+      "text": "- like a whimper in the wind. - Okay.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:11:31",
+      "speaker": null,
+      "text": "Theater is by its very nature ephemeral. We shout into the void, \"Hey, you!\"",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:11:36",
+      "speaker": null,
+      "text": "And the void says, \"Stop shouting at me, please!\"",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:11:39",
+      "speaker": null,
+      "text": "And we grab the void and we spit in its face, \"Sir, I will not.\"",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:11:43",
+      "speaker": null,
+      "text": "Boy, did New York do a number on you.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:11:45",
+      "speaker": null,
+      "text": "Let me tell you about my next piece. It starts with you,",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:11:48",
+      "speaker": null,
+      "text": "BoJack Horseman, completely naked and covered in milk.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:11:52",
+      "speaker": null,
+      "text": "- I'll stop you there. - It's a symbol for rebirth.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:11:54",
+      "speaker": null,
+      "text": "I'm not interested in being rebirthed.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:11:56",
+      "speaker": null,
+      "text": "I'm still recovering from being birthed the first time.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:11:58",
+      "speaker": null,
+      "text": "Jill, I'm not the guy who does things that are challenging, or edgy, or covered in milk.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:12:03",
+      "speaker": null,
+      "text": "I'm about to be nominated for an Oscar. I'm thinking about my legacy now.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:12:06",
+      "speaker": null,
+      "text": "I want to do things that connect with people, things that last.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:12:10",
+      "speaker": null,
+      "text": "That's the whole point, nothing lasts.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:12:12",
+      "speaker": null,
+      "text": "No, I know, but see, years after I die, people will still be able to see me in Secretariat.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:12:16",
+      "speaker": null,
+      "text": "- And then what? - And then...",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:12:19",
+      "speaker": null,
+      "text": "I'll be remembered. If I win an Oscar, I'll be remembered.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:12:22",
+      "speaker": null,
+      "text": "- And then what? - Then my life will have meaning.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:12:25",
+      "speaker": null,
+      "text": "- I don't know! - Mm-hmm.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:12:27",
+      "speaker": null,
+      "text": "You know what the real tragedy of Greg KingLear is?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:12:29",
+      "speaker": null,
+      "text": "Two hours long without an intermission?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:12:31",
+      "speaker": null,
+      "text": "It's that he's a marionette.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:12:32",
+      "speaker": null,
+      "text": "And he doesn't even know someone else is pulling his strings.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:12:36",
+      "speaker": null,
+      "text": "Mmm, I don't think the chef whispered his dreams into this.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:12:39",
+      "speaker": null,
+      "text": "This does not taste like dreams.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:12:43",
+      "speaker": null,
+      "text": "You told me I would be getting more attention at a smaller agency, but if anything, I'm getting less.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:12:48",
+      "speaker": null,
+      "text": "Is this the best time to be on your phone?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:12:51",
+      "speaker": null,
+      "text": "I'm sorry. Let me just send this one email...",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:12:53",
+      "speaker": null,
+      "text": "What? Why isn't it sending? Judah!",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:12:56",
+      "speaker": null,
+      "text": "I'm taking my business to Gekko Rabitowitz.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:12:58",
+      "speaker": null,
+      "text": "What? No!",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:12:59",
+      "speaker": null,
+      "text": "J.D. Salinger is too big a star to be hamstrung by some rinky-dink operation working out of a two-story warehouse.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:13:06",
+      "speaker": null,
+      "text": "I need an agency with at least nine stories.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:13:08",
+      "speaker": null,
+      "text": "Uh...",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:13:09",
+      "speaker": null,
+      "text": "That was a reference to my work, with which you are clearly not familiar.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:13:13",
+      "speaker": null,
+      "text": "- Oh... - Goodbye.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:13:15",
+      "speaker": null,
+      "text": "Hello to you, Rasputin.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:13:17",
+      "speaker": null,
+      "text": "- Give my regards to the czar. - I will relay the message.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:13:21",
+      "speaker": null,
+      "text": "Oh, I don't know why I thought I could do this.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:13:23",
+      "speaker": null,
+      "text": "I'm drowning, and cats hate drowning.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:13:27",
+      "speaker": null,
+      "text": "I believe I can take on more responsibility around here.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:13:29",
+      "speaker": null,
+      "text": "- On a provisional basis, of course. - Okay.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:13:32",
+      "speaker": null,
+      "text": "But we're a small agency and we need to think like one.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:13:35",
+      "speaker": null,
+      "text": "Instead of spreading ourselves thinner, we should focus on better gigs for the clients we already have.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:13:40",
+      "speaker": null,
+      "text": "- Oh. Like Jerry Maguire. - Yes.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:13:44",
+      "speaker": null,
+      "text": "- What part of Jerry Maguire ? - The part where Tom Cruise's agent got him a massive payday for being in Jerry Maguire.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:13:50",
+      "speaker": null,
+      "text": "[ringtone]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:13:50",
+      "speaker": null,
+      "text": "♪ Who's that dog? Mister Peanutbutter ♪",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:13:53",
+      "speaker": null,
+      "text": "Princess Carolyn?!",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:13:55",
+      "speaker": null,
+      "text": "Listen, kid, tough break about the Hollywoo Stars and Celebrities",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:13:57",
+      "speaker": null,
+      "text": "Whatever, Whatever, Whatever, but what are we gonna do next?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:14:00",
+      "speaker": null,
+      "text": "I was looking forward to taking some time off.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:14:03",
+      "speaker": null,
+      "text": "What? That is the worst idea I've ever heard.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:14:06",
+      "speaker": null,
+      "text": "You're the biggest name in TV right now.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:14:08",
+      "speaker": null,
+      "text": "and every network would love to air your next project.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:14:10",
+      "speaker": null,
+      "text": "Why don't you get off your lazy keister and come up with some TV ideas and make us all billionaires?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:14:16",
+      "speaker": null,
+      "text": "Go get us some money.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:14:17",
+      "speaker": null,
+      "text": "Go get it, boy. You can do it! Go! Atta boy!",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:14:20",
+      "speaker": null,
+      "text": "[barking]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:14:24",
+      "speaker": null,
+      "text": "Daddy, it's so nice having you home.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:14:27",
+      "speaker": null,
+      "text": "These last few months have been amazing.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:14:29",
+      "speaker": null,
+      "text": "My blood pressure's down, my stress is down.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:14:32",
+      "speaker": null,
+      "text": "-",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:14:32",
+      "speaker": null,
+      "text": "[engine revving]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:14:32",
+      "speaker": null,
+      "text": "- Oh, what the...?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:14:34",
+      "speaker": null,
+      "text": "There's my favorite accountant!",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:14:37",
+      "speaker": null,
+      "text": "Great news! P.B. Livin' is back...",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:14:39",
+      "speaker": null,
+      "text": "- No! No! - ...in business!",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:14:41",
+      "speaker": null,
+      "text": "- No! - Yes!",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:14:43",
+      "speaker": null,
+      "text": "-Here we go! -Oh, God, no, please.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:14:45",
+      "speaker": null,
+      "text": "It's gonna be great, as it always is, from my perspective.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:14:48",
+      "speaker": null,
+      "text": "Dad, you promised we were gonna play catch, and then we'd listen to your favorite Harry Chapin song together!",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:14:53",
+      "speaker": null,
+      "text": "You never told me what it was!",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:14:55",
+      "speaker": null,
+      "text": "Oh, it's Cat's in the Cradle , but don't listen to it now!",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:14:57",
+      "speaker": null,
+      "text": "I'm gonna go listen to it.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:14:59",
+      "speaker": null,
+      "text": "No! The lyrics are too relevant. Don't do it.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:15:01",
+      "speaker": null,
+      "text": "- No! -",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:15:01",
+      "speaker": null,
+      "text": "[engine revving]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:15:05",
+      "speaker": null,
+      "text": "[both laughing]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:15:08",
+      "speaker": null,
+      "text": "So, what's next for BoJack?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:15:11",
+      "speaker": null,
+      "text": "What do you mean, \"What's next?\" Why does everything have to have a next?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:15:15",
+      "speaker": null,
+      "text": "I just mean, after Secretariat's all over, what are you going to do next?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:15:19",
+      "speaker": null,
+      "text": "We were told this feature would be pegged to the release of Secretariat.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:15:24",
+      "speaker": null,
+      "text": "It is, but we also want to get to know the real BoJack.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:15:27",
+      "speaker": null,
+      "text": "- Do we? - If you want the real BoJack, there's a book written about that.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:15:30",
+      "speaker": null,
+      "text": "But that was BoJack before the book came out.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:15:33",
+      "speaker": null,
+      "text": "Who's BoJack now?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:15:35",
+      "speaker": null,
+      "text": "Who's BoJack now? BoJack is just...",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:15:37",
+      "speaker": null,
+      "text": "He's a guy who could use a drink, that's who!",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:15:40",
+      "speaker": null,
+      "text": "Should we order alcohol?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:15:41",
+      "speaker": null,
+      "text": "Heather, could we have a moment of privacy, please?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:15:44",
+      "speaker": null,
+      "text": "Sure. I'll just plug my ears and sing an old sea shanty.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:15:47",
+      "speaker": null,
+      "text": "♪ Oh, the sea she be a salty lass With a hi, ho, barrel of rum... ♪",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:15:52",
+      "speaker": null,
+      "text": "Sweetheart, I don't think we need to be drinking tonight.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:15:54",
+      "speaker": null,
+      "text": "Trust me, you do not want me to do this sober.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:15:57",
+      "speaker": null,
+      "text": "You don't need to micromanage everything, okay? I'm not your puppet.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:16:00",
+      "speaker": null,
+      "text": "All right. You clearly have everything under control.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:16:04",
+      "speaker": null,
+      "text": "♪ Raise the mast and raise your glass And banish ye dragons ♪",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:16:07",
+      "speaker": null,
+      "text": "♪ To where they come from! ♪",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:16:09",
+      "speaker": null,
+      "text": "Garçon, dos whiskey sours, por favor?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:16:11",
+      "speaker": null,
+      "text": "Actually, make it tres. And whatever the lady wants.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:16:14",
+      "speaker": null,
+      "text": "- Did mama bear finally leave? - She's a human, but yes.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:16:16",
+      "speaker": null,
+      "text": "Well, when the cat's away...",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:16:18",
+      "speaker": null,
+      "text": "Again, a human. I like where you're going with this.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:16:20",
+      "speaker": null,
+      "text": "I gotta tell you, I really loved the movie.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:16:23",
+      "speaker": null,
+      "text": "You're definitely going to win an Oscar.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:16:25",
+      "speaker": null,
+      "text": "That \"You Are Secretariat\" scene? Oh, it made me wet.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:16:28",
+      "speaker": null,
+      "text": "It made you wet?!",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:16:29",
+      "speaker": null,
+      "text": "Yeah. \"Wet\" is manatee slang.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:16:31",
+      "speaker": null,
+      "text": "It refers to a feeling of comfort and warmth, because a manatee's natural habitat is water.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:16:36",
+      "speaker": null,
+      "text": "Oh, okay.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:16:38",
+      "speaker": null,
+      "text": "- It also made me really horny. - Uh...",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:16:40",
+      "speaker": null,
+      "text": "That's narwhal slang.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:16:41",
+      "speaker": null,
+      "text": "You know, because they have horns.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:16:43",
+      "speaker": null,
+      "text": "[both chuckling]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:16:50",
+      "speaker": null,
+      "text": "[Todd]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:16:50",
+      "speaker": null,
+      "text": "When I first came to New York I was young, full of hope.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:16:53",
+      "speaker": null,
+      "text": "But you get lost in this town.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:16:55",
+      "speaker": null,
+      "text": "One day you look in the mirror and think to yourself,",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:16:58",
+      "speaker": null,
+      "text": "\"Who is this sad, broken man?\"",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:17:01",
+      "speaker": null,
+      "text": "Listen, kid, I don't need your life story.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:17:03",
+      "speaker": null,
+      "text": "I just came out here to commit suicide.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:17:05",
+      "speaker": null,
+      "text": "- No, don't! - Crap! Forgot I could fly.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:17:09",
+      "speaker": null,
+      "text": "[chuckling and kissing]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:17:12",
+      "speaker": null,
+      "text": "The first thing you notice about BoJack is he's got a nice buzz going.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:17:16",
+      "speaker": null,
+      "text": "Oh, one final question. Are you more man than horse?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:17:19",
+      "speaker": null,
+      "text": "Or are you more horse than man?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:17:21",
+      "speaker": null,
+      "text": "What the hell does that mean?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:17:22",
+      "speaker": null,
+      "text": "Take off your city clothes and let's be animals!",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:17:25",
+      "speaker": null,
+      "text": "I want to get natural!",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:17:27",
+      "speaker": null,
+      "text": "[laughing]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:17:28",
+      "speaker": null,
+      "text": "Okay! A manatee and a horse making out with each other.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:17:31",
+      "speaker": null,
+      "text": "Just like in nature.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:17:33",
+      "speaker": null,
+      "text": "In the old days sailors thought manatees were mermaids.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:17:36",
+      "speaker": null,
+      "text": "Remember that episode of Horsin' Around where Sabrina wanted to be a mermaid?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:17:40",
+      "speaker": null,
+      "text": "I don't want to think about that show.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:17:42",
+      "speaker": null,
+      "text": "I didn't come back to your hotel room because you're a goofy dad who once got his dick stuck in a vacuum cleaner.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:17:48",
+      "speaker": null,
+      "text": "I'm pretty sure that never happened on the show.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:17:50",
+      "speaker": null,
+      "text": "If I'm going to sacrifice my journalistic integrity, it's because I'm having sex with a movie star.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:17:56",
+      "speaker": null,
+      "text": "And they're off!",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:17:57",
+      "speaker": null,
+      "text": "[chuckling]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:17:59",
+      "speaker": null,
+      "text": "[Heather]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:17:59",
+      "speaker": null,
+      "text": "You like that, little horsie?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:17:59",
+      "speaker": null,
+      "text": "[BoJack]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:17:59",
+      "speaker": null,
+      "text": "Yeah.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:18:01",
+      "speaker": null,
+      "text": "- But I don't need you to talk. -",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:18:01",
+      "speaker": null,
+      "text": "[Heather]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:18:01",
+      "speaker": null,
+      "text": "I'm a mermaid, baby.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:18:05",
+      "speaker": null,
+      "text": "- Gonna climb up onto your boat. -",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:18:05",
+      "speaker": null,
+      "text": "[BoJack]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:18:05",
+      "speaker": null,
+      "text": "What?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:18:10",
+      "speaker": null,
+      "text": "-",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:18:10",
+      "speaker": null,
+      "text": "[Heather]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:18:10",
+      "speaker": null,
+      "text": "What happened? - Sorry, I just... Give me a minute.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:18:13",
+      "speaker": null,
+      "text": "[Heather]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:18:13",
+      "speaker": null,
+      "text": "You want me to touch it, blow on it, sing it happy birthday?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:18:17",
+      "speaker": null,
+      "text": "[BoJack]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:18:17",
+      "speaker": null,
+      "text": "No, no, just...",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:18:18",
+      "speaker": null,
+      "text": "Why did you say that thing about the boat?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:18:20",
+      "speaker": null,
+      "text": "I don't know, I was being sexy. You okay?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:18:23",
+      "speaker": null,
+      "text": "Just forget it. You ruined it.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:18:28",
+      "speaker": null,
+      "text": "[exhales]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:18:30",
+      "speaker": null,
+      "text": "You want to talk about it?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:18:32",
+      "speaker": null,
+      "text": "There's nothing to talk about. It was a misunderstanding, that's all.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:18:37",
+      "speaker": null,
+      "text": "She just walked in at the worst possible...",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:18:40",
+      "speaker": null,
+      "text": "It-- It wasn't my fault, uh, right?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:18:43",
+      "speaker": null,
+      "text": "I don't know what you're talking about.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:18:45",
+      "speaker": null,
+      "text": "On the boat, there was a girl.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:18:48",
+      "speaker": null,
+      "text": "- What? - In New Mexico.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:18:51",
+      "speaker": null,
+      "text": "And she trusted me.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:18:53",
+      "speaker": null,
+      "text": "I keep asking myself if her mother didn't walk in, would I have done it?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:18:57",
+      "speaker": null,
+      "text": "And part of me is sure that I-- I couldn't.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:19:01",
+      "speaker": null,
+      "text": "But another part knows that's a lie.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:19:04",
+      "speaker": null,
+      "text": "How do you make something right when you've made it so wrong you can never go back?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:19:08",
+      "speaker": null,
+      "text": "I just think you have to keep moving forward?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:19:12",
+      "speaker": null,
+      "text": "[sighs]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:19:12",
+      "speaker": null,
+      "text": "Yeah.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:19:13",
+      "speaker": null,
+      "text": "All my life that's all I've ever done. What's it gotten me?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:19:16",
+      "speaker": null,
+      "text": "Well, hey, look, you're the star of a movie now.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:19:19",
+      "speaker": null,
+      "text": "You're probably gonna win an Oscar.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:19:21",
+      "speaker": null,
+      "text": "I'm not even in it. That's not me.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:19:23",
+      "speaker": null,
+      "text": "- What do you mean, that's not you? - I was digitally replaced.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:19:26",
+      "speaker": null,
+      "text": "Special effects. None of it's me.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:19:30",
+      "speaker": null,
+      "text": "Wow, that's...",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:19:30",
+      "speaker": null,
+      "text": "[sighs]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:19:32",
+      "speaker": null,
+      "text": "That's quite a story.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:19:33",
+      "speaker": null,
+      "text": "I shouldn't even be here.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:19:35",
+      "speaker": null,
+      "text": "It's been a long night.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:19:38",
+      "speaker": null,
+      "text": "Why don't we go to bed? In the morning, everything will be okay.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:19:41",
+      "speaker": null,
+      "text": "[lamp clicks]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:19:42",
+      "speaker": null,
+      "text": "[sighs]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:19:49",
+      "speaker": null,
+      "text": "-",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:19:49",
+      "speaker": null,
+      "text": "[traffic outside, faint]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:19:49",
+      "speaker": null,
+      "text": "-",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:19:49",
+      "speaker": null,
+      "text": "[snorts]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:19:52",
+      "speaker": null,
+      "text": "[moans]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:19:55",
+      "speaker": null,
+      "text": "Oh, shit.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:19:56",
+      "speaker": null,
+      "text": "[cell phone vibrating]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:20:01",
+      "speaker": null,
+      "text": "BoJack?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:20:02",
+      "speaker": null,
+      "text": "It's 4:00 am.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:20:04",
+      "speaker": null,
+      "text": "No, it's 7:00. I'm in New York. I'm calling from the future.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:20:07",
+      "speaker": null,
+      "text": "[drowsily]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:20:07",
+      "speaker": null,
+      "text": "Is that BoJack Horseman? What is this, a crossover episode?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:20:10",
+      "speaker": null,
+      "text": "What do you want?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:20:12",
+      "speaker": null,
+      "text": "Let's say, hypothetically, you had some information about me.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:20:16",
+      "speaker": null,
+      "text": "You were gonna write about it,",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:20:17",
+      "speaker": null,
+      "text": "I wanted to stop you before you could get it published.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:20:20",
+      "speaker": null,
+      "text": "What would be a smart thing I could do in that situation that would change your mind?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:20:24",
+      "speaker": null,
+      "text": "Are we fighting about the book again?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:20:26",
+      "speaker": null,
+      "text": "I don't remember where we left off last time.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:20:28",
+      "speaker": null,
+      "text": "No. Diane, not everything is about you.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:20:30",
+      "speaker": null,
+      "text": "For once, I have a problem, I need your help.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:20:32",
+      "speaker": null,
+      "text": "Okay, walk me through it again?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:20:34",
+      "speaker": null,
+      "text": "I don't have time! It's already three hours later here!",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:20:37",
+      "speaker": null,
+      "text": "Thanks a lot. Once again, you've been no help whatsoever.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:20:40",
+      "speaker": null,
+      "text": "Spoiler from the future, you suck.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:20:43",
+      "speaker": null,
+      "text": "Sorry, you don't suck. I'm just... very stressed out right now. Bye.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:20:46",
+      "speaker": null,
+      "text": "[groans]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:20:47",
+      "speaker": null,
+      "text": "Oh, come on, come on.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:20:50",
+      "speaker": null,
+      "text": "I'm aware of the situation and I'm handling it.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:20:53",
+      "speaker": null,
+      "text": "- But I haven't even-- - I'm handling it.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:20:55",
+      "speaker": null,
+      "text": "I'll see you at the screening tonight.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:20:57",
+      "speaker": null,
+      "text": "- But... - Don't be late.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:20:59",
+      "speaker": null,
+      "text": "- BoJack! - Huh?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:21:01",
+      "speaker": null,
+      "text": "There you are. Stay right there.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:21:03",
+      "speaker": null,
+      "text": "You will not believe the night I had.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:21:05",
+      "speaker": null,
+      "text": "- This city will eat you alive. - Did you get the ice?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:21:08",
+      "speaker": null,
+      "text": "[groans]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:21:10",
+      "speaker": null,
+      "text": "I'll be right back.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:21:14",
+      "speaker": null,
+      "text": "I'm lost again!",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:21:17",
+      "speaker": null,
+      "text": "[Peanutbutter]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:21:17",
+      "speaker": null,
+      "text": "All right, Oxnard.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:21:18",
+      "speaker": null,
+      "text": "We are looking at a once in a lifetime opportunity.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:21:22",
+      "speaker": null,
+      "text": "Too bad Todd's not here.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:21:24",
+      "speaker": null,
+      "text": "He's always the best at coming up with ideas that at first might seem terrible...",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:21:29",
+      "speaker": null,
+      "text": "Right.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:21:30",
+      "speaker": null,
+      "text": "If he was here, he'd probably say something like,",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:21:33",
+      "speaker": null,
+      "text": "\"Hey, you know what's cool? Spaghetti strainers!\"",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:21:35",
+      "speaker": null,
+      "text": "Go on.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:21:37",
+      "speaker": null,
+      "text": "And you'd say, \"I feel like I've seen that somewhere before.\"",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:21:40",
+      "speaker": null,
+      "text": "Hah! That is so me!",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:21:42",
+      "speaker": null,
+      "text": "And then he'd say, \"What if I told you that this spaghetti strainer is also a hat?\"",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:21:48",
+      "speaker": null,
+      "text": "A spaghetti strainer that's also a hat?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:21:52",
+      "speaker": null,
+      "text": "That is a brilliant idea!",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:21:54",
+      "speaker": null,
+      "text": "That's a terrible idea. That's my point!",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:21:56",
+      "speaker": null,
+      "text": "Put that in the maybe pile.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:21:57",
+      "speaker": null,
+      "text": "Right now, we need to focus on TV shows.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:21:59",
+      "speaker": null,
+      "text": "I'm sure Todd would suggest,",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:22:01",
+      "speaker": null,
+      "text": "A Spaghetti Strainer That's Also A Hat: The TV Show.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:22:05",
+      "speaker": null,
+      "text": "That's it! Todd, you've done it again.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:22:07",
+      "speaker": null,
+      "text": "No! Nobody's done anything.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:22:09",
+      "speaker": null,
+      "text": "Oxnard, I want you to buy out the entire spaghetti strainer warehouse.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:22:13",
+      "speaker": null,
+      "text": "I mean, every spaghetti strainer they got.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:22:15",
+      "speaker": null,
+      "text": "I'm putting all my money in spaghetti strainers for this show.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:22:18",
+      "speaker": null,
+      "text": "- How is this a show? - Don't ask me. It's your idea.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:22:21",
+      "speaker": null,
+      "text": "[sighs]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:22:24",
+      "speaker": null,
+      "text": "-",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:22:24",
+      "speaker": null,
+      "text": "[vehicle stopping]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:22:24",
+      "speaker": null,
+      "text": "-",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:22:24",
+      "speaker": null,
+      "text": "[door opens, closes]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:22:28",
+      "speaker": null,
+      "text": "I took care of our problem.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:22:30",
+      "speaker": null,
+      "text": "What did you do?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:22:32",
+      "speaker": null,
+      "text": "You don't need to know anything else. It's been taken care of.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:22:35",
+      "speaker": null,
+      "text": "Ana...",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:22:37",
+      "speaker": null,
+      "text": "There-- There was a moment back at the hotel where...",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:22:40",
+      "speaker": null,
+      "text": "I really thought I blew it, I was scared it was all over, and--",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:22:43",
+      "speaker": null,
+      "text": "And then after, I was relieved.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:22:47",
+      "speaker": null,
+      "text": "I don't know if I should win an Oscar.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:22:49",
+      "speaker": null,
+      "text": "- I don't know if I want to. - Stop punishing yourself.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:22:52",
+      "speaker": null,
+      "text": "I was in New Mexico.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:22:54",
+      "speaker": null,
+      "text": "None of that matters. All that matters now is the story.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:22:58",
+      "speaker": null,
+      "text": "We get to decide what our story is.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:23:00",
+      "speaker": null,
+      "text": "Nobody else gets to tell you what your story is.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:23:03",
+      "speaker": null,
+      "text": "- What is my story? - I'll tell you.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:23:05",
+      "speaker": null,
+      "text": "This has been your dream for the last 30 years. You made it happen.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:23:09",
+      "speaker": null,
+      "text": "An Oscar won't make you happy forever, it won't solve all your problems.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:23:13",
+      "speaker": null,
+      "text": "You win that Oscar, the next day you go back to being you.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:23:17",
+      "speaker": null,
+      "text": "But that night is a really good night.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:23:20",
+      "speaker": null,
+      "text": "I think you deserve a really good night, and I know how to get you there.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:23:25",
+      "speaker": null,
+      "text": "Do you want that?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:23:28",
+      "speaker": null,
+      "text": "Yes, I do.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:23:30",
+      "speaker": null,
+      "text": "Go introduce your movie. Tell your story.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:23:33",
+      "speaker": null,
+      "text": "Tomorrow we fly to Chicago.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:23:38",
+      "speaker": null,
+      "text": "Being Secretariat isn't just about running fast.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:23:41",
+      "speaker": null,
+      "text": "Secretariat's a state of mind.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:23:43",
+      "speaker": null,
+      "text": "It's about doing the right thing, standing up for yourself.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:23:47",
+      "speaker": null,
+      "text": "Why, I look around and I see a whole room full of Secretariats.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:23:52",
+      "speaker": null,
+      "text": "You are Secretariat.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:23:54",
+      "speaker": null,
+      "text": "And you are Secretariat.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:23:56",
+      "speaker": null,
+      "text": "And you... are Secretariat.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:24:03",
+      "speaker": null,
+      "text": "BoJack, it's such a beautiful movie and I think such a textured performance.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:24:07",
+      "speaker": null,
+      "text": "When you were on Horsin' Around , could you ever have imagined that you'd give a performance like this?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:24:12",
+      "speaker": null,
+      "text": "- Yes. Actually, I imagined it a lot. -",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:24:12",
+      "speaker": null,
+      "text": "[laughter]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:24:15",
+      "speaker": null,
+      "text": "I always knew I was more than just a dumb TV actor.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:24:18",
+      "speaker": null,
+      "text": "Even if other people didn't always know that.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:24:21",
+      "speaker": null,
+      "text": "-",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:24:21",
+      "speaker": null,
+      "text": "[laughter]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:24:21",
+      "speaker": null,
+      "text": "- Seriously, though... that TV show... it wasn't me.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:24:29",
+      "speaker": null,
+      "text": "This movie is me.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:24:32",
+      "speaker": null,
+      "text": "And I can't tell you how great it feels to finally be doing the kind of work that I can be proud of.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:24:37",
+      "speaker": null,
+      "text": "[cheers and applause]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:24:40",
+      "speaker": null,
+      "text": "♪ Back in the '90s I was in a very famous TV show ♪",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:24:49",
+      "speaker": null,
+      "text": "- ♪ I'm BoJack the Horseman ♪ - ♪ BoJack ♪",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:24:51",
+      "speaker": null,
+      "text": "♪ BoJack the Horseman Don't act like you don't know ♪",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:24:58",
+      "speaker": null,
+      "text": "♪ And I'm trying to hold on to my past ♪",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:25:03",
+      "speaker": null,
+      "text": "♪ It's been so long I don't think I'm gonna last ♪",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:25:07",
+      "speaker": null,
+      "text": "♪ I guess I'll just try And make you understand ♪",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:25:11",
+      "speaker": null,
+      "text": "♪ That I'm more horse than a man ♪",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:25:16",
+      "speaker": null,
+      "text": "♪ Or I'm more man than a horse ♪",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:25:20",
+      "speaker": null,
+      "text": "♪ BoJack ♪",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:25:24",
+      "speaker": null,
+      "text": "Boxer vs. Raptor, ♪ Na-na na-na na-na na-na! ♪",
+      "type": "dialogue"
+    }
+  ]
+}

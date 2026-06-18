@@ -1,0 +1,3710 @@
+{
+  "episode_id": "S05E02",
+  "season_num": 5,
+  "episode_num": 2,
+  "title": "Episode 2 - The Dog Days Are Over",
+  "lines": [
+    {
+      "timestamp": "00:00:05",
+      "speaker": null,
+      "text": "-",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:00:05",
+      "speaker": null,
+      "text": "[Diane crying]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:00:05",
+      "speaker": null,
+      "text": "-",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:00:05",
+      "speaker": null,
+      "text": "[sad music playing]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:00:25",
+      "speaker": null,
+      "text": "[car tires squeaking]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:00:29",
+      "speaker": null,
+      "text": "[crying continues]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:00:45",
+      "speaker": null,
+      "text": "I need to get as far away from Los Angeles as possible.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:00:48",
+      "speaker": null,
+      "text": "The handy ticketing screens are behind you and will provide all the answers you need.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:00:52",
+      "speaker": null,
+      "text": "-Can't you just help me? -Screen has all the answers.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:00:54",
+      "speaker": null,
+      "text": "[sighs]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:00:54",
+      "speaker": null,
+      "text": "I could really use some personal attention right now.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:00:58",
+      "speaker": null,
+      "text": "-Where did you want to go? -I need to leave tonight. Anywhere.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:01:01",
+      "speaker": null,
+      "text": "Uh, okay. Hanoi?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:01:04",
+      "speaker": null,
+      "text": "Vietnam! Yes, perfect! Thank you!",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:01:08",
+      "speaker": null,
+      "text": "-Sh-should I punch it into that screen? -Uh-huh.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:01:11",
+      "speaker": null,
+      "text": "And say nice things about me. That screen's my supervisor.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:01:15",
+      "speaker": null,
+      "text": "[theme music playing]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:02:14",
+      "speaker": null,
+      "text": "-",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:02:14",
+      "speaker": null,
+      "text": "[phone vibrating]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:02:14",
+      "speaker": null,
+      "text": "-I'm Peter Sagal. Don't wait, wait.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:02:17",
+      "speaker": null,
+      "text": "-Do answer your phone. -Stefani?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:02:20",
+      "speaker": null,
+      "text": "Hey, girl! Just checking up on that clickable content you were working on.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:02:23",
+      "speaker": null,
+      "text": "Listen, something came up, and I-- Where are you?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:02:26",
+      "speaker": null,
+      "text": "I'm doing a new, fully immersive, 3-D spin class.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:02:29",
+      "speaker": null,
+      "text": "[chuckles]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:02:29",
+      "speaker": null,
+      "text": "Oh, you know what? I'm just biking.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:02:32",
+      "speaker": null,
+      "text": "-Oh. Well, I just landed in Vietnam... -",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:02:32",
+      "speaker": null,
+      "text": "[growls]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:02:35",
+      "speaker": null,
+      "text": "-Where is my content, Diane? -Um...",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:02:38",
+      "speaker": null,
+      "text": "I need words for my website.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:02:40",
+      "speaker": null,
+      "text": "There are words on the website now, but I need younger words, newer words, fresher words to feed the insatiable beast!",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:02:46",
+      "speaker": null,
+      "text": "Okay, okay, I'll write something while I'm here.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:02:49",
+      "speaker": null,
+      "text": "-Love it! Feed that beast, girl! Bye! -",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:02:49",
+      "speaker": null,
+      "text": "[phone beeps]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:02:52",
+      "speaker": null,
+      "text": "[indistinct chattering in Vietnamese]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:02:54",
+      "speaker": null,
+      "text": "[Diane reading]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:02:59",
+      "speaker": null,
+      "text": "Number one: To reconnect with your ancestral roots.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:03:04",
+      "speaker": null,
+      "text": "As a born and raised American,",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:03:06",
+      "speaker": null,
+      "text": "you never felt much connection to your Vietnamese heritage,",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:03:09",
+      "speaker": null,
+      "text": "and your parents offered little to fill in the blanks.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:03:12",
+      "speaker": null,
+      "text": "G'aw! You call that a fastball?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:03:15",
+      "speaker": null,
+      "text": "With an arm like that, you're gonna get booted back to Triple-A, you skeezer!",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:03:19",
+      "speaker": null,
+      "text": "-Dad, where are we from? -We're from Boston, dummy!",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:03:22",
+      "speaker": null,
+      "text": "Why do you think I talk in this accurate, regional dialect?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:03:24",
+      "speaker": null,
+      "text": "I know that, but, I mean, what is our background?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:03:27",
+      "speaker": null,
+      "text": "Why do I look different from the other kids?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:03:30",
+      "speaker": null,
+      "text": "Ah, shove it up your rear, you jack-off.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:03:32",
+      "speaker": null,
+      "text": "You're just the same as anybody else, and don't let nobody tell you different.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:03:35",
+      "speaker": null,
+      "text": "I just thought you could give me a little cultural context,",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:03:38",
+      "speaker": null,
+      "text": "what with you being a tenured professor of Vietnamese history at Tufts and all.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:03:41",
+      "speaker": null,
+      "text": "Christ, Deedee, that's my job.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:03:43",
+      "speaker": null,
+      "text": "I wouldn't ask you to have a period on your day off.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:03:46",
+      "speaker": null,
+      "text": "What? Dad, it-- Okay.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:03:50",
+      "speaker": null,
+      "text": "[Diane]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:03:50",
+      "speaker": null,
+      "text": "But you're here, finally.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:03:52",
+      "speaker": null,
+      "text": "And it's comforting to see your name everywhere",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:03:54",
+      "speaker": null,
+      "text": "and so many faces, that look like your face.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:03:56",
+      "speaker": null,
+      "text": "-Ah! Oh. -",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:03:56",
+      "speaker": null,
+      "text": "[speaking Vietnamese]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:03:58",
+      "speaker": null,
+      "text": "-Sorry, I don't-- I don't speak... -",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:03:58",
+      "speaker": null,
+      "text": "[speaking Vietnamese]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:04:01",
+      "speaker": null,
+      "text": "-I don't... I don't understand you. -",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:04:01",
+      "speaker": null,
+      "text": "[speaking Vietnamese]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:04:05",
+      "speaker": null,
+      "text": "Oh, is this who you were looking for?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:04:07",
+      "speaker": null,
+      "text": "-Ouch! -",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:04:07",
+      "speaker": null,
+      "text": "[speaking Vietnamese]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:04:10",
+      "speaker": null,
+      "text": "I'm sorry.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:04:13",
+      "speaker": null,
+      "text": "[Diane]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:04:13",
+      "speaker": null,
+      "text": "It's more foreign than you expected, but that's good.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:04:16",
+      "speaker": null,
+      "text": "You want to truly immerse yourself and get the full non-LA experience.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:04:20",
+      "speaker": null,
+      "text": "-",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:04:20",
+      "speaker": null,
+      "text": "[bike bell rings]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:04:20",
+      "speaker": null,
+      "text": "-Ooh!",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:04:28",
+      "speaker": null,
+      "text": "Because sometimes, to find yourself,",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:04:30",
+      "speaker": null,
+      "text": "you need to get as far away from the world you know--",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:04:32",
+      "speaker": null,
+      "text": "-Coming through! Hot set! -Ah! Ah!",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:04:34",
+      "speaker": null,
+      "text": "[man]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:04:34",
+      "speaker": null,
+      "text": "Movie lingo!",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:04:35",
+      "speaker": null,
+      "text": "-",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:04:35",
+      "speaker": null,
+      "text": "[sighs]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:04:35",
+      "speaker": null,
+      "text": "Excuse me, hi. -",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:04:35",
+      "speaker": null,
+      "text": "[bell dings]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:04:37",
+      "speaker": null,
+      "text": "-What's going on here? -Oh, isn't it exciting?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:04:40",
+      "speaker": null,
+      "text": "Some American filmmakers are shooting a movie, starring Laura Linney!",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:04:43",
+      "speaker": null,
+      "text": "It's about a recently-divorced woman who comes to Vietnam to find herself.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:04:48",
+      "speaker": null,
+      "text": "[sighs]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:04:51",
+      "speaker": null,
+      "text": "[Diane]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:04:51",
+      "speaker": null,
+      "text": "You came here to reconnect with your roots,",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:04:54",
+      "speaker": null,
+      "text": "but now you feel stupid for even thinking that was possible.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:04:57",
+      "speaker": null,
+      "text": "You put on the clothing you bought, and... it... feels like a costume.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:05:02",
+      "speaker": null,
+      "text": "This is not your home. You're a tourist here.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:05:06",
+      "speaker": null,
+      "text": "Reason number two: you can be a tourist here!",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:05:10",
+      "speaker": null,
+      "text": "-",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:05:10",
+      "speaker": null,
+      "text": "[camera shutter clicks]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:05:10",
+      "speaker": null,
+      "text": "-",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:05:10",
+      "speaker": null,
+      "text": "[both speaking Vietnamese]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:05:13",
+      "speaker": null,
+      "text": "Can I have number two?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:05:15",
+      "speaker": null,
+      "text": "-Number two? -Ah. Yes.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:05:18",
+      "speaker": null,
+      "text": "[speaking Vietnamese]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:05:18",
+      "speaker": null,
+      "text": "Number two.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:05:21",
+      "speaker": null,
+      "text": "Thank you.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:05:21",
+      "speaker": null,
+      "text": "[speaking Vietnamese]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:05:21",
+      "speaker": null,
+      "text": "[laughs]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:05:24",
+      "speaker": null,
+      "text": "[speaking Vietnamese]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:05:25",
+      "speaker": null,
+      "text": "[speaking Vietnamese]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:05:27",
+      "speaker": null,
+      "text": "[speaking Vietnamese]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:05:27",
+      "speaker": null,
+      "text": "Thank you.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:05:32",
+      "speaker": null,
+      "text": "[Diane]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:05:32",
+      "speaker": null,
+      "text": "Sometimes, it's just nice to take a vacation",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:05:35",
+      "speaker": null,
+      "text": "and forget about everything you left behind...",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:05:37",
+      "speaker": null,
+      "text": "-",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:05:37",
+      "speaker": null,
+      "text": "[phone vibrates]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:05:37",
+      "speaker": null,
+      "text": "-I'm Peter Sagal. Don't wait, wait.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:05:39",
+      "speaker": null,
+      "text": "-",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:05:39",
+      "speaker": null,
+      "text": "[beeps]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:05:39",
+      "speaker": null,
+      "text": "-Hello?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:05:40",
+      "speaker": null,
+      "text": "-Diane! -Hey, Mr. Peanutbutter.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:05:43",
+      "speaker": null,
+      "text": "Are you okay? You left my party without saying goodbye.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:05:45",
+      "speaker": null,
+      "text": "I was like, \"Uh-oh, what happened to Diane?\"",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:05:47",
+      "speaker": null,
+      "text": "-Well-- -Then I got distracted because Todd got his tongue stuck to the ice sculpture.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:05:51",
+      "speaker": null,
+      "text": "By the time we got him off, his tongue was completely numb, which made him talk real funny.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:05:55",
+      "speaker": null,
+      "text": "-Mm-hmm. -Well, that got him in quite the situation when the mob boss, at the roller rink, thought he was making fun of his deaf sister.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:06:01",
+      "speaker": null,
+      "text": "I'm sorry, this is turning into a Todd story.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:06:03",
+      "speaker": null,
+      "text": "The point is, are you okay?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:06:05",
+      "speaker": null,
+      "text": "Oh, yeah, sorry.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:06:06",
+      "speaker": null,
+      "text": "[stammers]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:06:06",
+      "speaker": null,
+      "text": "I just had a plane to catch, so... I'm in Vietnam now...",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:06:10",
+      "speaker": null,
+      "text": "-Whoa. -...but... I'll be back soon.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:06:12",
+      "speaker": null,
+      "text": "-Let me fetch you from the airport. -",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:06:12",
+      "speaker": null,
+      "text": "[bike bell rings]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:06:15",
+      "speaker": null,
+      "text": "Oh, that's okay. You don't want to deal with the traffic.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:06:18",
+      "speaker": null,
+      "text": "You know I love traffic.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:06:19",
+      "speaker": null,
+      "text": "I get to catch up on all those hilarious license plates I haven't read yet.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:06:23",
+      "speaker": null,
+      "text": "Okay. Thanks.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:06:24",
+      "speaker": null,
+      "text": "Great. Hey, I have to tell you...",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:06:27",
+      "speaker": null,
+      "text": "I'm glad, I'm not still paying your phone bill because this call must be costing a fortune!",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:06:32",
+      "speaker": null,
+      "text": "Unless you remembered to call Ed for the international plan.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:06:34",
+      "speaker": null,
+      "text": "Of course I remembered to do that! But I have to hang up now.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:06:37",
+      "speaker": null,
+      "text": "Our conversation has reached a natural conclusion, goodbye.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:06:39",
+      "speaker": null,
+      "text": "-",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:06:39",
+      "speaker": null,
+      "text": "[phone beeps]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:06:39",
+      "speaker": null,
+      "text": "-Ugh.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:06:41",
+      "speaker": null,
+      "text": "Number three: because you're single now",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:06:44",
+      "speaker": null,
+      "text": "and you can do whatever you want.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:06:46",
+      "speaker": null,
+      "text": "Isn't it great being single?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:06:48",
+      "speaker": null,
+      "text": "[chuckles]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:06:48",
+      "speaker": null,
+      "text": "It sure is!",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:06:50",
+      "speaker": null,
+      "text": "I love that we're mature enough to still be in each other's lives.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:06:53",
+      "speaker": null,
+      "text": "I know!",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:06:54",
+      "speaker": null,
+      "text": "Other divorced couples can't handle it, but we're handling it, so well, because we are better than them.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:06:58",
+      "speaker": null,
+      "text": "Are we the best divorced couple?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:07:00",
+      "speaker": null,
+      "text": "-I think we might be. -Yeah.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:07:03",
+      "speaker": null,
+      "text": "How are you doing with those divorce papers?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:07:06",
+      "speaker": null,
+      "text": "-It's been several weeks now-- Aah! -Hi, folks! I'm Pickles.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:07:08",
+      "speaker": null,
+      "text": "-Ooh! -Have you dined with us before?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:07:10",
+      "speaker": null,
+      "text": "-Yes. -Well... the way it works around here is: you look at a menu, pick what you want, I'll bring it to you, and then you pay at the end.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:07:17",
+      "speaker": null,
+      "text": "So, like, a restaurant.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:07:18",
+      "speaker": null,
+      "text": "-Ooh, sounds great. -Can I get you started with drinks?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:07:21",
+      "speaker": null,
+      "text": "Water would be great.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:07:22",
+      "speaker": null,
+      "text": "-Oh, my God, I love water. -Me, too!",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:07:24",
+      "speaker": null,
+      "text": "-Uh-huh. -I'm 70 percent water!",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:07:26",
+      "speaker": null,
+      "text": "-Okay. -Me, too! What are the odds?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:07:28",
+      "speaker": null,
+      "text": "So, two waters. Thank you.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:07:31",
+      "speaker": null,
+      "text": "So... Mr. Peanutbutter, the divorce papers.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:07:34",
+      "speaker": null,
+      "text": "-We need to-- Aah! -It's me again, the same dog as before.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:07:37",
+      "speaker": null,
+      "text": "-Do you know what you'd like to order? -Are you bringing our waters?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:07:40",
+      "speaker": null,
+      "text": "-No. I forgot. Food, though? -Hmm, what do you like here?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:07:44",
+      "speaker": null,
+      "text": "-No, why would you ask-- -Oh, I like everything.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:07:46",
+      "speaker": null,
+      "text": "In fact, at the end of my shift, I usually take everyone's leftover scraps and put it in a trough and eat it up. Miam, miam, miam, miam!",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:07:52",
+      "speaker": null,
+      "text": "-But don't mention that to my boss. -We won't.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:07:54",
+      "speaker": null,
+      "text": "But that does sound eclectic and delectable.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:07:56",
+      "speaker": null,
+      "text": "The trough of everything.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:07:58",
+      "speaker": null,
+      "text": "-Okay, and-- -Whoa, somebody's not hungry at all.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:08:01",
+      "speaker": null,
+      "text": "-No, I am! I'm very hungry! -",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:08:01",
+      "speaker": null,
+      "text": "[laughs]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:08:04",
+      "speaker": null,
+      "text": "[shouting]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:08:04",
+      "speaker": null,
+      "text": "And I'll have the Cobb salad!",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:08:07",
+      "speaker": null,
+      "text": "-Why do you keep humoring her? -She's fun.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:08:10",
+      "speaker": null,
+      "text": "You know, if we were still married, this would probably be enough to spiral us off into a big argument, that isn't even about the waitress, and we would fight all night.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:08:17",
+      "speaker": null,
+      "text": "But since we're not married, I can just be like, whatever.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:08:20",
+      "speaker": null,
+      "text": "-This is truly great. -So... great.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:08:23",
+      "speaker": null,
+      "text": "We are doing so great.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:08:26",
+      "speaker": null,
+      "text": "Although...",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:08:27",
+      "speaker": null,
+      "text": "I do get lonely sometimes in that big house all by myself.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:08:31",
+      "speaker": null,
+      "text": "Hey, why don't you have a housewarming party?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:08:34",
+      "speaker": null,
+      "text": "-Eh... -Yeah!",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:08:36",
+      "speaker": null,
+      "text": "Now that you don't have a mean wife who hates parties...",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:08:38",
+      "speaker": null,
+      "text": "He-he, you can finally live it up.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:08:40",
+      "speaker": null,
+      "text": "Okay, but only if you come. Promise?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:08:43",
+      "speaker": null,
+      "text": "I'll come if you have those divorce papers.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:08:46",
+      "speaker": null,
+      "text": "-Aah! -Me again.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:08:46",
+      "speaker": null,
+      "text": "What did you order? I didn't write it down.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:08:49",
+      "speaker": null,
+      "text": "-The trough! -Oh!",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:08:50",
+      "speaker": null,
+      "text": "He wants the trough!",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:08:56",
+      "speaker": null,
+      "text": "Uh, xin... loi. Do you speak any English?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:09:01",
+      "speaker": null,
+      "text": "We... are... lost.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:09:04",
+      "speaker": null,
+      "text": "I actually speak all of the English.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:09:06",
+      "speaker": null,
+      "text": "-Oh! Your English... is very good. -I... am... American.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:09:12",
+      "speaker": null,
+      "text": "Yes. American. We... are.... from... America.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:09:18",
+      "speaker": null,
+      "text": "I... am... from America.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:09:20",
+      "speaker": null,
+      "text": "No. Me America. You Vietnam.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:09:24",
+      "speaker": null,
+      "text": "No. Me America.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:09:27",
+      "speaker": null,
+      "text": "-Me America! -Me America, too.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:09:31",
+      "speaker": null,
+      "text": "Me am also America.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:09:34",
+      "speaker": null,
+      "text": "[Diane]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:09:34",
+      "speaker": null,
+      "text": "Number four: To meet new people!",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:09:39",
+      "speaker": null,
+      "text": "-Hell-oh, uh, I am with the movie. -",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:09:39",
+      "speaker": null,
+      "text": "[music playing]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:09:42",
+      "speaker": null,
+      "text": "No Vietnamese, but I want a drink.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:09:46",
+      "speaker": null,
+      "text": "Beer?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:09:47",
+      "speaker": null,
+      "text": "Glug-glug?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:09:50",
+      "speaker": null,
+      "text": "[Diane]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:09:50",
+      "speaker": null,
+      "text": "Number five: Get out of your natural habitat.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:09:55",
+      "speaker": null,
+      "text": "We all work so hard to cultivate our homes,",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:09:58",
+      "speaker": null,
+      "text": "but what are they other than a place to repeat negative patterns?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:10:01",
+      "speaker": null,
+      "text": "There. Last one.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:10:04",
+      "speaker": null,
+      "text": "And the first one.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:10:05",
+      "speaker": null,
+      "text": "I moved all this other stuff in while you were... stretching.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:10:08",
+      "speaker": null,
+      "text": "So much for helping.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:10:09",
+      "speaker": null,
+      "text": "Oh, did you need help deciding whether or not this place is a shithole?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:10:12",
+      "speaker": null,
+      "text": "Because help is on the way.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:10:14",
+      "speaker": null,
+      "text": "-It's a shithole. -I like it.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:10:16",
+      "speaker": null,
+      "text": "It's what I can afford and it makes me feel good to do it on my own.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:10:19",
+      "speaker": null,
+      "text": "When this place makes you too sad, you can always come over.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:10:21",
+      "speaker": null,
+      "text": "You'll have to say, \"I'm a sad, sad girl with a terrible, dirty apartment,\"",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:10:25",
+      "speaker": null,
+      "text": "-but I'll let you crash. -This is my home and I am proud of it.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:10:29",
+      "speaker": null,
+      "text": "-Where did you get all this junk? -It's not junk!",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:10:31",
+      "speaker": null,
+      "text": "I just emptied out my storage unit.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:10:33",
+      "speaker": null,
+      "text": "This is the stuff that cool, 20-something Diane had to put away when she moved in with old man Peanutbutter.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:10:38",
+      "speaker": null,
+      "text": "Oh, can we finally talk shit about Mr. Peanutbutter?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:10:40",
+      "speaker": null,
+      "text": "Like how he has dog breath and leaves his hair all over, or is this one of those scam jobs where I talk shit and you nod along, then you two get back together and you hate me because I told you how I felt?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:10:50",
+      "speaker": null,
+      "text": "When have you not told me how you felt? All you do is tell me how you really feel.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:10:53",
+      "speaker": null,
+      "text": "This place smells weird. I want to go home.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:10:55",
+      "speaker": null,
+      "text": "-I don't tell you everything. -You do.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:10:57",
+      "speaker": null,
+      "text": "There's literally nothing you haven't told me.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:10:59",
+      "speaker": null,
+      "text": "Well, did I tell you this place smells weird?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:11:02",
+      "speaker": null,
+      "text": "Yes. Help me move this couch.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:11:03",
+      "speaker": null,
+      "text": "Okay, you get started. I'm gonna stretch first.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:11:05",
+      "speaker": null,
+      "text": "Anyway, Mr. Peanutbutter and I are still good friends.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:11:08",
+      "speaker": null,
+      "text": "Get the hammies.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:11:09",
+      "speaker": null,
+      "text": "I'm going to his housewarming party on Saturday. You should come.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:11:11",
+      "speaker": null,
+      "text": "\"Come with?''",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:11:12",
+      "speaker": null,
+      "text": "Diane, just because you have the couch of a girl in her 20s does not mean that you are young enough to say \"come with.\"",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:11:18",
+      "speaker": null,
+      "text": "[grunts]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:11:18",
+      "speaker": null,
+      "text": "There.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:11:20",
+      "speaker": null,
+      "text": "-",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:11:20",
+      "speaker": null,
+      "text": "[light bulb pops]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:11:20",
+      "speaker": null,
+      "text": "-Yeesh.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:11:22",
+      "speaker": null,
+      "text": "I love it! This is my life now.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:11:26",
+      "speaker": null,
+      "text": "[drums]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:11:26",
+      "speaker": null,
+      "text": "♪ Hey! ♪",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:11:27",
+      "speaker": null,
+      "text": "-What's going on? -Oh, hi, Diane.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:11:30",
+      "speaker": null,
+      "text": "[chuckles]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:11:30",
+      "speaker": null,
+      "text": "Some cockroaches in IT tried to unionize, so I just called an exterminator.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:11:30",
+      "speaker": null,
+      "text": "[laughs]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:11:37",
+      "speaker": null,
+      "text": "-What? -Oh. Sorry, I meant negotiator.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:11:39",
+      "speaker": null,
+      "text": "Wait, no. Who did I call?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:11:40",
+      "speaker": null,
+      "text": "Anyway, we're gonna have to tent this place for the next month.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:11:43",
+      "speaker": null,
+      "text": "Can you work from home till then?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:11:45",
+      "speaker": null,
+      "text": "I need that listicle on five empowering roles for women over 40, that would be better played by Jennifer Lawrence.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:11:52",
+      "speaker": null,
+      "text": "-",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:11:52",
+      "speaker": null,
+      "text": "[people screaming]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:11:52",
+      "speaker": null,
+      "text": "-What was that?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:11:54",
+      "speaker": null,
+      "text": "Oh, negotiations. Bye!",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:11:57",
+      "speaker": null,
+      "text": "[mobile typing]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:12:01",
+      "speaker": null,
+      "text": "[Diane]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:12:01",
+      "speaker": null,
+      "text": "Number six: To turn your work into a \"work-cation.\"",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:12:08",
+      "speaker": null,
+      "text": "[typing on laptop]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:12:09",
+      "speaker": null,
+      "text": "In this new era of connectivity, working outside",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:12:12",
+      "speaker": null,
+      "text": "of the traditional workspace can ignite creativity...",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:12:15",
+      "speaker": null,
+      "text": "-",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:12:15",
+      "speaker": null,
+      "text": "[cat meowing]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:12:15",
+      "speaker": null,
+      "text": "-",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:12:15",
+      "speaker": null,
+      "text": "[toilet flushing]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:12:17",
+      "speaker": null,
+      "text": "-",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:12:17",
+      "speaker": null,
+      "text": "[water leaking]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:12:17",
+      "speaker": null,
+      "text": "-Ew!",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:12:20",
+      "speaker": null,
+      "text": "[door opens]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:12:22",
+      "speaker": null,
+      "text": "Uh?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:12:23",
+      "speaker": null,
+      "text": "I'm a sad, sad girl with a terrible, dirty apartment.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:12:25",
+      "speaker": null,
+      "text": "Come on in.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:12:29",
+      "speaker": null,
+      "text": "Okay, one more glass, and then I'm gonna head home.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:12:32",
+      "speaker": null,
+      "text": "Why don't you take the guest room? I could make urine stains on the carpet and string up police tape so it feels more like home for you.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:12:38",
+      "speaker": null,
+      "text": "Thank you, but I'm excited to be on my own.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:12:40",
+      "speaker": null,
+      "text": "I can do whatever I want.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:12:42",
+      "speaker": null,
+      "text": "I can pick up in the middle of the night and go to Disney World, or... Vietnam.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:12:47",
+      "speaker": null,
+      "text": "Do you mean literally Vietnam or like when Old Navy told me they were looking for a fresher face for their Performance Fleece commercials",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:12:53",
+      "speaker": null,
+      "text": "-and they ended up with Sherman Hemsley? -What?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:12:55",
+      "speaker": null,
+      "text": "-",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:12:55",
+      "speaker": null,
+      "text": "[intense sounds]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:12:55",
+      "speaker": null,
+      "text": "-That was my Vietnam.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:12:57",
+      "speaker": null,
+      "text": "I just mean I can finally do the things I've always wanted.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:13:00",
+      "speaker": null,
+      "text": "-I'm in a really good place. -Awesome!",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:13:03",
+      "speaker": null,
+      "text": "[slurring]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:13:03",
+      "speaker": null,
+      "text": "A really good place.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:13:05",
+      "speaker": null,
+      "text": "That's the thing people don't understand about me.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:13:08",
+      "speaker": null,
+      "text": "[slurring]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:13:08",
+      "speaker": null,
+      "text": "I'm also in a good place.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:13:10",
+      "speaker": null,
+      "text": "I got this new job coming up, so I'm gonna fly right, be tight, and sober up real good.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:13:14",
+      "speaker": null,
+      "text": "I'm working out a system so I only drink a little each day.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:13:17",
+      "speaker": null,
+      "text": "Mm...",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:13:19",
+      "speaker": null,
+      "text": "-It's my cheat day. -",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:13:19",
+      "speaker": null,
+      "text": "[glass breaks]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:13:20",
+      "speaker": null,
+      "text": "Isn't it weird that this is the first time we're both been single at the same time?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:13:25",
+      "speaker": null,
+      "text": "Yeah. Why is it weird?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:13:28",
+      "speaker": null,
+      "text": "I mean, I know why I think it's weird, but you say a first thing.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:13:31",
+      "speaker": null,
+      "text": "It's just, uh...",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:13:33",
+      "speaker": null,
+      "text": "Come on, you know why.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:13:35",
+      "speaker": null,
+      "text": "It's just weird. Like, we could totally make out right now.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:13:39",
+      "speaker": null,
+      "text": "-What? -No, I'm not saying we should. No. Pfft!",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:13:42",
+      "speaker": null,
+      "text": "No. I'm just saying we could, and that's weird. I'm saying it's weird.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:13:47",
+      "speaker": null,
+      "text": "Oh. Uh, I guess so.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:13:50",
+      "speaker": null,
+      "text": "Not that I would. Oh, my God, that's so gross.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:13:53",
+      "speaker": null,
+      "text": "-You're gross. -You're being mean.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:13:55",
+      "speaker": null,
+      "text": "I'm allowed to be mean. I'm getting a divorce.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:13:58",
+      "speaker": null,
+      "text": "Okay, you get two more \"divorce means,\" but then that's it.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:14:00",
+      "speaker": null,
+      "text": "I'm cutting you off.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:14:02",
+      "speaker": null,
+      "text": "Maybe I should go.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:14:03",
+      "speaker": null,
+      "text": "You sure you don't want to stay... in the guest room?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:14:05",
+      "speaker": null,
+      "text": "No. No, 'cause then that means I'm staying here.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:14:08",
+      "speaker": null,
+      "text": "And I cannot stay here again, not after last time.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:14:11",
+      "speaker": null,
+      "text": "-What do you mean? That was fun. -Was not.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:14:13",
+      "speaker": null,
+      "text": "I was a mess.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:14:14",
+      "speaker": null,
+      "text": "And then you left me in charge of things and then went who knows where. Michigan?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:14:19",
+      "speaker": null,
+      "text": "No, uh, no. That time I ended up in New Mexico.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:14:23",
+      "speaker": null,
+      "text": "I stayed with this family, got close with the daughter, but, um...",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:14:27",
+      "speaker": null,
+      "text": "[mystery music]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:14:30",
+      "speaker": null,
+      "text": "Luckily, it worked out all fine.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:14:32",
+      "speaker": null,
+      "text": "No, and I-I got a boat, I came back, end of story.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:14:34",
+      "speaker": null,
+      "text": "Okay, buddy.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:14:34",
+      "speaker": null,
+      "text": "[yawns]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:14:36",
+      "speaker": null,
+      "text": "Hey, Diane, can I ask you a--",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:14:39",
+      "speaker": null,
+      "text": "[snoring]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:14:41",
+      "speaker": null,
+      "text": "Oh. Yeah.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:14:42",
+      "speaker": null,
+      "text": "[continuous snoring]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:14:48",
+      "speaker": null,
+      "text": "[Diane moans]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:14:49",
+      "speaker": null,
+      "text": "Oooooooh...",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:14:49",
+      "speaker": null,
+      "text": "[sighs]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:14:53",
+      "speaker": null,
+      "text": "-",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:14:53",
+      "speaker": null,
+      "text": "[snoring]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:14:53",
+      "speaker": null,
+      "text": "-Oh...",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:14:55",
+      "speaker": null,
+      "text": "[heavily snoring]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:14:59",
+      "speaker": null,
+      "text": "[door opens, closes]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:15:00",
+      "speaker": null,
+      "text": "[Diane]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:15:00",
+      "speaker": null,
+      "text": "Reason number seven to go to Vietnam:",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:15:02",
+      "speaker": null,
+      "text": "Your therapist tells you to.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:15:05",
+      "speaker": null,
+      "text": "Have you thought about going away for a little bit?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:15:07",
+      "speaker": null,
+      "text": "I don't need to go away. I'm good.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:15:08",
+      "speaker": null,
+      "text": "I have this client who went through a surprisingly tough second divorce.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:15:12",
+      "speaker": null,
+      "text": "Let's just call her \"Demi M.\"",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:15:14",
+      "speaker": null,
+      "text": "And let's say that her first husband was called \"Bruce.\"",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:15:18",
+      "speaker": null,
+      "text": "Talking about Demi Moore?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:15:19",
+      "speaker": null,
+      "text": "You know I can't divulge personal information about my other clients, Diane.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:15:23",
+      "speaker": null,
+      "text": "I'll ask you to be respectful.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:15:25",
+      "speaker": null,
+      "text": "-But she and her second husband... -Ashton.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:15:27",
+      "speaker": null,
+      "text": "I cannot say, went on a trip, and getting out of her routine allowed her to process things more honestly.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:15:32",
+      "speaker": null,
+      "text": "I just feel, like, I see myself very clearly already.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:15:35",
+      "speaker": null,
+      "text": "And what I see is that I am happy with my decision.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:15:38",
+      "speaker": null,
+      "text": "Mm-hmm. Another client of mine, Angelina J, who has a lot of adopted kids--",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:15:43",
+      "speaker": null,
+      "text": "Is she an actress?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:15:44",
+      "speaker": null,
+      "text": "As a matter of fact, no.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:15:46",
+      "speaker": null,
+      "text": "She thinks of herself as a director.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:15:48",
+      "speaker": null,
+      "text": "Wait a minute, do you talk about me in your sessions with other clients?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:15:51",
+      "speaker": null,
+      "text": "Oh, honey!",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:15:53",
+      "speaker": null,
+      "text": "No.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:15:55",
+      "speaker": null,
+      "text": "[Vietnamese music]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:15:57",
+      "speaker": null,
+      "text": "I'm sorry to bother you, but I'm trying to get a beer.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:16:00",
+      "speaker": null,
+      "text": "Can you help me?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:16:02",
+      "speaker": null,
+      "text": "Ah?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:16:03",
+      "speaker": null,
+      "text": "[speaking Vietnamese]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:16:05",
+      "speaker": null,
+      "text": "Oh, my goodness.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:16:05",
+      "speaker": null,
+      "text": "[chuckles]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:16:05",
+      "speaker": null,
+      "text": "Thank you.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:16:07",
+      "speaker": null,
+      "text": "[Vietnamese music]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:16:09",
+      "speaker": null,
+      "text": "[swallowing beer]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:16:12",
+      "speaker": null,
+      "text": "Ah!",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:16:13",
+      "speaker": null,
+      "text": "I know you can't really understand me, but I'm a nice American dude.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:16:16",
+      "speaker": null,
+      "text": "A good guy.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:16:18",
+      "speaker": null,
+      "text": "[both laugh]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:16:21",
+      "speaker": null,
+      "text": "Would you want to go for a walk to the markets?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:16:23",
+      "speaker": null,
+      "text": "I feel totally lost out there and I could really use a local to help show me around.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:16:28",
+      "speaker": null,
+      "text": "Ah?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:16:30",
+      "speaker": null,
+      "text": "-",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:16:30",
+      "speaker": null,
+      "text": "[packing bag]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:16:30",
+      "speaker": null,
+      "text": "-",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:16:30",
+      "speaker": null,
+      "text": "[Vietnamese music]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:16:35",
+      "speaker": null,
+      "text": "[speaking Vietnamese]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:16:36",
+      "speaker": null,
+      "text": "All right!",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:16:39",
+      "speaker": null,
+      "text": "[Diane]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:16:39",
+      "speaker": null,
+      "text": "Reason number eight: To discover a new you.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:16:45",
+      "speaker": null,
+      "text": "You let a handsome stranger follow you through the markets of Hanoi.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:16:49",
+      "speaker": null,
+      "text": "[chattering]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:16:50",
+      "speaker": null,
+      "text": "And the smells, sounds, and tastes transport you to another reality.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:16:55",
+      "speaker": null,
+      "text": "He tells you stories, he thinks you can't understand,",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:16:58",
+      "speaker": null,
+      "text": "about his life in America,",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:16:59",
+      "speaker": null,
+      "text": "and it's freeing to be this person he thinks you are,",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:17:02",
+      "speaker": null,
+      "text": "this person who isn't bound by her own history or sadness.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:17:06",
+      "speaker": null,
+      "text": "This is a person who could do whatever she wants.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:17:10",
+      "speaker": null,
+      "text": "[both]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:17:10",
+      "speaker": null,
+      "text": "Mm!",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:17:13",
+      "speaker": null,
+      "text": "Wow!",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:17:15",
+      "speaker": null,
+      "text": "I know this is crazy, but... even though you can't understand a word I'm saying,",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:17:20",
+      "speaker": null,
+      "text": "I feel like we have a real connection.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:17:23",
+      "speaker": null,
+      "text": "I want to show you something.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:17:25",
+      "speaker": null,
+      "text": "[joyful music]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:17:30",
+      "speaker": null,
+      "text": "[Diane]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:17:30",
+      "speaker": null,
+      "text": "Oh!",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:17:31",
+      "speaker": null,
+      "text": "This... is Ha Long Bay.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:17:33",
+      "speaker": null,
+      "text": "It's where Laura Linney comes to find herself.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:17:37",
+      "speaker": null,
+      "text": "I'll bet you've never been on a movie set before, huh?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:17:40",
+      "speaker": null,
+      "text": "I'm a grip. The executive grip. I basically run things here.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:17:44",
+      "speaker": null,
+      "text": "It's so cool to see my job through your eyes.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:17:47",
+      "speaker": null,
+      "text": "[both moaning]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:17:50",
+      "speaker": null,
+      "text": "-Ah! -Holy shit, a falling klieg light!",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:17:52",
+      "speaker": null,
+      "text": "[man]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:17:52",
+      "speaker": null,
+      "text": "Sorry!",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:17:54",
+      "speaker": null,
+      "text": "-Uh, can you speak English? -",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:17:54",
+      "speaker": null,
+      "text": "[mystery music]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:17:57",
+      "speaker": null,
+      "text": "No... I just heard someone say that sentence in an American movie once.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:18:02",
+      "speaker": null,
+      "text": "Also that sentence.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:18:04",
+      "speaker": null,
+      "text": "-Also, yes, I speak English. -What?!",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:18:06",
+      "speaker": null,
+      "text": "-I'm from LA. -So what?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:18:08",
+      "speaker": null,
+      "text": "You were just pretending this whole time?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:18:10",
+      "speaker": null,
+      "text": "I was actually feeling something special here.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:18:12",
+      "speaker": null,
+      "text": "Really? It didn't strike you as weird that you talked for two hours straight and I said nothing?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:18:16",
+      "speaker": null,
+      "text": "Or is that what felt special?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:18:18",
+      "speaker": null,
+      "text": "I am not the bad guy here. You're a liar!",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:18:21",
+      "speaker": null,
+      "text": "Okay, and you got to have your little Miss Saigon cosplay, so why don't we call it a draw?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:18:25",
+      "speaker": null,
+      "text": "-Get off my set! -Your set?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:18:27",
+      "speaker": null,
+      "text": "Nice try, buddy. I know what a grip does. At best, you're the best boy... at best.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:18:33",
+      "speaker": null,
+      "text": "Are you kidding me?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:18:34",
+      "speaker": null,
+      "text": "Why does this happen to me every time I go on location?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:18:38",
+      "speaker": null,
+      "text": "[door slams]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:18:38",
+      "speaker": null,
+      "text": "Ugh!",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:18:40",
+      "speaker": null,
+      "text": "[Vietnamese music]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:18:49",
+      "speaker": null,
+      "text": "[Diane]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:18:49",
+      "speaker": null,
+      "text": "Reason number nine to go to Vietnam:",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:18:51",
+      "speaker": null,
+      "text": "Because it's good to get out of your routine.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:18:53",
+      "speaker": null,
+      "text": "Is that similar to reason number five: get out of your natural habitat?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:18:56",
+      "speaker": null,
+      "text": "No, it's a different thing. It's fine.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:18:58",
+      "speaker": null,
+      "text": "-It's whatever. -",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:18:58",
+      "speaker": null,
+      "text": "[door opens]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:18:59",
+      "speaker": null,
+      "text": "Ooh, hey. What are you doing here?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:19:01",
+      "speaker": null,
+      "text": "We're going to the party, remember? You told me to \"come with.\"",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:19:04",
+      "speaker": null,
+      "text": "-Why do you look so different? -Do you like it?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:19:04",
+      "speaker": null,
+      "text": "[laughs]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:19:06",
+      "speaker": null,
+      "text": "It's a whole new, fun me.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:19:09",
+      "speaker": null,
+      "text": "My therapist thought I needed to get out of my routine. I mean, I thought it, too.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:19:12",
+      "speaker": null,
+      "text": "It was mostly me who thought it, but my therapist also...",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:19:12",
+      "speaker": null,
+      "text": "[sighs]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:19:16",
+      "speaker": null,
+      "text": "-Ta da! -Did you get a longer neck or something?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:19:19",
+      "speaker": null,
+      "text": "I did not get a longer neck. It's a haircut.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:19:22",
+      "speaker": null,
+      "text": "-Does it make my neck look long? -No.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:19:24",
+      "speaker": null,
+      "text": "Uh, you actually look amazing.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:19:26",
+      "speaker": null,
+      "text": "Don't try to take advantage just 'cause I'm all vulnerable right now.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:19:29",
+      "speaker": null,
+      "text": "Jesus, lady! I'm just trying to give you a compliment!",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:19:32",
+      "speaker": null,
+      "text": "-Relax, I was joking. -Were you?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:19:35",
+      "speaker": null,
+      "text": "-",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:19:35",
+      "speaker": null,
+      "text": "[sighs]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:19:35",
+      "speaker": null,
+      "text": "Let's just go to the party. -God, you're all over the place.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:19:39",
+      "speaker": null,
+      "text": "-You hate parties. -I don't hate parties.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:19:41",
+      "speaker": null,
+      "text": "- You hate parties. I'm fun. -Okay, you know what? Forget this.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:19:44",
+      "speaker": null,
+      "text": "-I'm sorry. BoJack... -Hey.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:19:46",
+      "speaker": null,
+      "text": "Your haircut looks great. Mr. Peanutbutter's gonna love it.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:19:50",
+      "speaker": null,
+      "text": "[door creaking]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:19:53",
+      "speaker": null,
+      "text": "[dance music playing]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:19:55",
+      "speaker": null,
+      "text": "[chattering]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:19:58",
+      "speaker": null,
+      "text": "-Hey, Diane! -Hey.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:20:00",
+      "speaker": null,
+      "text": "-I love what you did to your neck. -I didn't--",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:20:02",
+      "speaker": null,
+      "text": "Did you see that ice sculpture?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:20:04",
+      "speaker": null,
+      "text": "I am definitely not going to lick it. Don't worry.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:20:08",
+      "speaker": null,
+      "text": "Okay.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:20:09",
+      "speaker": null,
+      "text": "Anyway, I can't stay long because I'm supposed to go to the roller rink later.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:20:13",
+      "speaker": null,
+      "text": "-Uh-huh. -I hope, there won't be",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:20:14",
+      "speaker": null,
+      "text": "-any mob bosses there. -Well--",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:20:16",
+      "speaker": null,
+      "text": "What am I saying? That's so random.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:20:19",
+      "speaker": null,
+      "text": "-Have you seen Mr. Peanutbutter? -I don't know. Did you check the library?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:20:22",
+      "speaker": null,
+      "text": "-Ugh. -'Kay, I gotta go.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:20:23",
+      "speaker": null,
+      "text": "There's a letter I wanna send. I need to lick the stamp.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:20:26",
+      "speaker": null,
+      "text": "Hopefully, I'll remember to do it",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:20:27",
+      "speaker": null,
+      "text": "-before I put my roller skates on... -Okay.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:20:30",
+      "speaker": null,
+      "text": "...so I don't accidentally miss the stamp with my tongue and then roll down the stairs with my tongue out and then smack right into the ice sculpture with my tongue.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:20:37",
+      "speaker": null,
+      "text": "That would be pretty bad, but I wouldn't put it past me.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:20:41",
+      "speaker": null,
+      "text": "-",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:20:41",
+      "speaker": null,
+      "text": "[dance music continuous]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:20:41",
+      "speaker": null,
+      "text": "-",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:20:41",
+      "speaker": null,
+      "text": "[people chatting]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:20:44",
+      "speaker": null,
+      "text": "Who are all these people?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:20:47",
+      "speaker": null,
+      "text": "-Mr. Peanutbutter. There you are! -Diane, nice haircut!",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:20:51",
+      "speaker": null,
+      "text": "-Oh, this? No, I didn't-- -Yeah!",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:20:53",
+      "speaker": null,
+      "text": "It really brings out the neck of your... neck.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:20:56",
+      "speaker": null,
+      "text": "Okay, well, that's--",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:20:58",
+      "speaker": null,
+      "text": "Hey, don't go anywhere, okay? I want to talk to you.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:21:01",
+      "speaker": null,
+      "text": "-Oh.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:21:01",
+      "speaker": null,
+      "text": "[chuckles]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:21:01",
+      "speaker": null,
+      "text": "How was-- -Erica!",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:21:03",
+      "speaker": null,
+      "text": "What are you doing here with a child-sized coffin?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:21:06",
+      "speaker": null,
+      "text": "[sighs]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:21:07",
+      "speaker": null,
+      "text": "Oh, my God, are you okay? I saw everything.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:21:10",
+      "speaker": null,
+      "text": "Yeah, I'm fine.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:21:12",
+      "speaker": null,
+      "text": "I can't pick sides in this divorce because I'm good friends with the both of you, but I want you to know, no matter what, I'm here for you and also there for him.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:21:20",
+      "speaker": null,
+      "text": "And if you ever need anything, just let me know and I'll be your rock, as long as it doesn't conflict with me also being Mr. Peanutbutter's rock, or my work, which is keeping me very busy.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:21:30",
+      "speaker": null,
+      "text": "Excuse me, I have to take this.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:21:32",
+      "speaker": null,
+      "text": "Hi, Flip? Yeah, are we sure we need this strip club set?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:21:35",
+      "speaker": null,
+      "text": "Because once we put the deposit down, we cannot get that money back.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:21:39",
+      "speaker": null,
+      "text": "-",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:21:39",
+      "speaker": null,
+      "text": "[dance music continuous]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:21:39",
+      "speaker": null,
+      "text": "-",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:21:39",
+      "speaker": null,
+      "text": "[people chatting]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:21:47",
+      "speaker": null,
+      "text": "[sighs]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:21:49",
+      "speaker": null,
+      "text": "[Diane]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:21:49",
+      "speaker": null,
+      "text": "Reason number ten to go to Vietnam:",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:21:51",
+      "speaker": null,
+      "text": "Because you've gotta leave to come back home.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:21:54",
+      "speaker": null,
+      "text": "-",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:21:54",
+      "speaker": null,
+      "text": "[phone beeps]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:21:54",
+      "speaker": null,
+      "text": "-",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:21:54",
+      "speaker": null,
+      "text": "[line ringing]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:21:57",
+      "speaker": null,
+      "text": "-",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:21:57",
+      "speaker": null,
+      "text": "[BoJack]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:21:57",
+      "speaker": null,
+      "text": "Hello? -Hey.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:21:59",
+      "speaker": null,
+      "text": "-Hey. -",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:21:59",
+      "speaker": null,
+      "text": "[sad tune]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:22:00",
+      "speaker": null,
+      "text": "I'm sorry. I've been so weird. I'm going through some shit.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:22:05",
+      "speaker": null,
+      "text": "I know.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:22:07",
+      "speaker": null,
+      "text": "Yeah. And I just really need a friend right now.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:22:11",
+      "speaker": null,
+      "text": "You know what I mean?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:22:12",
+      "speaker": null,
+      "text": "A friend?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:22:13",
+      "speaker": null,
+      "text": "Yeah. I get it.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:22:16",
+      "speaker": null,
+      "text": "Okay. Thanks.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:22:18",
+      "speaker": null,
+      "text": "-This is Diane, by the way. -Nguyen?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:22:20",
+      "speaker": null,
+      "text": "-Yeah. Nguyen. -",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:22:20",
+      "speaker": null,
+      "text": "[phone beeps]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:22:23",
+      "speaker": null,
+      "text": "[Diane]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:22:23",
+      "speaker": null,
+      "text": "You're not entirely sure what life will be like when you get home,",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:22:26",
+      "speaker": null,
+      "text": "but maybe that's good because that means anything could happen.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:22:31",
+      "speaker": null,
+      "text": "-Oh, my God, you're Laura Linney! -People say that to me all the time.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:22:35",
+      "speaker": null,
+      "text": "And it's true. I am Laura Linney.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:22:37",
+      "speaker": null,
+      "text": "I'm so sorry to bother you, but I have to ask, the movie you were filming, what happens at the end?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:22:42",
+      "speaker": null,
+      "text": "You get divorced, you go to Vietnam to find yourself, but then what?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:22:45",
+      "speaker": null,
+      "text": "How does it work out?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:22:46",
+      "speaker": null,
+      "text": "-Well, I do find myself. -Oh.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:22:48",
+      "speaker": null,
+      "text": "-My clone. -Oh.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:22:49",
+      "speaker": null,
+      "text": "-And she's shacked up with my ex. -Hmm?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:22:51",
+      "speaker": null,
+      "text": "I fly into a jealous rage and gut him with a machete, but not before realizing that this whole thing goes all the way to the top.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:22:58",
+      "speaker": null,
+      "text": "So me and my clone have to team up and head to Dubai.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:23:01",
+      "speaker": null,
+      "text": "A lot of it is setting up the franchise. You know how it is.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:23:04",
+      "speaker": null,
+      "text": "-Um... it's an action movie? -And a love story.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:23:07",
+      "speaker": null,
+      "text": "Me and my clone have a steamy make-out scene,",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:23:09",
+      "speaker": null,
+      "text": "-which is hot but also very progressive. -",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:23:09",
+      "speaker": null,
+      "text": "[PA system beeps]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:23:12",
+      "speaker": null,
+      "text": "Excuse me. Can I get some pretzels? I'm Laura Linney.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:23:15",
+      "speaker": null,
+      "text": "[Diane]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:23:15",
+      "speaker": null,
+      "text": "But none of those reasons are why you actually went to Vietnam.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:23:19",
+      "speaker": null,
+      "text": "[plane taking off]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:23:22",
+      "speaker": null,
+      "text": "Hey, stranger.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:23:23",
+      "speaker": null,
+      "text": "-",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:23:23",
+      "speaker": null,
+      "text": "[joyful tune]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:23:23",
+      "speaker": null,
+      "text": "-",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:23:23",
+      "speaker": null,
+      "text": "[Mr. Peanutbutter chuckles]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:23:25",
+      "speaker": null,
+      "text": "Yeah, so, if it all looks good to you and your lawyer, you can sign it, too, and then it'll be official.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:23:30",
+      "speaker": null,
+      "text": "-Divorce completed. -Yay!",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:23:33",
+      "speaker": null,
+      "text": "-We did it. -Take that, our marriage!",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:23:37",
+      "speaker": null,
+      "text": "-Well, I guess I'll see you around? -Yeah.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:23:41",
+      "speaker": null,
+      "text": "-Oh! I was going for the-- -Oh, sorry. Did you--?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:23:43",
+      "speaker": null,
+      "text": "-",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:23:43",
+      "speaker": null,
+      "text": "[laughs]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:23:43",
+      "speaker": null,
+      "text": "-Sorry. Just go all the way.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:23:45",
+      "speaker": null,
+      "text": "-Well, bye. -Cool.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:23:49",
+      "speaker": null,
+      "text": "Diane, wait. I actually have something to tell you.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:23:51",
+      "speaker": null,
+      "text": "I... don't know the best way to say this, but...",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:23:55",
+      "speaker": null,
+      "text": "I'm seeing someone.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:23:57",
+      "speaker": null,
+      "text": "Romantically.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:23:58",
+      "speaker": null,
+      "text": "Who isn't you.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:24:00",
+      "speaker": null,
+      "text": "That was probably not the best way to say it.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:24:03",
+      "speaker": null,
+      "text": "[dance music playing]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:24:04",
+      "speaker": null,
+      "text": "So, as I was saying, being there for you right now is my top pri--",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:24:08",
+      "speaker": null,
+      "text": "-",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:24:08",
+      "speaker": null,
+      "text": "[phone vibrates, beeps]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:24:08",
+      "speaker": null,
+      "text": "-Oh. Hold on. Stuart!",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:24:10",
+      "speaker": null,
+      "text": "There's a fire extinguisher under my desk. Oh, that's what's on fire? In that case...",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:24:17",
+      "speaker": null,
+      "text": "[Diane]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:24:17",
+      "speaker": null,
+      "text": "The real reason you go to Vietnam",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:24:20",
+      "speaker": null,
+      "text": "is because you accidentally see your soon-to-be ex-husband",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:24:23",
+      "speaker": null,
+      "text": "kiss someone else.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:24:24",
+      "speaker": null,
+      "text": "[both chuckle]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:24:25",
+      "speaker": null,
+      "text": "At first you think, \"Oh, it's a fling. Whatever, they're drunk, it's a party.\"",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:24:30",
+      "speaker": null,
+      "text": "[sad tune]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:24:31",
+      "speaker": null,
+      "text": "But he puts his hand on the small of her back",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:24:33",
+      "speaker": null,
+      "text": "exactly the way he used to do to you.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:24:35",
+      "speaker": null,
+      "text": "[both]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:24:35",
+      "speaker": null,
+      "text": "Mmm.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:24:37",
+      "speaker": null,
+      "text": "-It means \"I've got you,\" -",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:24:37",
+      "speaker": null,
+      "text": "[sad tunes continue]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:24:40",
+      "speaker": null,
+      "text": "and when he did it to you, it made you feel safe.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:24:43",
+      "speaker": null,
+      "text": "And you realize he will never do that to you again.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:24:48",
+      "speaker": null,
+      "text": "-",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:24:48",
+      "speaker": null,
+      "text": "[crying]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:24:48",
+      "speaker": null,
+      "text": "-And it breaks your heart, again...",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:24:51",
+      "speaker": null,
+      "text": "after your heart was so broken that you thought",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:24:53",
+      "speaker": null,
+      "text": "it could never get any more broken.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:24:56",
+      "speaker": null,
+      "text": "You thought it was safe,",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:24:58",
+      "speaker": null,
+      "text": "but it still, somehow, finds a new way to break.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:25:02",
+      "speaker": null,
+      "text": "Because, even though, you're the one who asked for this,",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:25:05",
+      "speaker": null,
+      "text": "now that you've got it, you are completely adrift",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:25:09",
+      "speaker": null,
+      "text": "with no compass, or map, or sense of where to go, or what to do.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:25:14",
+      "speaker": null,
+      "text": "So you go to Vietnam.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:25:17",
+      "speaker": null,
+      "text": "You think you might find community, a connection to something bigger,",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:25:21",
+      "speaker": null,
+      "text": "but... you don't.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:25:23",
+      "speaker": null,
+      "text": "In fact, you feel even more alone than you were before you left.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:25:28",
+      "speaker": null,
+      "text": "But... you survive.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:25:30",
+      "speaker": null,
+      "text": "[sad tunes continue]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:25:33",
+      "speaker": null,
+      "text": "You learn that you can survive being alone.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:25:35",
+      "speaker": null,
+      "text": "[sad tunes intense]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:25:39",
+      "speaker": null,
+      "text": "[sighs]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:25:40",
+      "speaker": null,
+      "text": "I'm really happy for you, Mr. Peanutbutter.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:25:43",
+      "speaker": null,
+      "text": "[night crickets]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:25:45",
+      "speaker": null,
+      "text": "[singing in Vietnamese]",
+      "type": "stage_direction"
+    }
+  ]
+}

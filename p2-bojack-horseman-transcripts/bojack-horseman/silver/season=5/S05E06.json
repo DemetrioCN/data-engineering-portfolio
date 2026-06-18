@@ -1,0 +1,2504 @@
+{
+  "episode_id": "S05E06",
+  "season_num": 5,
+  "episode_num": 6,
+  "title": "Episode 6 - Free Churro",
+  "lines": [
+    {
+      "timestamp": "00:00:05",
+      "speaker": null,
+      "text": "[wind blowing]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:00:11",
+      "speaker": null,
+      "text": "[shuddering]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:00:15",
+      "speaker": null,
+      "text": "-",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:00:15",
+      "speaker": null,
+      "text": "[vehicle approaching]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:00:15",
+      "speaker": null,
+      "text": "-",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:00:15",
+      "speaker": null,
+      "text": "[grunting]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:00:17",
+      "speaker": null,
+      "text": "-",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:00:17",
+      "speaker": null,
+      "text": "[panting]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:00:17",
+      "speaker": null,
+      "text": "-",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:00:17",
+      "speaker": null,
+      "text": "[tires screech]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:00:20",
+      "speaker": null,
+      "text": "Yes, yes, I see you. Get in. Get in.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:00:25",
+      "speaker": null,
+      "text": "[music playing over radio]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:00:28",
+      "speaker": null,
+      "text": "Your mother's having another one of her episodes.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:00:30",
+      "speaker": null,
+      "text": "Last night, she went to see A Doll's House with a couple girlfriends, and now she has ideas.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:00:35",
+      "speaker": null,
+      "text": "I emerged from my sanctum, this afternoon, to discover that not only had she not made me lunch, which is a meal I need in order to live, but she'd furthermore, locked herself in the bedroom to weep... loudly.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:00:45",
+      "speaker": null,
+      "text": "Now, it's one thing for a woman to weep, but when they do it at such a volume you can hear it through the door, then you know they're doing it just for the attention.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:00:53",
+      "speaker": null,
+      "text": "Anyway, I was able to cobble together a sandwich for myself, so, I'm the real hero of the story.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:00:59",
+      "speaker": null,
+      "text": "-",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:00:59",
+      "speaker": null,
+      "text": "[horn honking]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:00:59",
+      "speaker": null,
+      "text": "-",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:00:59",
+      "speaker": null,
+      "text": "[tires screeching]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:01:02",
+      "speaker": null,
+      "text": "It was a couple hours later when I realized I was on a good run with my novel.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:01:06",
+      "speaker": null,
+      "text": "I had this really interesting sentence that kept going for pages and pages, and I thought about how rare it is to really get in the groove like that.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:01:13",
+      "speaker": null,
+      "text": "How, most days, I can't concentrate because my idiot child is blasting the television, and it suddenly dawned on me; hot cock on a rock, she never even picked up the little noise and snot factory!",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:01:23",
+      "speaker": null,
+      "text": "[tires screech, horn honking]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:01:26",
+      "speaker": null,
+      "text": "So, here I am, being your mother, which I know is giving you all sorts of mixed-up ideas about gender, while your brain is still loose and stupid.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:01:35",
+      "speaker": null,
+      "text": "Just remember, if you become a queer later in life, this isn't my fault!",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:01:39",
+      "speaker": null,
+      "text": "Don't you sing no songs in your nightclub act called, \"My Daddy was My Mommy,\" while gazing longingly at a tangled string of pearls.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:01:46",
+      "speaker": null,
+      "text": "Pearls are for ladies, BoJack.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:01:49",
+      "speaker": null,
+      "text": "Pearls are for ladies.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:01:52",
+      "speaker": null,
+      "text": "You know Sunday is my writing day.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:01:54",
+      "speaker": null,
+      "text": "Sundays are the one day that are just for me and my craft, and still, you and the black hole that birthed you conspire to ruin it for me.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:02:02",
+      "speaker": null,
+      "text": "What am I supposed to do now? Just go back to writing?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:02:04",
+      "speaker": null,
+      "text": "I'm out of the zone now, the whole day's shot!",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:02:07",
+      "speaker": null,
+      "text": "All because of you and that brittle wisp of a woman you made the mistake of making your mother.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:02:13",
+      "speaker": null,
+      "text": "[sighs]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:02:13",
+      "speaker": null,
+      "text": "No. It's not her fault.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:02:15",
+      "speaker": null,
+      "text": "She's doing the best she can, after all.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:02:17",
+      "speaker": null,
+      "text": "It's just that... you can't depend on women.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:02:20",
+      "speaker": null,
+      "text": "You can't depend on anyone.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:02:22",
+      "speaker": null,
+      "text": "Sooner or later, you need to learn that no one else is gonna take care of you.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:02:25",
+      "speaker": null,
+      "text": "That's what I learned when I had to make my own sandwich.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:02:28",
+      "speaker": null,
+      "text": "You can't rely on other people, BoJack.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:02:30",
+      "speaker": null,
+      "text": "It's good for you to know that.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:02:32",
+      "speaker": null,
+      "text": "And she's a good mother for teaching you that.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:02:34",
+      "speaker": null,
+      "text": "You've got a head start on most kids.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:02:37",
+      "speaker": null,
+      "text": "You're actually very lucky.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:02:39",
+      "speaker": null,
+      "text": "[music continues over radio]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:02:43",
+      "speaker": null,
+      "text": "Thaaaaank youuuuu?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:02:46",
+      "speaker": null,
+      "text": "[theme music playing]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:03:41",
+      "speaker": null,
+      "text": "So, I stopped at a Jack in the Box, on the way here, and the girl behind the counter said, \"Hiya! Are you having an awesome day?\"",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:03:48",
+      "speaker": null,
+      "text": "Not, \"How are you doing today?\" No. \"Are you having an awesome day?\"",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:03:52",
+      "speaker": null,
+      "text": "Which is pretty shitty because it puts the onus on me to disagree with her, like if I'm not having an \"awesome day,\" suddenly I'm the negative one.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:04:00",
+      "speaker": null,
+      "text": "Usually, when people ask how I'm doing, the real answer is I'm doing shitty, but I can't say I'm doing shitty because I don't have a good reason to be doing shitty.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:04:07",
+      "speaker": null,
+      "text": "So if I say, \"I'm doing shitty,\" then they say, \"Why? What's wrong?\"",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:04:10",
+      "speaker": null,
+      "text": "And I have to be like, \"I don't know, all of it?\"",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:04:13",
+      "speaker": null,
+      "text": "So instead, when people ask how I'm doing, I usually say, \"I am doing so great.\"",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:04:18",
+      "speaker": null,
+      "text": "But when this girl at the Jack in the Box asked me if I was having an awesome day,",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:04:22",
+      "speaker": null,
+      "text": "I thought, well, today I'm actually allowed to feel shitty, today I have a good reason, so I said to her, \"Well, my mom died.\"",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:04:28",
+      "speaker": null,
+      "text": "And she immediately burst into tears.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:04:30",
+      "speaker": null,
+      "text": "So, now I have to comfort her, which is annoying, and meanwhile, there's a line of people forming behind me, who are all giving me these real judgy looks because I made the Jack in the Box girl cry.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:04:39",
+      "speaker": null,
+      "text": "And she's bawling, and she's saying, \"I'm sorry, I'm so sorry,\" and I'm like, \"It's fine. It's fine.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:04:44",
+      "speaker": null,
+      "text": "I mean, it's not fine, but, you know, it's... fine.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:04:47",
+      "speaker": null,
+      "text": "And I would like to order a Double Jack Meal, and I've kinda got somewhere to be, so maybe less with the crying and more with the frying, huh?\"",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:04:54",
+      "speaker": null,
+      "text": "[inhales]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:04:54",
+      "speaker": null,
+      "text": "And the girl apologizes, again, and she offers me a free churro with my meal.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:04:59",
+      "speaker": null,
+      "text": "And as I'm leaving, I think, \"I just got a free churro because my mom died.\"",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:05:04",
+      "speaker": null,
+      "text": "No one ever tells you when your mom dies, you get a free churro.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:05:07",
+      "speaker": null,
+      "text": "[people murmuring]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:05:10",
+      "speaker": null,
+      "text": "[clears throat]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:05:10",
+      "speaker": null,
+      "text": "Anyway, I'm sorry, that's not part of the...",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:05:10",
+      "speaker": null,
+      "text": "[clears throat]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:05:10",
+      "speaker": null,
+      "text": "All right.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:05:14",
+      "speaker": null,
+      "text": "Okay, here we go. Let's do this.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:05:16",
+      "speaker": null,
+      "text": "Here I am, BoJack Horseman, doing a eulogy, let's go.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:05:19",
+      "speaker": null,
+      "text": "Hey, piano man, can I get like a, like an organ flourish?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:05:22",
+      "speaker": null,
+      "text": "[organ plays]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:05:24",
+      "speaker": null,
+      "text": "Nicely done. You know, I was a little worried",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:05:26",
+      "speaker": null,
+      "text": "I wouldn't have the right accompaniment today.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:05:28",
+      "speaker": null,
+      "text": "I guess it's a good thing my mom was an organ donor!",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:05:30",
+      "speaker": null,
+      "text": "[rimshot plays]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:05:32",
+      "speaker": null,
+      "text": "-What happened to the organ? -",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:05:32",
+      "speaker": null,
+      "text": "[horn \"oogahs\"]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:05:34",
+      "speaker": null,
+      "text": "Why don't you leave the comedy to the professionals?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:05:36",
+      "speaker": null,
+      "text": "Okay? This is a funeral, sir, for my mother.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:05:38",
+      "speaker": null,
+      "text": "Can you show a little respect?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:05:40",
+      "speaker": null,
+      "text": "[trumpet whines]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:05:42",
+      "speaker": null,
+      "text": "I'll take it.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:05:43",
+      "speaker": null,
+      "text": "Beatrice Horseman, who was she? What was her deal?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:05:46",
+      "speaker": null,
+      "text": "Well, she was a horse.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:05:47",
+      "speaker": null,
+      "text": "Uh, she was born in 1938. She died in 2018.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:05:50",
+      "speaker": null,
+      "text": "One time, she went to a parade,",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:05:52",
+      "speaker": null,
+      "text": "and one time, she smoked an entire cigarette in one long inhale.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:05:55",
+      "speaker": null,
+      "text": "I watched her do it.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:05:56",
+      "speaker": null,
+      "text": "Truly a remarkable woman.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:05:58",
+      "speaker": null,
+      "text": "[rustling]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:06:01",
+      "speaker": null,
+      "text": "Lived a full life, that lady.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:06:03",
+      "speaker": null,
+      "text": "Just, all the way to the end, which is, uh, now, I guess.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:06:08",
+      "speaker": null,
+      "text": "Really makes you think, though, huh?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:06:10",
+      "speaker": null,
+      "text": "Life, right? Goes by, stuff happens. Then you die.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:06:15",
+      "speaker": null,
+      "text": "Well, that's my time, you've been great! Tip your waitress!",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:06:17",
+      "speaker": null,
+      "text": "No, I'm just kidding around, there's no waitress.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:06:19",
+      "speaker": null,
+      "text": "That's all I have to say about my mother.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:06:21",
+      "speaker": null,
+      "text": "No point beating a dead horse, right?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:06:23",
+      "speaker": null,
+      "text": "So...",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:06:23",
+      "speaker": null,
+      "text": "[inhales]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:06:23",
+      "speaker": null,
+      "text": "Now what? I don't know, Mom, you got any ideas?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:06:29",
+      "speaker": null,
+      "text": "Anything?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:06:30",
+      "speaker": null,
+      "text": "Mom?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:06:31",
+      "speaker": null,
+      "text": "No?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:06:32",
+      "speaker": null,
+      "text": "Nothing to contribute? Knock once if you're proud of me.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:06:37",
+      "speaker": null,
+      "text": "Can I just say how amazing it is to be in a room with my mother, and I can just talk without her telling me to shut up and make her a drink?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:06:44",
+      "speaker": null,
+      "text": "Hey, Mom. Knock once if you think I should shut up.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:06:46",
+      "speaker": null,
+      "text": "No? You sure?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:06:48",
+      "speaker": null,
+      "text": "I mean, I don't want to embarrass you, by making this eulogy into a me-logy, so, seriously, if you wanted me to sit down and let someone else talk, just knock. I will not be offended.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:06:57",
+      "speaker": null,
+      "text": "No? Your funeral.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:06:59",
+      "speaker": null,
+      "text": "Sorry about the closed casket, by the way.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:07:01",
+      "speaker": null,
+      "text": "She wanted an open casket, but, you know, she's dead now, so who cares what she wanted?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:07:06",
+      "speaker": null,
+      "text": "No, that sounds bad. I'm sorry.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:07:07",
+      "speaker": null,
+      "text": "I think that if she could've seen what she looked like dead, she'd agree it's better this way. She looked like this.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:07:13",
+      "speaker": null,
+      "text": "-",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:07:13",
+      "speaker": null,
+      "text": "[groaning]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:07:13",
+      "speaker": null,
+      "text": "-",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:07:13",
+      "speaker": null,
+      "text": "[mourners gasping]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:07:17",
+      "speaker": null,
+      "text": "Kinda like a pissed-off toy dinosaur. The coroner couldn't get her eyes closed.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:07:21",
+      "speaker": null,
+      "text": "So, now her face is forever frozen in a mask of tremendous horror and anguish.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:07:25",
+      "speaker": null,
+      "text": "Or as my mom called it, Tuesday!",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:07:28",
+      "speaker": null,
+      "text": "Tuesday! My mom called it Tuesday.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:07:31",
+      "speaker": null,
+      "text": "[woman coughs]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:07:32",
+      "speaker": null,
+      "text": "Hey, Mom, what did you think of that joke? You like that?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:07:35",
+      "speaker": null,
+      "text": "[woman coughs]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:07:36",
+      "speaker": null,
+      "text": "You never did care for my comedy.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:07:38",
+      "speaker": null,
+      "text": "[clears throat]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:07:39",
+      "speaker": null,
+      "text": "Here's a story.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:07:41",
+      "speaker": null,
+      "text": "When I was a teenager,",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:07:42",
+      "speaker": null,
+      "text": "I performed a comedy routine for my high school talent show.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:07:46",
+      "speaker": null,
+      "text": "There was this cool jacket that I wanted to wear because it would make me look like Albert Brooks.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:07:50",
+      "speaker": null,
+      "text": "For months, I saved up for this jacket, but when I finally had enough, I went to the store and it was gone.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:07:55",
+      "speaker": null,
+      "text": "They had just sold it to someone else. So, I went home and I told my mother.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:07:58",
+      "speaker": null,
+      "text": "She said, \"Let that be a lesson.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:08:00",
+      "speaker": null,
+      "text": "That's the good that comes from wanting things.\"",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:08:02",
+      "speaker": null,
+      "text": "She was really good at dispensing life lessons, that always seemed to circle back to everything being my fault.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:08:08",
+      "speaker": null,
+      "text": "But then, on the day of the talent show, my mother had a surprise for me.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:08:12",
+      "speaker": null,
+      "text": "She had bought me the jacket.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:08:13",
+      "speaker": null,
+      "text": "Even though she didn't know how to say it, I knew this meant that she loved me.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:08:18",
+      "speaker": null,
+      "text": "Now, that's a good story about my mother.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:08:20",
+      "speaker": null,
+      "text": "It's not true, but it's a good story, right?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:08:22",
+      "speaker": null,
+      "text": "I stole it from an episode of Maude I saw when i was a kid, where she talks about her father.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:08:26",
+      "speaker": null,
+      "text": "I remember when I saw it, thinking that's the kind of story",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:08:29",
+      "speaker": null,
+      "text": "I want to tell about my parents when they die.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:08:32",
+      "speaker": null,
+      "text": "But I don't have any stories like that.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:08:34",
+      "speaker": null,
+      "text": "All I know about being good I learned from TV.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:08:37",
+      "speaker": null,
+      "text": "And in TV, flawed characters are constantly showing people they care with these surprising grand gestures.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:08:42",
+      "speaker": null,
+      "text": "And I think that part of me still believes that's what love is.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:08:46",
+      "speaker": null,
+      "text": "But in real life, the big gesture isn't enough.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:08:48",
+      "speaker": null,
+      "text": "You need to be consistent, you need to be dependably good.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:08:51",
+      "speaker": null,
+      "text": "You can't just screw everything up, and then take a boat out into the ocean to save your best friend, or solve a mystery, and fly to Kansas.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:08:57",
+      "speaker": null,
+      "text": "You need to do it every day, which is so... hard.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:09:01",
+      "speaker": null,
+      "text": "When you're a kid, you convince yourself that maybe the grand gesture could be enough.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:09:06",
+      "speaker": null,
+      "text": "That even though your parents aren't what you need them to be, over and over and over again, at any moment they might surprise you, with something... wonderful.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:09:15",
+      "speaker": null,
+      "text": "I kept waiting for that, the proof, that even though my mother was a hard woman, deep down, she loved me and cared about me and wanted me to know that I made her life a little bit brighter.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:09:26",
+      "speaker": null,
+      "text": "Even now, I find myself waiting.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:09:30",
+      "speaker": null,
+      "text": "Hey, Mom, knock once if you love me and care about me, and want me to know I made your life a little bit brighter.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:09:35",
+      "speaker": null,
+      "text": "[owl chirping]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:09:38",
+      "speaker": null,
+      "text": "My mother did not go gentle into that good night.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:09:41",
+      "speaker": null,
+      "text": "She went clawing and fighting and thrashing, hence the face.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:09:45",
+      "speaker": null,
+      "text": "-",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:09:45",
+      "speaker": null,
+      "text": "[groaning]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:09:45",
+      "speaker": null,
+      "text": "-",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:09:45",
+      "speaker": null,
+      "text": "[mourners gasping]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:09:47",
+      "speaker": null,
+      "text": "If you'd seen her,",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:09:48",
+      "speaker": null,
+      "text": "I swear to God the only thing you'd be thinking about right now is that I am nailing this impression.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:09:53",
+      "speaker": null,
+      "text": "-",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:09:53",
+      "speaker": null,
+      "text": "[woman clears her throat]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:09:53",
+      "speaker": null,
+      "text": "-",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:09:53",
+      "speaker": null,
+      "text": "[chairs squeak]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:09:55",
+      "speaker": null,
+      "text": "I was in the hospital with her those last moments, and they were truly horrifying, full of nonsensical screams and cries, but there was this moment, this one instant of strange calm, where she looked in my direction and said, \"I see you.\"",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:10:09",
+      "speaker": null,
+      "text": "That's the last thing she said to me. \"I see you.\"",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:10:12",
+      "speaker": null,
+      "text": "Not a statement of judgment or disappointment, just acceptance and the simple recognition of another person in a room.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:10:19",
+      "speaker": null,
+      "text": "\"Hello, there. You are a person. And I see you.\"",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:10:23",
+      "speaker": null,
+      "text": "Let me tell you, it's a weird thing to feel at 54 years old, that for the first time in your life your mother sees you.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:10:29",
+      "speaker": null,
+      "text": "It's an odd realization that it's the thing you've been missing, the only thing you wanted all along, to be seen.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:10:35",
+      "speaker": null,
+      "text": "And it doesn't feel like a relief, to finally be seen.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:10:37",
+      "speaker": null,
+      "text": "It feels mean, like,",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:10:39",
+      "speaker": null,
+      "text": "\"Oh, it turns out that you knew what I wanted, and you waited until the very last moment to give it to me.\"",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:10:44",
+      "speaker": null,
+      "text": "I was prepared for more cruelty.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:10:46",
+      "speaker": null,
+      "text": "I was sure that she would get in one final zinger, about how I let her down, and about how I was fat and stupid, and too tall to be an effective Lindy-hopper.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:10:54",
+      "speaker": null,
+      "text": "How I was needy and a burden and an embarrassment.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:10:58",
+      "speaker": null,
+      "text": "All that I was ready for. I was not ready for \"I see you.\"",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:11:03",
+      "speaker": null,
+      "text": "Only my mother would be lousy enough to swipe me with a moment of connection on her way out.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:11:08",
+      "speaker": null,
+      "text": "But maybe I'm giving her too much credit. Maybe it wasn't about connection.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:11:12",
+      "speaker": null,
+      "text": "Maybe it was a... Maybe it was an \"I see you,\" like, \"I see you.\"",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:11:17",
+      "speaker": null,
+      "text": "Like, \"You might have the rest of the world fooled, but I know exactly who you are.\"",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:11:21",
+      "speaker": null,
+      "text": "That's more my mom's speed.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:11:24",
+      "speaker": null,
+      "text": "Or maybe she just literally meant \"I see you.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:11:27",
+      "speaker": null,
+      "text": "You are an object that has entered my field of vision.\"",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:11:31",
+      "speaker": null,
+      "text": "She was out of it at the end, so maybe it's dumb to try to attribute it to anything.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:11:35",
+      "speaker": null,
+      "text": "-",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:11:35",
+      "speaker": null,
+      "text": "[woman sighs]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:11:35",
+      "speaker": null,
+      "text": "-Back in the 90s,",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:11:36",
+      "speaker": null,
+      "text": "I was in a very famous TV Show called Horsin' Around.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:11:40",
+      "speaker": null,
+      "text": "-",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:11:40",
+      "speaker": null,
+      "text": "[man coughs]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:11:40",
+      "speaker": null,
+      "text": "-Please hold your applause.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:11:42",
+      "speaker": null,
+      "text": "And I remember one time, a fan asked me,",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:11:44",
+      "speaker": null,
+      "text": "\"Hey, um, you know that episode where the horse has to give Ethan a pep talk, after Ethan finds out his crush only asked him to the dance because her friends were having a dorkiest date contest?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:11:54",
+      "speaker": null,
+      "text": "In all the shots of the horse, you can see a paper coffee cup on the kitchen counter, but in the shots of Ethan, the coffee cup's missing.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:12:02",
+      "speaker": null,
+      "text": "Was that because the show was making a statement, about the fluctuant subjectivity of memory and how even two people can experience the same moment in entirely different ways?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:12:12",
+      "speaker": null,
+      "text": "And I didn't have the heart to be, like,",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:12:15",
+      "speaker": null,
+      "text": "\"No, man, some crew guy just left their coffee cup in the shot.\"",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:12:19",
+      "speaker": null,
+      "text": "So instead, I was, like... \"Yeah.\"",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:12:23",
+      "speaker": null,
+      "text": "And maybe this is like that coffee cup.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:12:25",
+      "speaker": null,
+      "text": "Maybe, we're dumb to try to pin significance onto every little thing.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:12:29",
+      "speaker": null,
+      "text": "Maybe, when someone says, \"I see you,\" it just means, \"I see you.\"",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:12:34",
+      "speaker": null,
+      "text": "Then again, it's possible she wasn't even talking to me.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:12:37",
+      "speaker": null,
+      "text": "Because, if I'm being honest, she wasn't really looking at me, she was looking past me. There was nobody else in the room.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:12:42",
+      "speaker": null,
+      "text": "I think she was talking to me, but, honestly, she was so far gone at that point, who knows what she was seeing.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:12:47",
+      "speaker": null,
+      "text": "Who were you talking to, Mom?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:12:49",
+      "speaker": null,
+      "text": "[sighs]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:12:50",
+      "speaker": null,
+      "text": "Not saying, huh? Staying mum?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:12:53",
+      "speaker": null,
+      "text": "No rimshot there?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:12:54",
+      "speaker": null,
+      "text": "God, whatever I'm paying you, it's too much.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:12:57",
+      "speaker": null,
+      "text": "Maybe, she saw my dad.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:12:59",
+      "speaker": null,
+      "text": "My dad died about ten years ago of injuries he sustained during a duel.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:13:03",
+      "speaker": null,
+      "text": "When your father dies, you ask yourself a lot of questions.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:13:06",
+      "speaker": null,
+      "text": "Questions like, \"Wait, did you say he died in a duel?\" and \"Who dies in a duel?\"",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:13:11",
+      "speaker": null,
+      "text": "The whole thing was so stupid.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:13:12",
+      "speaker": null,
+      "text": "Dad spent his entire life writing this book, but he couldn't get any stores to carry it, or any newspapers to review it.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:13:19",
+      "speaker": null,
+      "text": "Finally, I guess this one newspaper thought he was pretty hilarious, because they ran a review and tore him to shreds.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:13:25",
+      "speaker": null,
+      "text": "So, my father, ever the Proud Mary, decided he would not stand for this besmirchment of his honor.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:13:29",
+      "speaker": null,
+      "text": "He claimed the critic didn't understand what it meant to be a man, so he demanded satisfaction in the form of pistols at dawn.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:13:36",
+      "speaker": null,
+      "text": "He wrote the paper, this letter, saying anyone who didn't like his book, he would challenge to a duel, anyone in the world.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:13:42",
+      "speaker": null,
+      "text": "He'd even pay for airfare to San Francisco and a night in a hotel.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:13:45",
+      "speaker": null,
+      "text": "Well, eventually this found its way to some kook in Montana, who was as batshit as he was and took him up on the offer.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:13:50",
+      "speaker": null,
+      "text": "They met at Golden Gate Park and agreed: ten paces, then shoot.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:13:54",
+      "speaker": null,
+      "text": "But in the middle of the ten paces,",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:13:56",
+      "speaker": null,
+      "text": "Dad turned to ask the guy if he'd actually read the book and what he thought, but, not looking where he was going, tripped over an exposed root and bashed his head on a rock.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:14:04",
+      "speaker": null,
+      "text": "[murmur]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:14:06",
+      "speaker": null,
+      "text": "I wish I'd known to go to Jack in the Box then.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:14:08",
+      "speaker": null,
+      "text": "I could have gotten a free churro. It would've been nice to have something to show for being the son of Butterscotch Horseman.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:14:14",
+      "speaker": null,
+      "text": "My darling mother gave the eulogy.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:14:16",
+      "speaker": null,
+      "text": "My entire life I never heard her say a kind word to or about my father, but at his funeral she said,",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:14:22",
+      "speaker": null,
+      "text": "\"My husband is dead, and everything is worse now.\"",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:14:25",
+      "speaker": null,
+      "text": "[clearing throat]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:14:26",
+      "speaker": null,
+      "text": "\"My husband is dead, and everything is worse now.\"",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:14:31",
+      "speaker": null,
+      "text": "I don't know why she said that. Maybe she felt that's the kind of thing you're supposed to say at a funeral.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:14:35",
+      "speaker": null,
+      "text": "Maybe she hoped one day someone would say that about her.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:14:38",
+      "speaker": null,
+      "text": "\"My mother is dead, and everything is worse now.\"",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:14:41",
+      "speaker": null,
+      "text": "Or maybe she knew that he had frittered away all her inheritance, and replaced it with crippling debt, which is a pretty shitty thing to leave your widow with.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:14:49",
+      "speaker": null,
+      "text": "\"Bad news, you lost a husband, but don't worry, you also lost the house!\"",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:14:52",
+      "speaker": null,
+      "text": "Maybe Mom knew she'd have to sell all her fancy jewelry and move into a home.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:14:56",
+      "speaker": null,
+      "text": "Maybe that's what she meant by \"everything is worse.\"",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:14:58",
+      "speaker": null,
+      "text": "Is that what you meant, Mom?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:15:00",
+      "speaker": null,
+      "text": "I gotta say, I'm really carrying this double act.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:15:02",
+      "speaker": null,
+      "text": "At least with Penn and Teller, the quiet one does card tricks.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:15:05",
+      "speaker": null,
+      "text": "Hey, piano man, when I say something funny to my mom, how about you give me a rimshot?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:15:09",
+      "speaker": null,
+      "text": "-",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:15:09",
+      "speaker": null,
+      "text": "[rimshot plays]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:15:09",
+      "speaker": null,
+      "text": "-Yeah, but not now.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:15:11",
+      "speaker": null,
+      "text": "When I say something funny. Like, okay.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:15:14",
+      "speaker": null,
+      "text": "What's the difference between my mother and a disruptive expulsion of germs?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:15:17",
+      "speaker": null,
+      "text": "One's a coughin' fit and the other fits a coffin!",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:15:21",
+      "speaker": null,
+      "text": "-That's an example of a funny thing. -",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:15:21",
+      "speaker": null,
+      "text": "[rimshot plays]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:15:24",
+      "speaker": null,
+      "text": "Thank you. Let's try again.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:15:25",
+      "speaker": null,
+      "text": "Hey, Mom. What's the difference between my mother and a bunch of Easter eggs?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:15:28",
+      "speaker": null,
+      "text": "One gets carried in a basket, the other gets buried in a casket!",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:15:33",
+      "speaker": null,
+      "text": "-",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:15:33",
+      "speaker": null,
+      "text": "[rimshot plays]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:15:33",
+      "speaker": null,
+      "text": "-Ready for one more? Last one.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:15:35",
+      "speaker": null,
+      "text": "What's the difference between a first-year lit major and my mother, Beatrice Horseman?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:15:39",
+      "speaker": null,
+      "text": "One is decently read, and the other's a huge bitch!",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:15:44",
+      "speaker": null,
+      "text": "-",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:15:44",
+      "speaker": null,
+      "text": "[woman gasps]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:15:44",
+      "speaker": null,
+      "text": "-",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:15:44",
+      "speaker": null,
+      "text": "[murmers]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:15:45",
+      "speaker": null,
+      "text": "Might have gone a little too far with that one.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:15:47",
+      "speaker": null,
+      "text": "That one might have been a little too \"my mom's a huge bitch\" for the room.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:15:51",
+      "speaker": null,
+      "text": "I'm sorry, Mother. You're not a huge bitch.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:15:53",
+      "speaker": null,
+      "text": "You were a huge bitch... and now you're dead.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:15:57",
+      "speaker": null,
+      "text": "[woman sighs]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:15:58",
+      "speaker": null,
+      "text": "You know, the first time I ever performed in front of an audience, it actually was, uh, with my mom.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:16:03",
+      "speaker": null,
+      "text": "She used to put on these shows, with her supper club in the living room, and she used to make...",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:16:03",
+      "speaker": null,
+      "text": "[inhales]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:16:07",
+      "speaker": null,
+      "text": "She used to make me sing \"The Lollipop Song.\"",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:16:10",
+      "speaker": null,
+      "text": "[organ playing tune]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:16:13",
+      "speaker": null,
+      "text": "Those parties, they were really something.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:16:14",
+      "speaker": null,
+      "text": "There were skits and magic acts, and ethnically insensitive vaudeville routines, and the big finale was always a dance my mother did.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:16:24",
+      "speaker": null,
+      "text": "She had this beautiful dress that she only brought out for these parties, and she did this incredible number.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:16:29",
+      "speaker": null,
+      "text": "It was so beautiful and sad.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:16:33",
+      "speaker": null,
+      "text": "Dad hated the parties. He'd lock himself in the study, and bang on the walls for us to keep it down, but he always came out to see Mom dance.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:16:42",
+      "speaker": null,
+      "text": "He'd linger in the doorway, scotch in hand, and watch in awe, as this cynical, despicable woman he married... took flight.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:16:52",
+      "speaker": null,
+      "text": "And as a child who was completely terrified of both my parents,",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:16:56",
+      "speaker": null,
+      "text": "I was always aware that this moment of grace, it meant something.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:17:02",
+      "speaker": null,
+      "text": "We understood each other, in a way.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:17:03",
+      "speaker": null,
+      "text": "Me and my mom and my dad, as screwed up as we all were, we did understand each other.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:17:09",
+      "speaker": null,
+      "text": "My mother, she knew what it's like to feel your entire life like you're drowning with the exception of these moments, these very rare, brief instances, in which you suddenly remember... you can swim.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:17:22",
+      "speaker": null,
+      "text": "[flashback]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:17:24",
+      "speaker": null,
+      "text": "[partygoers laughing]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:17:27",
+      "speaker": null,
+      "text": "[classical music playing]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:17:38",
+      "speaker": null,
+      "text": "But, then again, mostly not. Mostly you're drowning.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:17:42",
+      "speaker": null,
+      "text": "She understood that too.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:17:43",
+      "speaker": null,
+      "text": "And she recognized that I understood it. And Dad.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:17:46",
+      "speaker": null,
+      "text": "All three of us were drowning, and we didn't know how to save each other, but there was an understanding that we were all drowning together.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:17:53",
+      "speaker": null,
+      "text": "I would like to think that's what she meant when we were in the hospital and she said, \"I see you.\"",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:17:57",
+      "speaker": null,
+      "text": "The weird thing about both your parents being dead is it means that you're next.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:18:02",
+      "speaker": null,
+      "text": "I mean, you know, obviously it's not like there's a wait list for dying.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:18:05",
+      "speaker": null,
+      "text": "Any one of us could get run over by a Snapchatting teen at any moment.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:18:08",
+      "speaker": null,
+      "text": "And you would think that knowing that would make us more adventurous, and kind, and forgiving.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:18:13",
+      "speaker": null,
+      "text": "But it makes us small, and stupid, and petty.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:18:18",
+      "speaker": null,
+      "text": "I actually had a near-death experience, recently.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:18:20",
+      "speaker": null,
+      "text": "A stunt went bad and I fell off a building.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:18:23",
+      "speaker": null,
+      "text": "I'm an actor. I do my own stunts.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:18:25",
+      "speaker": null,
+      "text": "I'm on this new show Philbert. I'm Philbert. Star of the show.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:18:29",
+      "speaker": null,
+      "text": "It hasn't come out yet, but it's already getting Emmy buzz.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:18:31",
+      "speaker": null,
+      "text": "Oh, speaking of buzz...",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:18:31",
+      "speaker": null,
+      "text": "[inhales]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:18:33",
+      "speaker": null,
+      "text": "I've to take two of these every morning, but my days are so screwed up 'cause of the shooting schedule,",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:18:38",
+      "speaker": null,
+      "text": "I don't even know what morning means anymore.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:18:40",
+      "speaker": null,
+      "text": "There's a joke in there somewhere, about a guy who's been to so many funerals, he doesn't even know what mourning means anymore.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:18:46",
+      "speaker": null,
+      "text": "Let you guys figure that one out for yourselves.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:18:46",
+      "speaker": null,
+      "text": "[gulps]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:18:49",
+      "speaker": null,
+      "text": "Anyway, you know what I thought... when I was falling off the building and I went into panic mode?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:18:54",
+      "speaker": null,
+      "text": "The last thing that my stupid brain could come up with before I died?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:18:59",
+      "speaker": null,
+      "text": "\"Won't they be sorry.\"",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:19:02",
+      "speaker": null,
+      "text": "-Cool thought, brain. -",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:19:02",
+      "speaker": null,
+      "text": "[rimshot plays]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:19:03",
+      "speaker": null,
+      "text": "No, that wasn't...",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:19:04",
+      "speaker": null,
+      "text": "Would you just... Dial it back, all right?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:19:06",
+      "speaker": null,
+      "text": "I don't even know what \"they\" I wanted to be sorry.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:19:09",
+      "speaker": null,
+      "text": "My mom, even before she died, could barely remember who I was.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:19:12",
+      "speaker": null,
+      "text": "And of course, my dad's dead.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:19:14",
+      "speaker": null,
+      "text": "The last conversation I ever had with him was about his novel.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:19:17",
+      "speaker": null,
+      "text": "He was so certain this book was his legacy.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:19:19",
+      "speaker": null,
+      "text": "Maybe he thought it would vindicate him for all the shitty things he ever did in his stupid worthless life.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:19:25",
+      "speaker": null,
+      "text": "Maybe it did. I don't know. I never read it.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:19:27",
+      "speaker": null,
+      "text": "Because why would I give him that?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:19:30",
+      "speaker": null,
+      "text": "I used to be on this TV show called Horsin' Around.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:19:33",
+      "speaker": null,
+      "text": "Seriously, hold your applause.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:19:35",
+      "speaker": null,
+      "text": "-",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:19:35",
+      "speaker": null,
+      "text": "[man coughs]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:19:35",
+      "speaker": null,
+      "text": "-Well held.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:19:37",
+      "speaker": null,
+      "text": "It was written by my friend Herb Kazzaz, who's also dead now, and it starred this little girl named Sarah Lynn.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:19:43",
+      "speaker": null,
+      "text": "And it was about these orphans. And early on, the network had a note,",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:19:46",
+      "speaker": null,
+      "text": "\"Maybe don't mention they're orphans, because audiences tend to find orphans sad and not relatable.\"",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:19:52",
+      "speaker": null,
+      "text": "I never thought the orphans were sad.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:19:53",
+      "speaker": null,
+      "text": "I always thought they were lucky because they could imagine their parents to be anything they wanted.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:19:59",
+      "speaker": null,
+      "text": "They had something to long for.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:20:01",
+      "speaker": null,
+      "text": "Anyway, we did this one season finale, where Olivia's birth mother comes to town.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:20:04",
+      "speaker": null,
+      "text": "And she was a junkie, but she's gotten herself cleaned up, and she wants to be in Olivia's life again.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:20:09",
+      "speaker": null,
+      "text": "And of course, she's like a perfect grown-up version of Olivia, and they go to the mall together and get her ears pierced, like she's always wanted and--",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:20:16",
+      "speaker": null,
+      "text": "Sorry, spoiler alert for the season six finale of Horsin' Around, if you're still working your way through it.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:20:22",
+      "speaker": null,
+      "text": "Anyway, the horse tries to warn her, \"Be careful, moms have a way of letting you down.\"",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:20:26",
+      "speaker": null,
+      "text": "But Olivia just thinks the horse is jealous, and when the mom says she's moving to California,",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:20:32",
+      "speaker": null,
+      "text": "Olivia decides to go with her.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:20:34",
+      "speaker": null,
+      "text": "And the network really juiced the cliffhanger:",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:20:36",
+      "speaker": null,
+      "text": "''Is Olivia gone for good?''",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:20:39",
+      "speaker": null,
+      "text": "But of course, because it's a TV show, she was not gone for good.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:20:41",
+      "speaker": null,
+      "text": "Of course, because it's a TV show,",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:20:43",
+      "speaker": null,
+      "text": "Olivia's mother had a relapse and had to go back to rehab, so Olivia had to hitchhike all the way home, getting rides from Mr. T, Alf, and the cast of Stomp.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:20:52",
+      "speaker": null,
+      "text": "Of course that's what happened.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:20:53",
+      "speaker": null,
+      "text": "Because, what are you gonna do, just not have Olivia on the show?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:20:57",
+      "speaker": null,
+      "text": "You can't have happy endings in sitcoms, not really, because, if everyone's happy, the show would be over, and above all else, the show... has to keep going.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:21:06",
+      "speaker": null,
+      "text": "There's always more show.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:21:08",
+      "speaker": null,
+      "text": "And you can call Horsin' Around dumb, or bad, or unrealistic, but there is nothing more realistic than that.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:21:14",
+      "speaker": null,
+      "text": "You never get a happy ending, 'cause there's always more show.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:21:19",
+      "speaker": null,
+      "text": "I guess until there isn't.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:21:21",
+      "speaker": null,
+      "text": "[chuckles]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:21:23",
+      "speaker": null,
+      "text": "My mom would hate it if she knew that I spent so much time at her funeral talking about my old TV show.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:21:29",
+      "speaker": null,
+      "text": "Or maybe she'd think it was funny that her idiot son couldn't even do this right. Who knows?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:21:33",
+      "speaker": null,
+      "text": "She left no instructions for what she wanted me to say.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:21:36",
+      "speaker": null,
+      "text": "All I know is she wanted an open casket, and her idiot son couldn't even do that right.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:21:41",
+      "speaker": null,
+      "text": "I'll stand up here and pretend",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:21:43",
+      "speaker": null,
+      "text": "I understood how to please that woman, even though so much of my life has been wasted in vain attempts to figure it out.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:21:48",
+      "speaker": null,
+      "text": "But I keep going back to that moment in the ICU when she looked at me, and...",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:21:52",
+      "speaker": null,
+      "text": "\"I-C-U.\"",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:21:54",
+      "speaker": null,
+      "text": "\"I... see... you.\"",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:21:59",
+      "speaker": null,
+      "text": "Jesus Christ, we were in the intensive care unit.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:22:03",
+      "speaker": null,
+      "text": "She was just reading a sign.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:22:07",
+      "speaker": null,
+      "text": "My mom died and all I got was this free churro.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:22:12",
+      "speaker": null,
+      "text": "You know the shittiest thing about all of this?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:22:14",
+      "speaker": null,
+      "text": "Is when that stranger behind the counter gave me that free churro, that small act of kindness showed more compassion than my mother gave me her entire goddamn life.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:22:23",
+      "speaker": null,
+      "text": "Like, how hard is it to do something nice for a person?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:22:26",
+      "speaker": null,
+      "text": "This woman at the Jack in the Box didn't even know me.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:22:30",
+      "speaker": null,
+      "text": "I'm your son.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:22:31",
+      "speaker": null,
+      "text": "All I had was you!",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:22:35",
+      "speaker": null,
+      "text": "[inhales]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:22:37",
+      "speaker": null,
+      "text": "I have this friend.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:22:38",
+      "speaker": null,
+      "text": "And right around when I first met her, her dad died, and I actually went with her to the funeral.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:22:44",
+      "speaker": null,
+      "text": "And months later, she told me that she didn't understand why she was still upset, because she never even liked her father.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:22:51",
+      "speaker": null,
+      "text": "It made sense to me, because I went through the same thing when my dad died.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:22:54",
+      "speaker": null,
+      "text": "And I'm going through the same thing now. You know what it's like?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:22:57",
+      "speaker": null,
+      "text": "It's like that show Becker, you know, with Ted Danson?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:22:59",
+      "speaker": null,
+      "text": "I watched the entire run of it, hoping that it would get better, and it never did.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:23:04",
+      "speaker": null,
+      "text": "It had all the right pieces, but it just-- It couldn't put them together.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:23:06",
+      "speaker": null,
+      "text": "And when it got canceled,",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:23:07",
+      "speaker": null,
+      "text": "I was really bummed out, not because I liked the show, but because I knew it could be so much better, and now it never would be. And that's what losing a parent is like.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:23:17",
+      "speaker": null,
+      "text": "It's like Becker.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:23:19",
+      "speaker": null,
+      "text": "Suddenly, you realize you'll never have the good relationship you wanted, and as long as they were alive, even though you'd never admit it, part of you, the stupidest goddamn part of you, was still holding on to that chance.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:23:33",
+      "speaker": null,
+      "text": "And you didn't even realize it until that chance went away.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:23:36",
+      "speaker": null,
+      "text": "\"My mother is dead, and everything is worse now.\"",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:23:41",
+      "speaker": null,
+      "text": "Because now I know I will never have a mother who looks at me from across a room and says,",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:23:46",
+      "speaker": null,
+      "text": "\"BoJack Horseman, I see you.\"",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:23:50",
+      "speaker": null,
+      "text": "But I guess it's good to know.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:23:52",
+      "speaker": null,
+      "text": "It's good to know that there is nobody looking out for me, that there never was, and there never will be.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:23:58",
+      "speaker": null,
+      "text": "No, it's good to know that I am the only one that I can depend on.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:24:01",
+      "speaker": null,
+      "text": "And I know that now and it's good. It's good that I know that.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:24:05",
+      "speaker": null,
+      "text": "So... it's good my mother is dead.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:24:08",
+      "speaker": null,
+      "text": "[gulps, sighs]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:24:10",
+      "speaker": null,
+      "text": "Well. No point beating a dead horse.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:24:12",
+      "speaker": null,
+      "text": "Beatrice Horseman was born in 1938, and she died in 2018, and I have no idea... what she wanted.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:24:23",
+      "speaker": null,
+      "text": "Unless she just wanted what we all want... to be seen.",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:24:42",
+      "speaker": null,
+      "text": "[slurps]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:24:43",
+      "speaker": null,
+      "text": "[blows nose]",
+      "type": "stage_direction"
+    },
+    {
+      "timestamp": "00:24:45",
+      "speaker": null,
+      "text": "Is this Funeral Parlor B?",
+      "type": "dialogue"
+    },
+    {
+      "timestamp": "00:24:47",
+      "speaker": null,
+      "text": "[funeral music]",
+      "type": "stage_direction"
+    }
+  ]
+}
