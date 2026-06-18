@@ -18,7 +18,7 @@ from pathlib import Path
 import requests
 from bs4 import BeautifulSoup
 
-from config import BASE_URL, BRONZE_DIR, LOG_FILE, HEADERS, DELAY_BETWEEN_REQUESTS, REQUEST_TIMEOUT 
+from config import BASE_URL, BRONZE_DIR, EXTRACT_LOG_FILE, HEADERS, DELAY_BETWEEN_REQUESTS, REQUEST_TIMEOUT 
 
 
 # LOGGING
@@ -27,7 +27,7 @@ logging.basicConfig(
     format="%(asctime)s  %(levelname)-8s  %(message)s",
     datefmt="%Y-%m-%d %H:%M:%S",
     handlers=[
-        logging.FileHandler(LOG_FILE, encoding="utf-8"),
+        logging.FileHandler(EXTRACT_LOG_FILE, encoding="utf-8"),
         logging.StreamHandler(),
     ],
 )
