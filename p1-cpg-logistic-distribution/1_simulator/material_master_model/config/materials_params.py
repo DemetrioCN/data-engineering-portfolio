@@ -7,7 +7,7 @@ from pathlib import Path
 
 # Output
 OUTPUT_FORMAT: str = "csv"
-OUTPUT_DIR = Path("../data/material_master")
+OUTPUT_DIR = Path("../data_catalog/material_master")
 
 
 # ── Product catalog dictionary
