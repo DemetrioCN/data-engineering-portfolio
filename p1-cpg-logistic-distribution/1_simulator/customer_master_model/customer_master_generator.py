@@ -8,6 +8,8 @@ from pipeline.customer_extractor import extract
 from pipeline.customer_transformer import transform
 from pipeline.customer_loader import load
 from datetime import datetime
+import sys
+
 
 logging.basicConfig(
     level=logging.INFO,
@@ -42,4 +44,4 @@ def run_customer_master() -> int:
 
 
 if __name__ == "__main__":
-    run_customer_master()
+    sys.exit(run_customer_master())

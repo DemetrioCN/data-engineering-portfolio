@@ -22,7 +22,7 @@ GEOFENCE_RADIUS_M = 150    # metres
 
 # Output
 OUTPUT_FORMAT = "csv"
-OUTPUT_DIR = Path("../data/")
+OUTPUT_DIR = Path("../data_catalog/")
 
 
 # Segment distribution to classify clients with loyalty
