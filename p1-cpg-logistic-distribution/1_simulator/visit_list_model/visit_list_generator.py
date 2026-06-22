@@ -1,5 +1,6 @@
 from datetime import datetime
 import logging
+import sys
 
 from pipeline.extract import extract
 from pipeline.transform import transform
@@ -32,5 +33,6 @@ def visit_list_generator():
     load(df_orders, date)
     log.info(f"Visit list generator complete succesfully!!! ")
 
+
 if __name__ == "__main__":
-    visit_list_generator()
+    sys.exit(visit_list_generator())
