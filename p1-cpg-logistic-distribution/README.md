@@ -33,3 +33,58 @@ In other application, deliver an executive dashboard tracking and visit.<br>
 Support the company's newly hired data scientist by providing access to clean, curated, production-ready data. This includes surfacing operational patterns to support predictive and prescriptive analytics work.
 
 
+
+<br>
+
+# Simulator
+
+## 1.1 Material master pipeline
+
+Generates synthetic data for the material master catalog. Reads product definitions from a config file, applies schema validation, and persists the result as a dated CSV file.
+
+```mermaid
+flowchart LR
+  CFG[/config file/]
+  EXT[Extract\ndummy data]
+  TRF[Transform\nschema & types]
+  VAL{Valid?}
+  ERR[/error log/]
+  LOD[(material_master\nCSV)]
+
+  CFG --> EXT --> TRF --> VAL
+  VAL -->|Yes| LOD
+  VAL -->|No| ERR
+```
+
+---
+
+### Extract
+
+- Source: product catalog defined in `config`.
+- Reads static dummy records — no external API call required.
+- Each record maps to one row in the output schema.
+
+### Transform
+
+Apply schema simple transformation.
+
+| Field | pandas type | Description |
+|---|---|---|
+| `product_id` | `string` | Unique product identifier. Format: `TRBT-{NNN}` |
+| `sku` | `string` | Stock keeping unit. Format: `TRBT-{SLUG}` |
+| `name` | `string` | Human-readable product name |
+| `description` | `string` | Max 200 chars |
+| `price` | `float64` | Unit price. Must be `> 0` |
+| `currency` | `string` | ISO 4217 currency code (e.g. `USD`) |
+| `weight_kg` | `float64` | Gross weight in kilograms |
+| `dimensions_cm` | `string` | `WxDxH` in centimeters. |
+| `is_active` | `boolean` | Whether product is active in catalog |
+
+### Load
+
+- **Output path:** `~/data/material_master/{DATE}_material_master.csv`
+- `{DATE}` is substituted with the current date at runtime in `YYYYMMDD` format.
+- **Example:** `~/data/material_master/20260629_material_master.csv`
+- Format: CSV with header row, UTF-8 encoding.
+
+---
