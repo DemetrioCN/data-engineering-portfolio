@@ -38,23 +38,9 @@ Support the company's newly hired data scientist by providing access to clean, c
 
 # Simulator
 
-## 1.1 Material master pipeline
+## 1.1 Material master pipeline -> /1_simulator/models/material_master_model
 
 Generates synthetic data for the material master catalog. Reads product definitions from a config file, applies schema validation, and persists the result as a dated CSV file.
-
-```mermaid
-flowchart LR
-  CFG[/config file/]
-  EXT[Extract\ndummy data]
-  TRF[Transform\nschema & types]
-  VAL{Valid?}
-  ERR[/error log/]
-  LOD[(material_master\nCSV)]
-
-  CFG --> EXT --> TRF --> VAL
-  VAL -->|Yes| LOD
-  VAL -->|No| ERR
-```
 
 ---
 
@@ -87,4 +73,72 @@ Apply schema simple transformation.
 - **Example:** `~/data/material_master/20260629_material_master.csv`
 - Format: CSV with header row, UTF-8 encoding.
 
+---
+
+## 2.1 Customer master pipeline -> /1_simulator/models/customer_master_model
+
+Generates a mock client catalog classified by loyalty segment. Store locations are pulled from OpenStreetMap (Overpass API) by brand, enriched with geocoding and clustering, then split into two related outputs: a customer master and a warehouse master.
+
+---
+ 
+### Extract
+ 
+- Source: [Overpass API](https://overpass-api.de/) (OpenStreetMap), queried per brand via `brand:wikidata` tag.
+- Iterates over `BRANDS` (a `{brand_name: wikidata_id}` dict from config), one Overpass query per brand, scoped to the `country` boundary (default `México`).
+- A fixed `SLEEP_BETWEEN_BRANDS` delay is applied between queries to avoid rate-limiting.
+- Each result row keeps `name`, `brand`, `opening_hours`, `lat`, `lon`. Elements missing coordinates are dropped.
+- Deduplicates on `(lat, lon)` — the same physical store can otherwise appear twice if returned by overlapping OSM ways.
+- If a brand returns no results, logs a warning and continues with the next brand rather than aborting.
+
+
+### Transform
+ 
+Enriches raw locations in five steps, then splits the result into two separate DataFrames:
+ 
+| Step | Operation | Adds |
+|---|---|---|
+| 1 | Reverse-geocode `lat`/`lon` | `city`, `state` |
+| 2 | Cluster into warehouse regions | `warehouse`, `warehouse_id` |
+| 3 | Generate unique client IDs | `customer_id` |
+| 4 | Assign loyalty segment | `segment` (`bronze` / `silver` / `gold`) |
+| 5 | Add geofence radius | `geofence_radius_m` (constant from config) |
+ 
+**`customer_id` generation:** random 10-digit string, always prefixed with `"0"`. Uniqueness enforced via a `set` until the target length is reached.
+ 
+**`segment` assignment:** distribution-controlled, not uniform-random. `SEGMENT_DISTRIBUTION` (config) defines target proportions per segment (e.g. `bronze: 0.5, silver: 0.3, gold: 0.2`); counts are rounded to match `len(df)`, then shuffled.
+ 
+**Warehouse clustering:** delegated to `models.warehouse_clustering.run_clustering`, an external model that groups customer locations into regional warehouses and returns two related DataFrames — customer-level and warehouse-level — joined by `warehouse_code`.
+
+#### Output schema — `customer_master`
+ 
+| Field | Description |
+|---|---|
+| `name` | Store name |
+| `brand` | Brand name |
+| `opening_hours` | Raw OSM `opening_hours` tag |
+| `lat`, `lon` | Coordinates |
+| `city`, `state` | Reverse-geocoded from coordinates |
+| `customer_id` | Unique 10-digit identifier |
+| `segment` | `bronze` / `silver` / `gold` |
+| `geofence_radius_m` | Constant from config |
+| `warehouse_code` | FK to `warehouse_master.warehouse_code` |
+ 
+#### Output schema — `warehouse_master`
+ 
+| Field | Description |
+|---|---|
+| `warehouse_id` | Unique warehouse identifier |
+| `warehouse_code` | Short code, derived from `warehouse_name` |
+| `warehouse_name` | Full warehouse/region name |
+| `lat`, `lon` | Warehouse coordinates |
+ 
+### Load
+ 
+- **Output paths:**
+  - `{OUTPUT_DIR}/customer_master/{DATE}_customer_master.csv`
+  - `{OUTPUT_DIR}/warehouse_master/{DATE}_warehouse_master.csv`
+- `{DATE}` is substituted with the current date at runtime in `YYYYMMDD` format.
+- `load()` creates `output_dir` if it doesn't exist.
+- Format: CSV with header row, UTF-8 encoding. Only `csv` is currently supported. 
+- Each call to `load()` writes one DataFrame; the pipeline calls it twice (once per output).
 ---
