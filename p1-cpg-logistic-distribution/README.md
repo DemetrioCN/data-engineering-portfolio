@@ -142,3 +142,41 @@ Enriches raw locations in five steps, then splits the result into two separate D
 - Format: CSV with header row, UTF-8 encoding. Only `csv` is currently supported. 
 - Each call to `load()` writes one DataFrame; the pipeline calls it twice (once per output).
 ---
+
+
+## 3.1 Visit list pipeline -> /1_simulator/models/visit_list_model
+
+Generates a daily random visit and order list per warehouse. Reads the latest customer_master and material_master CSVs, samples a subset of customers per warehouse, assigns products and quantities to each, and writes the result as a single dated CSV organized by month.
+
+
+### Extract
+ 
+Reads the most recent file in each input folder (resolved by `YYYYMMDD` filename prefix, descending sort).
+ 
+ 
+### Transform
+ 
+| Step | What it does |
+|---|---|
+| Sample customers | Random `[20, 25, 30, 35, 40]` customers per warehouse |
+| Generate IDs | `order_id`: `YYYYMMDD` + random 5-digit number via `random.sample`. `route_id`: `R-{YYYYMMDD}-{NN}` per warehouse |
+| Assign sequence | Customers ordered by `customer_id` desc within each route, numbered `1..N` |
+| Expand to order lines | Each customer gets `1..M` random products with quantities in `[5, 10, …, 50]` |
+ 
+### Load
+ 
+- **Output:** `{OUTPUT_PATH}/{YYYY-MM}/{DATE}_{FILE_NAME}.csv`
+
+#### Output schema
+ 
+| Field | Description |
+|---|---|
+| `date` | Visit date (`YYYY-MM-DD`) |
+| `warehouse_code` | FK → `customer_master` |
+| `customer_id` | 10-digit string, FK → `customer_master` |
+| `order_id` | Unique order identifier for the day |
+| `route_id` | Route per warehouse. Format: `R-{YYYYMMDD}-{NN}` |
+| `sequence` | Visit order within the route |
+| `product_id` | FK → `material_master` |
+| `quantity` | Units ordered. Multiple of 5, range `5–50` |
+ 
