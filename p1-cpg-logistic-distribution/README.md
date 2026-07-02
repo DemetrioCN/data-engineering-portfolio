@@ -180,3 +180,114 @@ Reads the most recent file in each input folder (resolved by `YYYYMMDD` filename
 | `product_id` | FK → `material_master` |
 | `quantity` | Units ordered. Multiple of 5, range `5–50` |
  
+
+# 4 Delivery Simulator API
+ 
+Simulates delivery visit events from a `visit_list` CSV. Reads customer routes, processes them in batches of `NUM_NEXT_EVENT` visits per route, and persists the results as JSON. State is maintained across runs via a file-based cache.
+
+## 4.1 Core logic
+ 
+### `run_simulation()`
+ 
+Full pipeline entry point — called by both `run_full_day.sh` and the `run_scheduler.sh`.
+ 
+1. Loads the latest `visit_list` CSV from `INPUT_DIR`.
+2. Aggregates rows by `customer_id` (sums `quantity`, takes `first` for all other fields).
+3. Loads the day's cache from `CACHE_DIR` — empty dict on first run.
+4. For each route, calls `process_route()` and collects events and updated cache state.
+5. Writes all events to a single dated JSON file and persists the updated cache.
+
+### `process_route()`
+ 
+Processes the next `NUM_NEXT_EVENT` pending visits for one route.
+ 
+- Reads `sequence` and `last_departure_time` from cache (defaults to `INIT_DAY` on first run).
+- Filters `df` to rows with `sequence > cache_sequence` and takes the first `N`.
+- If no pending visits, returns `[]` and the preserved cache state — this ensures the cache is always written with the full state of all routes, including exhausted ones.
+- Simulates each visit in sequence order, chaining departure times.
+
+
+### `simulate_visit()`
+ 
+Simulates a single delivery visit. Time chain:
+ 
+```
+last_departure → arrival → signature → departure
+```
+ 
+| Step | Function | Range (config) |
+|---|---|---|
+| Transit | `assign_arrival_time` | `TRANSIT_MINUTES` |
+| At customer | `assign_signature_time` | `VISIT_MINUTES` |
+| Close & leave | `assign_departure_time` | `CLOSE_MINUTES` |
+ 
+Delivery outcome: 70% full delivery, 20% partial, 10% zero.
+Payment method: random `cash` or `card`.
+ 
+---
+ 
+## 4.2 Storage
+ 
+All storage is file-based, partitioned by date.
+ 
+**Cache** — tracks last processed `sequence` and `last_departure_time` per route:
+```
+{CACHE_DIR}/year=YYYY/month=MM/day=DD/YYYYMMDD_N_visit_list.json
+```
+ 
+**Events** — one file per simulation run:
+```
+{OUTPUT_DIR}/year=YYYY/month=MM/day=DD/YYYYMMDD_N_visit_events.json
+```
+ 
+Files are numbered sequentially (`N = 1, 2, 3...`). Sorting by `N` uses `int(f.stem.split("_")[1])` — not alphabetical — to avoid ordering bugs with numbers ≥ 10.
+ 
+---
+ 
+## 4.3 Endpoints
+ 
+| Method | Path | Description |
+|---|---|---|
+| `POST` | `/simulate/batch` | Run one simulation immediately. Returns generated events. |
+| `POST` | `/simulate/scheduler/start?interval_minutes=N` | Start scheduled runs every N minutes. |
+| `POST` | `/simulate/scheduler/stop` | Stop the scheduler without shutting down the server. |
+| `GET` | `/simulate/scheduler/status` | Returns `{active, next_run}`. |
+| `GET` | `/events` | Returns events from the most recent run. |
+ 
+The scheduler stops itself automatically when `run_simulation()` returns 0 events — all routes exhausted.
+ 
+---
+ 
+## 4.4 Run modes
+ 
+**Scheduler mode** (`run_scheduler.sh`) — simulates incrementally every N minutes, mimicking real-time delivery progress. Stops automatically when all routes are exhausted.
+ 
+```bash
+./run_scheduler.sh 30   # every 30 minutes
+./run_scheduler.sh 1    # every 1 minute (fast testing)
+```
+ 
+**Full day mode** (`run_full_day.sh`) — calls `/simulate/batch` in a loop until 0 events are returned, processing the entire day at once.
+ 
+```bash
+./run_full_day.sh
+```
+ 
+---
+ 
+## 4.5 Event schema (`VisitEvent`)
+ 
+| Field | Type | Description |
+|---|---|---|
+| `date` | `str` | Visit date |
+| `customer_id` | `str` | FK to `customer_master` |
+| `route_id` | `str` | Route identifier |
+| `order_id` | `str` | Order identifier |
+| `warehouse_code` | `str` | FK to `warehouse_master` |
+| `quantity` | `int` | Planned quantity |
+| `delivery_quantity` | `int \| None` | Actual delivered quantity |
+| `arrival_time` | `datetime \| None` | Time of arrival at customer |
+| `signature_time` | `datetime \| None` | Time of signature |
+| `departure_time` | `datetime \| None` | Time of departure |
+| `payment_method` | `cash \| card \| None` | Payment method used |
+ 
