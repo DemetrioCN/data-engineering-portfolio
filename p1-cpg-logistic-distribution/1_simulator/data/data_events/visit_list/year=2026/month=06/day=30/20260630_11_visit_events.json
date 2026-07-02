@@ -1,0 +1,28 @@
+[
+  {
+    "date": "2026-06-30 00:00:00",
+    "customer_id": "0016252582",
+    "route_id": "R-20260630-63",
+    "order_id": "2026063042062",
+    "warehouse_code": "CEDI-10",
+    "quantity": 380,
+    "delivery_quantity": 380,
+    "arrival_time": "2026-07-01T05:13:00",
+    "departure_time": "2026-07-01T05:35:00",
+    "signature_time": "2026-07-01T05:33:00",
+    "payment_method": "cash"
+  },
+  {
+    "date": "2026-06-30 00:00:00",
+    "customer_id": "0010124240",
+    "route_id": "R-20260630-63",
+    "order_id": "2026063067973",
+    "warehouse_code": "CEDI-11",
+    "quantity": 60,
+    "delivery_quantity": 60,
+    "arrival_time": "2026-07-01T05:45:00",
+    "departure_time": "2026-07-01T06:12:00",
+    "signature_time": "2026-07-01T06:10:00",
+    "payment_method": "card"
+  }
+]

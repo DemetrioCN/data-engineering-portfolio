@@ -1,0 +1,14 @@
+warehouse_id,warehouse_code,warehouse_name,lat,lon
+1,CEDI-01,CEDI-01 · Santiago de Queretaro,20.9794,-101.3182
+2,CEDI-02,CEDI-02 · Hermosillo,29.0377,-110.754
+3,CEDI-03,CEDI-03 · Villahermosa,17.4352,-93.3834
+4,CEDI-04,CEDI-04 · Puebla,19.2184,-99.0764
+5,CEDI-05,CEDI-05 · San Luis,32.3857,-116.2017
+6,CEDI-06,CEDI-06 · Merida,20.7285,-88.4851
+7,CEDI-07,CEDI-07 · Guadalupe,25.772,-100.0417
+8,CEDI-08,CEDI-08 · Guadalajara,20.4083,-103.6924
+9,CEDI-09,CEDI-09 · Chihuahua,29.4357,-106.0699
+10,CEDI-10,CEDI-10 · La Paz,24.1382,-109.2238
+11,CEDI-11,CEDI-11 · Victoria de Durango,24.1975,-104.3863
+12,CEDI-12,CEDI-12 · Veracruz,18.9114,-96.5512
+13,CEDI-13,CEDI-13 · Tampico,21.437,-97.8451

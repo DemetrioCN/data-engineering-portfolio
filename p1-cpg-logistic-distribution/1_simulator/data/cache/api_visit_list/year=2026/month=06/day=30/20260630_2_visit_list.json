@@ -1,0 +1,50 @@
+{
+  "R-20260630-20": {
+    "sequence": 8,
+    "last_departure_time": "2026-06-30T12:24:00"
+  },
+  "R-20260630-22": {
+    "sequence": 8,
+    "last_departure_time": "2026-06-30T12:14:00"
+  },
+  "R-20260630-27": {
+    "sequence": 8,
+    "last_departure_time": "2026-06-30T12:37:00"
+  },
+  "R-20260630-32": {
+    "sequence": 8,
+    "last_departure_time": "2026-06-30T12:22:00"
+  },
+  "R-20260630-36": {
+    "sequence": 8,
+    "last_departure_time": "2026-06-30T12:42:00"
+  },
+  "R-20260630-42": {
+    "sequence": 8,
+    "last_departure_time": "2026-06-30T12:04:00"
+  },
+  "R-20260630-52": {
+    "sequence": 8,
+    "last_departure_time": "2026-06-30T12:14:00"
+  },
+  "R-20260630-63": {
+    "sequence": 8,
+    "last_departure_time": "2026-06-30T12:07:00"
+  },
+  "R-20260630-70": {
+    "sequence": 8,
+    "last_departure_time": "2026-06-30T12:08:00"
+  },
+  "R-20260630-72": {
+    "sequence": 8,
+    "last_departure_time": "2026-06-30T11:55:00"
+  },
+  "R-20260630-80": {
+    "sequence": 8,
+    "last_departure_time": "2026-06-30T12:39:00"
+  },
+  "R-20260630-99": {
+    "sequence": 8,
+    "last_departure_time": "2026-06-30T12:02:00"
+  }
+}
