@@ -1,0 +1,23 @@
+# Entorno virtual
+env_log_dist/
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.pyc
+*.egg-info/
+
+# Terraform
+**/.terraform/*
+*.tfstate
+*.tfstate.*
+*.tfvars
+.terraform.lock.hcl
+
+# Databricks / secretos
+.databrickscfg
+.env
+
+# OS
+.DS_Store
