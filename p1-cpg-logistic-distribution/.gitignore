@@ -13,7 +13,6 @@ __pycache__/
 *.tfstate
 *.tfstate.*
 *.tfvars
-.terraform.lock.hcl
 
 # Databricks / secretos
 .databrickscfg
